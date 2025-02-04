@@ -350,9 +350,6 @@ class ScriptureReference:
         
         start_ref_str = f"{self.start_ref['bookCode']} {self.start_ref['startChapter']}:{self.start_ref['startVerse']}"
         end_ref_str = f"{self.end_ref['bookCode']} {self.end_ref['endChapter']}:{self.end_ref['endVerse']}"
-
-        print(start_ref_str)
-        print(end_ref_str)
         
         start_index = find_index(start_ref_str)
         end_index = find_index(end_ref_str)
@@ -360,7 +357,7 @@ class ScriptureReference:
         if start_index == -1 or end_index == -1:
             return []
         
-        return [[verses[i].replace(' ', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
+        return [[verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
 
     def extract_verses_from_usfm(self):
         input_directory = self.bible_filename  # Assuming bible_filename is now a directory path for USFM files
@@ -382,8 +379,8 @@ class ScriptureReference:
                         verse_text = re.sub(r'^\\v \d+ ', '', line)
                         verse_text = re.sub(r'\\(\w+) .*?\\\1\*', '', verse_text)  # Remove tags
                         verse_text = re.sub(r'[a-zA-Z\\]+', '', verse_text)  # Remove remaining Roman characters and backslashes
-                        formatted_verse = f"{book} {chapter}:{verse_number} {verse_text.strip()}"
-                        formatted_verse = [f"{book}_{chapter}:{verse_number}", verse_text.strip()]
+                        formatted_verse = f"{book} {chapter}_{verse_number} {verse_text.strip()}"
+                        formatted_verse = [f"{book}_{chapter}_{verse_number}", verse_text.strip()]
                         verses.append(formatted_verse)
         return verses
     
@@ -426,16 +423,15 @@ class ScriptureReference:
                         # Clean up the verse text
                         verse_text = ' '.join(verse_text.split())
 
-                        verse_ref = f"{book}_{chapter}:{verse_num}"
+                        verse_ref = f"{book}_{chapter}_{verse_num}"
                         verses.append([verse_ref, verse_text.strip()])
 
         return verses
 
 # Example usage:
-scripture_ref = ScriptureReference('luk 2:1', 'luk 2:8', "spa-spapddpt") #spa-spapddpt spa-spabes
-print("Verses between references:")
-for verse in scripture_ref.verses:
-    print(verse)
+# scripture_ref = ScriptureReference('luk 2:1', 'luk 2:2', "spa-spapddpt") #spa-spapddpt spa-spabes
+# for verse in scripture_ref.verses:
+#     print(verse)
 
 # scripture_ref = ScriptureReference("rev22:20", "rev22:21", 'C:/Users/caleb/Bible Translation Project/No code/Tamazight/text', 'usfm')
 # print("Verses from USFM:")
