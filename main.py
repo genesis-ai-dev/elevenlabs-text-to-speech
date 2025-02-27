@@ -90,21 +90,21 @@ def generate_bible_audio(start_ref, end_ref, config):
 # Example usage
 if __name__ == "__main__":
     config = {
-        'translation': 'jpn-jpn1965',
+        'translation': 'spa-spabes',
         'output_folder': 'audio',
-        'folder_name': 'luke_2_jpn',
+        'folder_name': 'luke_1_1-5_spabes',
         'filename_config': {
-            'prefix': 'bible',
-            'include_verse_name': True,
-            'include_uuid': False,
-            'suffix': 'jp'
+            'prefix': '',
+            'include_verse_name': False,
+            'include_uuid': True,
+            'suffix': ''
         },
         'voice': 'George'
     }
     
     csv_path, output_dir = generate_bible_audio(
-        'Luke 2:1',
-        'Luke 2:2',
+        'Luke 1:1',
+        'Luke 1:5',
         config
     )
     
