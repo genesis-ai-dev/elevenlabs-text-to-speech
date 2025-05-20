@@ -1,5 +1,7 @@
 from elevenlabs.client import ElevenLabs
 import os
+from pydub import AudioSegment
+import io
 
 def text_to_speech(input_text, output_path, voice="George", api_key=None):
     try:
@@ -14,11 +16,17 @@ def text_to_speech(input_text, output_path, voice="George", api_key=None):
         )
         
         # Get audio bytes from generator
-        audio_bytes = b"".join(audio)  # Add this line
+        audio_bytes = b"".join(audio)
         
-        # Save audio to file
-        with open(output_path, 'wb') as f:
-            f.write(audio_bytes)  # Changed from audio to audio_bytes
+        # Convert MP3 to M4A
+        audio_segment = AudioSegment.from_mp3(io.BytesIO(audio_bytes))
+        
+        # Ensure output path has .m4a extension
+        if not output_path.endswith('.m4a'):
+            output_path = os.path.splitext(output_path)[0] + '.m4a'
+            
+        # Export as M4A
+        audio_segment.export(output_path, format="mp4")
         print(f"Audio saved successfully to {output_path}")
         
     except Exception as e:
@@ -26,7 +34,7 @@ def text_to_speech(input_text, output_path, voice="George", api_key=None):
 
 def process_verses(verses_list, output_dir="audio", voice="George", api_key=None):
     """
-    Process a list of verse pairs [reference, text, filename] and create MP3 files.
+    Process a list of verse pairs [reference, text, filename] and create audio files.
     """
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)

@@ -429,9 +429,17 @@ class ScriptureReference:
         return verses
 
 # Example usage:
-# scripture_ref = ScriptureReference('luk 2:1', 'luk 2:2', "spa-spapddpt") #spa-spapddpt spa-spabes
+# scripture_ref = ScriptureReference('jn 1:1', 'jn 1:5', "eng-engwebp") #spa-spapddpt spa-spabes por-porbr2018
 # for verse in scripture_ref.verses:
 #     print(verse)
+
+# This returns the following:['JHN_1_1', 'No princípio era a Palavra, e a Palavra estava junto de Deus, e a Palavra era Deus.']
+# ['JHN_1_2', 'Esta estava no princípio junto de Deus.']
+# ['JHN_1_3', 'Por esta foram feitas todas as coisas, e sem ela não se fez coisa nenhuma do que foi feito.']
+# ['JHN_1_4', 'Nela estava a vida, e a vida era a luz dos seres humanos.']
+# ['JHN_1_5', 'E a luz brilha nas trevas; e as trevas não a compreenderam.']
+
+
 
 # scripture_ref = ScriptureReference("rev22:20", "rev22:21", 'C:/Users/caleb/Bible Translation Project/No code/Tamazight/text', 'usfm')
 # print("Verses from USFM:")

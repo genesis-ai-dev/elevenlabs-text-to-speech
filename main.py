@@ -22,9 +22,13 @@ def generate_filename(verse_ref, config):
     if config.get('suffix'):
         parts.append(str(config['suffix']))
     
-    # Join parts with underscore and add extension
+    # Join parts with underscore
     filename = '_'.join(filter(None, parts))  # filter(None) removes empty strings
-    return filename + '.mp3'
+    
+    # Add extension if show_filetype is True
+    if config.get('show_filetype', True):
+        return filename + '.m4a'
+    return filename
 
 def generate_bible_audio(start_ref, end_ref, config):
     """
@@ -61,25 +65,21 @@ def generate_bible_audio(start_ref, end_ref, config):
     verses_with_filenames = []
     for verse_ref, verse_text in scripture.verses:
         filename = generate_filename(verse_ref, config.get('filename_config', {}))
-        # Store filename without extension in CSV
-        csv_filename = os.path.splitext(filename)[0]
-        verses_with_filenames.append([verse_ref, verse_text, csv_filename])
+        # Store complete filename in verses_with_filenames
+        verses_with_filenames.append([verse_ref, verse_text, filename])
     
-    # Write CSV file
+    # Write CSV file - strip extension only for CSV
     csv_path = os.path.join(output_dir, f"{config.get('folder_name', timestamp)}.csv")
     with open(csv_path, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         writer.writerow(['Verse Reference', 'Text', 'Audio Filename'])
-        writer.writerows(verses_with_filenames)
+        # Strip extension only for CSV display
+        csv_rows = [[ref, text, os.path.splitext(filename)[0]] for ref, text, filename in verses_with_filenames]
+        writer.writerows(csv_rows)
     
-    # Generate audio files - add .mp3 extension back for processing
-    verses_for_processing = [
-        [verse_ref, text, filename + '.mp3'] 
-        for verse_ref, text, filename in verses_with_filenames
-    ]
-    
+    # Pass the filenames with extensions directly to processing
     process_verses(
-        verses_for_processing,
+        verses_with_filenames,
         output_dir=output_dir,
         voice=config.get('voice', os.getenv('DEFAULT_VOICE')),
         api_key=os.getenv('ELEVENLABS_API_KEY')
@@ -92,12 +92,13 @@ if __name__ == "__main__":
     config = {
         'translation': 'spa-spabes',
         'output_folder': 'audio',
-        'folder_name': 'luke_1_1-5_spabes',
+        'folder_name': 'luke_1_1-5_spabes_m4a',
         'filename_config': {
             'prefix': '',
             'include_verse_name': False,
             'include_uuid': True,
-            'suffix': ''
+            'suffix': '',
+            'show_filetype': True
         },
         'voice': 'George'
     }
