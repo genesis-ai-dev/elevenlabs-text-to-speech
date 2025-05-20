@@ -21,6 +21,7 @@
         {
           "name": "Psalm 51:10-17",
           "description": "Song",
+          "additional_tags": ["Story:1"],
           "verse_ranges": [
             ["Ps 51:10", "Ps 51:17"]
           ]
@@ -28,6 +29,7 @@
         {
           "name": "Psalm 51:17-19",
           "description": "Song2",
+          "additional_tags": ["Story:2"],
           "verse_ranges": [
             ["Ps 51:17", "Ps 51:19"]
           ]

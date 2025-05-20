@@ -4,6 +4,9 @@ import json
 from dotenv import load_dotenv
 from supabase import create_client, Client
 from ScriptureReference import ScriptureReference  # your class for pulling verses
+from datetime import datetime, timezone
+import argparse
+import sys
 
 def get_supabase_client():
     load_dotenv()
@@ -85,9 +88,39 @@ def get_or_create_tag(sb: Client, cache: dict, tag_name: str):
     return tag_id
 
 def main():
+    parser = argparse.ArgumentParser(description="Upload or delete quests in Supabase")
+    parser.add_argument('--delete', action='store_true', help='Delete records instead of upserting')
+    args = parser.parse_args()
     sb = get_supabase_client()
-    with open('test_quests.json', encoding='utf-8') as f:
+    with open('gods_story_quests.json', encoding='utf-8') as f:
         data = json.load(f)
+
+    if args.delete:
+        for proj in data['projects']:
+            presp = sb.table('project').select('id').eq('name', proj['name']).execute()
+            if not presp.data:
+                continue
+            project_id = presp.data[0]['id']
+            for quest in proj['quests']:
+                qresp = sb.table('quest').select('id').eq('name', quest['name']).eq('project_id', project_id).execute()
+                if not qresp.data:
+                    continue
+                quest_id = qresp.data[0]['id']
+                # delete quest-level tag links
+                sb.table('quest_tag_link').delete().eq('quest_id', quest_id).execute()
+                # delete quest-asset links and related assets
+                alinks = sb.table('quest_asset_link').select('asset_id').eq('quest_id', quest_id).execute()
+                asset_ids = [r['asset_id'] for r in alinks.data]
+                sb.table('quest_asset_link').delete().eq('quest_id', quest_id).execute()
+                for asset_id in asset_ids:
+                    sb.table('asset_content_link').delete().eq('asset_id', asset_id).execute()
+                    sb.table('asset_tag_link').delete().eq('asset_id', asset_id).execute()
+                    sb.table('asset').delete().eq('id', asset_id).execute()
+                # delete quest
+                sb.table('quest').delete().eq('id', quest_id).execute()
+            # delete project
+            sb.table('project').delete().eq('id', project_id).execute()
+        return
 
     # 1. Languages
     lang_map = {}
@@ -129,12 +162,21 @@ def main():
 
             # 3. Assets & Content & Quest-Asset Links & Asset Tags
             for start_ref, end_ref in quest.get('verse_ranges', []):
+                #print what we're about to do
+                print(f"Processing {start_ref} to {end_ref}")
                 sr = ScriptureReference(start_ref, end_ref, "eng-engwebp")
                 for verse_ref, verse_text in sr.verses:
+                    # Format reference
+                    book_code, chapter, verse = verse_ref.split('_', 2)
+                    formatted_book = book_code.title()
+                    formatted_name = f"{formatted_book} {chapter}:{verse}"
+                    all_books.add(formatted_book)
+                    all_chapters.add(chapter)
+
                     # Check if asset exists
                     aresp = sb.table('asset') \
                         .select('id') \
-                        .eq('name', verse_ref) \
+                        .eq('name', formatted_name) \
                         .eq('source_language_id', lang_map[proj['source_language_english_name']]) \
                         .execute()
                     
@@ -144,8 +186,9 @@ def main():
                         # If not exists, insert
                         aresp = sb.table('asset') \
                             .insert({
-                                'name': verse_ref,
-                                'source_language_id': lang_map[proj['source_language_english_name']]
+                                'name': formatted_name,
+                                'source_language_id': lang_map[proj['source_language_english_name']],
+                                'created_at': datetime.now(timezone.utc).isoformat()
                             }, returning='representation') \
                             .execute()
                         asset_id = aresp.data[0]['id']
@@ -166,14 +209,9 @@ def main():
                         }) \
                         .execute()
 
-                    # Parse tags from verse_ref: e.g. "GEN_1_1"
-                    book_code, chapter, verse = verse_ref.split('_', 2)
-                    all_books.add(book_code)
-                    all_chapters.add(chapter)
-
                     # Asset-level tags: book, chapter, verse
                     for tag_name in (
-                        f"book:{book_code}",
+                        f"book:{formatted_book}",
                         f"chapter:{chapter}",
                         f"verse:{verse}"
                     ):
@@ -199,6 +237,13 @@ def main():
                     sb.table('quest_tag_link') \
                         .upsert({'quest_id': quest_id, 'tag_id': cid}) \
                         .execute()
+
+            # Additional quest tags
+            for tag_name in quest.get('additional_tags', []):
+                tag_id = get_or_create_tag(sb, tag_cache, tag_name)
+                sb.table('quest_tag_link') \
+                    .upsert({'quest_id': quest_id, 'tag_id': tag_id}) \
+                    .execute()
 
 if __name__ == "__main__":
     main()
