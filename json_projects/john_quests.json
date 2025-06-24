@@ -1,0 +1,171 @@
+{
+  "languages": [
+    {
+      "native_name": "Yanomami",
+      "english_name": "Yanomami",
+      "iso639_3": "yrl",
+      "locale": "yrl",
+      "ui_ready": false
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "O Evangelho segundo João",
+      "description": "Traduzir o Evangelho de João para Yanomami, capítulo por capítulo.",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+
+      "quests": [
+        {
+          "name": "João Capítulo 1",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 1:1", "Jn 1:51"]
+          ]
+        },
+        {
+          "name": "João Capítulo 2",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 2:1", "Jn 2:25"]
+          ]
+        },
+        {
+          "name": "João Capítulo 3",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 3:1", "Jn 3:36"]
+          ]
+        },
+        {
+          "name": "João Capítulo 4",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 4:1", "Jn 4:54"]
+          ]
+        },
+        {
+          "name": "João Capítulo 5",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 5:1", "Jn 5:47"]
+          ]
+        },
+        {
+          "name": "João Capítulo 6",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 6:1", "Jn 6:71"]
+          ]
+        },
+        {
+          "name": "João Capítulo 7",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 7:1", "Jn 7:53"]
+          ]
+        },
+        {
+          "name": "João Capítulo 8",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 8:1", "Jn 8:59"]
+          ]
+        },
+        {
+          "name": "João Capítulo 9",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 9:1", "Jn 9:41"]
+          ]
+        },
+        {
+          "name": "João Capítulo 10",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 10:1", "Jn 10:42"]
+          ]
+        },
+        {
+          "name": "João Capítulo 11",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 11:1", "Jn 11:57"]
+          ]
+        },
+        {
+          "name": "João Capítulo 12",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 12:1", "Jn 12:50"]
+          ]
+        },
+        {
+          "name": "João Capítulo 13",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 13:1", "Jn 13:38"]
+          ]
+        },
+        {
+          "name": "João Capítulo 14",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 14:1", "Jn 14:31"]
+          ]
+        },
+        {
+          "name": "João Capítulo 15",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 15:1", "Jn 15:27"]
+          ]
+        },
+        {
+          "name": "João Capítulo 16",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 16:1", "Jn 16:33"]
+          ]
+        },
+        {
+          "name": "João Capítulo 17",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 17:1", "Jn 17:26"]
+          ]
+        },
+        {
+          "name": "João Capítulo 18",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 18:1", "Jn 18:40"]
+          ]
+        },
+        {
+          "name": "João Capítulo 19",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 19:1", "Jn 19:42"]
+          ]
+        },
+        {
+          "name": "João Capítulo 20",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 20:1", "Jn 20:31"]
+          ]
+        },
+        {
+          "name": "João Capítulo 21",
+          "description": "",
+          "verse_ranges": [
+            ["Jn 21:1", "Jn 21:25"]
+          ]
+        }
+      ]
+    }
+  ]
+} 

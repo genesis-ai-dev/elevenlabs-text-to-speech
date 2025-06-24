@@ -1,0 +1,268 @@
+{
+  "book_names": {
+    "GEN": {
+      "en": "Gen",
+      "pt-BR": "Gn"
+    },
+    "EXO": {
+      "en": "Ex",
+      "pt-BR": "Êx"
+    },
+    "LEV": {
+      "en": "Lev",
+      "pt-BR": "Lv"
+    },
+    "NUM": {
+      "en": "Num",
+      "pt-BR": "Nm"
+    },
+    "DEU": {
+      "en": "Deut",
+      "pt-BR": "Dt"
+    },
+    "JOS": {
+      "en": "Josh",
+      "pt-BR": "Js"
+    },
+    "JDG": {
+      "en": "Judg",
+      "pt-BR": "Jz"
+    },
+    "RUT": {
+      "en": "Ruth",
+      "pt-BR": "Rt"
+    },
+    "1SA": {
+      "en": "1Sam",
+      "pt-BR": "1Sm"
+    },
+    "2SA": {
+      "en": "2Sam",
+      "pt-BR": "2Sm"
+    },
+    "1KI": {
+      "en": "1Kings",
+      "pt-BR": "1Rs"
+    },
+    "2KI": {
+      "en": "2Kings",
+      "pt-BR": "2Rs"
+    },
+    "1CH": {
+      "en": "1Chr",
+      "pt-BR": "1Cr"
+    },
+    "2CH": {
+      "en": "2Chr",
+      "pt-BR": "2Cr"
+    },
+    "EZR": {
+      "en": "Ezra",
+      "pt-BR": "Ed"
+    },
+    "NEH": {
+      "en": "Neh",
+      "pt-BR": "Ne"
+    },
+    "EST": {
+      "en": "Esth",
+      "pt-BR": "Et"
+    },
+    "JOB": {
+      "en": "Job",
+      "pt-BR": "Jó"
+    },
+    "PSA": {
+      "en": "Ps",
+      "pt-BR": "Sl"
+    },
+    "PRO": {
+      "en": "Prov",
+      "pt-BR": "Pv"
+    },
+    "ECC": {
+      "en": "Eccl",
+      "pt-BR": "Ec"
+    },
+    "SNG": {
+      "en": "Song",
+      "pt-BR": "Ct"
+    },
+    "ISA": {
+      "en": "Isa",
+      "pt-BR": "Is"
+    },
+    "JER": {
+      "en": "Jer",
+      "pt-BR": "Jr"
+    },
+    "LAM": {
+      "en": "Lam",
+      "pt-BR": "Lm"
+    },
+    "EZK": {
+      "en": "Ezek",
+      "pt-BR": "Ez"
+    },
+    "DAN": {
+      "en": "Dan",
+      "pt-BR": "Dn"
+    },
+    "HOS": {
+      "en": "Hos",
+      "pt-BR": "Os"
+    },
+    "JOL": {
+      "en": "Joel",
+      "pt-BR": "Jl"
+    },
+    "AMO": {
+      "en": "Amos",
+      "pt-BR": "Am"
+    },
+    "OBA": {
+      "en": "Obad",
+      "pt-BR": "Ob"
+    },
+    "JON": {
+      "en": "Jonah",
+      "pt-BR": "Jn"
+    },
+    "MIC": {
+      "en": "Mic",
+      "pt-BR": "Mq"
+    },
+    "NAM": {
+      "en": "Nah",
+      "pt-BR": "Na"
+    },
+    "HAB": {
+      "en": "Hab",
+      "pt-BR": "Hc"
+    },
+    "ZEP": {
+      "en": "Zeph",
+      "pt-BR": "Sf"
+    },
+    "HAG": {
+      "en": "Hag",
+      "pt-BR": "Ag"
+    },
+    "ZEC": {
+      "en": "Zech",
+      "pt-BR": "Zc"
+    },
+    "MAL": {
+      "en": "Mal",
+      "pt-BR": "Ml"
+    },
+    "MAT": {
+      "en": "Matt",
+      "pt-BR": "Mt"
+    },
+    "MRK": {
+      "en": "Mark",
+      "pt-BR": "Mc"
+    },
+    "LUK": {
+      "en": "Luke",
+      "pt-BR": "Lc"
+    },
+    "JHN": {
+      "en": "John",
+      "pt-BR": "Jo"
+    },
+    "ACT": {
+      "en": "Acts",
+      "pt-BR": "At"
+    },
+    "ROM": {
+      "en": "Rom",
+      "pt-BR": "Rm"
+    },
+    "1CO": {
+      "en": "1Cor",
+      "pt-BR": "1Co"
+    },
+    "2CO": {
+      "en": "2Cor",
+      "pt-BR": "2Co"
+    },
+    "GAL": {
+      "en": "Gal",
+      "pt-BR": "Gl"
+    },
+    "EPH": {
+      "en": "Eph",
+      "pt-BR": "Ef"
+    },
+    "PHP": {
+      "en": "Phil",
+      "pt-BR": "Fp"
+    },
+    "COL": {
+      "en": "Col",
+      "pt-BR": "Cl"
+    },
+    "1TH": {
+      "en": "1Thess",
+      "pt-BR": "1Ts"
+    },
+    "2TH": {
+      "en": "2Thess",
+      "pt-BR": "2Ts"
+    },
+    "1TI": {
+      "en": "1Tim",
+      "pt-BR": "1Tm"
+    },
+    "2TI": {
+      "en": "2Tim",
+      "pt-BR": "2Tm"
+    },
+    "TIT": {
+      "en": "Titus",
+      "pt-BR": "Tt"
+    },
+    "PHM": {
+      "en": "Phlm",
+      "pt-BR": "Fm"
+    },
+    "HEB": {
+      "en": "Heb",
+      "pt-BR": "Hb"
+    },
+    "JAS": {
+      "en": "James",
+      "pt-BR": "Tg"
+    },
+    "1PE": {
+      "en": "1Pet",
+      "pt-BR": "1Pe"
+    },
+    "2PE": {
+      "en": "2Pet",
+      "pt-BR": "2Pe"
+    },
+    "1JN": {
+      "en": "1John",
+      "pt-BR": "1Jo"
+    },
+    "2JN": {
+      "en": "2John",
+      "pt-BR": "2Jo"
+    },
+    "3JN": {
+      "en": "3John",
+      "pt-BR": "3Jo"
+    },
+    "JUD": {
+      "en": "Jude",
+      "pt-BR": "Jd"
+    },
+    "REV": {
+      "en": "Rev",
+      "pt-BR": "Ap"
+    }
+  }
+} 

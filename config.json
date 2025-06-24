@@ -1,0 +1,24 @@
+{
+  "project_file": "json_projects/john_quests_ch_1.json",
+  
+  "scripture_reference": {
+    "bible_filename": "source_texts/brazilian_portuguese_translation_5.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  
+  "audio_generation": {
+    "enabled": true,
+    "voice_id": "dX7gRq1dIvLTgUaWpEFn"
+  },
+  
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "pt-BR"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

@@ -274,14 +274,17 @@ book_codes = {
 
 class ScriptureReference:
     
-    def __init__(self, start_ref, end_ref=None, bible_filename='eng-engwmbb', source_type='ebible', versification='eng'):
+    def __init__(self, start_ref, end_ref=None, bible_filename='eng-engwmbb', source_type='ebible', versification='eng', show_line_numbers=False):
         self.start_ref = self.parse_scripture_reference(start_ref)
         self.end_ref = self.parse_scripture_reference(end_ref) if end_ref else self.start_ref
         self.bible_filename = bible_filename
         self.source_type = source_type
         self.versification = versification
+        self.show_line_numbers = show_line_numbers
         if source_type == 'ebible':
             self.bible_url = f"https://raw.githubusercontent.com/BibleNLP/ebible/refs/heads/main/corpus/{bible_filename}.txt" 
+            self.verses = self.get_verses_between_refs()
+        elif source_type == 'local_ebible':
             self.verses = self.get_verses_between_refs()
         elif source_type == 'usfm':
             self.verses = self.extract_verses_from_usfm()
@@ -331,11 +334,21 @@ class ScriptureReference:
             return verses
 
     def load_bible_text(self):
-        response = requests.get(self.bible_url)
-        if response.status_code == 200:
-            return response.text.splitlines()
+        if self.source_type == 'local_ebible':
+            # For local eBible files, bible_filename should be the path to the local .txt file
+            try:
+                with open(self.bible_filename, 'r', encoding='utf-8') as file:
+                    return file.read().splitlines()
+            except FileNotFoundError:
+                print(f"Error: Local eBible file not found at {self.bible_filename}")
+                return []
         else:
-            return []
+            # Original online eBible functionality
+            response = requests.get(self.bible_url)
+            if response.status_code == 200:
+                return response.text.splitlines()
+            else:
+                return []
 
     
     def get_verses_between_refs(self):
@@ -357,7 +370,10 @@ class ScriptureReference:
         if start_index == -1 or end_index == -1:
             return []
         
-        return [[verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
+        if self.show_line_numbers:
+            return [[i + 1, verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
+        else:
+            return [[verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
 
     def extract_verses_from_usfm(self):
         input_directory = self.bible_filename  # Assuming bible_filename is now a directory path for USFM files
@@ -457,3 +473,21 @@ class ScriptureReference:
 # scripture_ref = ScriptureReference("gen 1:1", "gen 1:5", 'C:/Users/caleb/Downloads/SPAWTC_palabra_de_dios_para_todos_text/content/chapters', 'xhtml').verses
 # print("Verses from XHTML:")
 # [print(verse) for verse in scripture_ref]
+
+# Example usage with local eBible file:
+# scripture_ref = ScriptureReference('jn 1:1', 'jn 1:51', 'brazilian_portuguese_translation_4.txt', 'local_ebible')
+# print("Verses from local eBible file:")
+# for verse in scripture_ref.verses:
+#     print(verse)
+
+# Example with line numbers:
+# scripture_ref_with_lines = ScriptureReference('1ki 5:4', bible_filename='brazilian_portuguese_translation_4_corrected.txt', source_type='local_ebible', show_line_numbers=True)
+# print("\nVerses from local eBible file with line numbers:")
+# for verse in scripture_ref_with_lines.verses:
+#     print(verse)
+
+# Example with absolute path on Windows:
+# scripture_ref = ScriptureReference('mat 5:1', 'mat 5:10', 'C:/Users/caleb/Downloads/eng-engwebp.txt', 'local_ebible')
+# print("Verses from local eBible file (Windows path):")
+# for verse in scripture_ref.verses:
+#     print(verse)

@@ -1,0 +1,308 @@
+{
+  "languages": [
+    {
+      "native_name": "Afrikaans",
+      "english_name": "Afrikaans",
+      "iso639_3": "afr",
+      "locale": "af-ZA",
+      "ui_ready": false
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "God's Story",
+      "description": "Translate selected passages from the Bible into Afrikaans.",
+      "source_language_english_name": "English",
+      "target_language_english_name": "Afrikaans",
+      "private": false,
+
+      "quests": [
+        {
+          "name": "Creation Of The Seen World",
+          "description": "Genesis 1-2",
+          "additional_tags": ["Story:1"],
+          "verse_ranges": [
+            ["Gen 1:1", "Gen 2:25"]
+          ]
+        },
+        {
+          "name": "Creation Of The Unseen World",
+          "description": "The spiritual realm",
+          "additional_tags": ["Story:2"],
+          "verse_ranges": []
+        },
+        {
+          "name": "The Fall",
+          "description": "Genesis 2:15-25, 3",
+          "additional_tags": ["Story:3"],
+          "verse_ranges": [
+            ["Gen 2:15", "Gen 3:24"]
+          ]
+        },
+        {
+          "name": "Abraham's Promise",
+          "description": "Genesis 5-21",
+          "additional_tags": ["Story:4"],
+          "verse_ranges": [
+            ["Gen 15:1", "Gen 21:34"]
+          ]
+        },
+        {
+          "name": "Abraham Tested",
+          "description": "Genesis 22:1-19",
+          "additional_tags": ["Story:5"],
+          "verse_ranges": [
+            ["Gen 22:1", "Gen 22:19"]
+          ]
+        },
+        {
+          "name": "Joseph In Jail",
+          "description": "Genesis 37, 39, 40",
+          "additional_tags": ["Story:6"],
+          "verse_ranges": [
+            ["Gen 37:1", "Gen 37:36"],
+            ["Gen 39:1", "Gen 39:23"],
+            ["Gen 40:1", "Gen 40:23"]
+          ]
+        },
+        {
+          "name": "Joseph In The Palace",
+          "description": "Genesis 41-45",
+          "additional_tags": ["Story:7"],
+          "verse_ranges": [
+            ["Gen 41:1", "Gen 45:28"]
+          ]
+        },
+        {
+          "name": "The Israelites Oppressed - The Birth Of Moses",
+          "description": "Exodus 1, 2",
+          "additional_tags": ["Story:8"],
+          "verse_ranges": [
+            ["Ex 1:1", "Ex 2:25"]
+          ]
+        },
+        {
+          "name": "Moses Rescues Israel - The Burning Bush",
+          "description": "Exodus 3-14",
+          "additional_tags": ["Story:9"],
+          "verse_ranges": [
+            ["Ex 3:1", "Ex 14:31"]
+          ]
+        },
+        {
+          "name": "David And His Mighty Men",
+          "description": "2 Samuel",
+          "additional_tags": ["Story:10"],
+          "verse_ranges": [
+            ["2Sam 23:8", "2Sam 23:39"]
+          ]
+        },
+        {
+          "name": "The Promise",
+          "description": "2 Samuel 7",
+          "additional_tags": ["Story:11"],
+          "verse_ranges": [
+            ["2Sam 7:1", "2Sam 7:29"]
+          ]
+        },
+        {
+          "name": "David And Bathsheba",
+          "description": "2 Samuel 11",
+          "additional_tags": ["Story:12"],
+          "verse_ranges": [
+            ["2Sam 11:1", "2Sam 11:27"]
+          ]
+        },
+        {
+          "name": "David & The Lamb - David's Son Dies",
+          "description": "2 Samuel 12",
+          "additional_tags": ["Story:13"],
+          "verse_ranges": [
+            ["2Sam 12:1", "2Sam 12:25"]
+          ]
+        },
+        {
+          "name": "Victory at Rabah",
+          "description": "2 Samuel 12:26-29",
+          "additional_tags": ["Story:14"],
+          "verse_ranges": [
+            ["2Sam 12:26", "2Sam 12:29"]
+          ]
+        },
+        {
+          "name": "Psalm 51:10-17",
+          "description": "Song",
+          "additional_tags": ["Story:15"],
+          "verse_ranges": [
+            ["Ps 51:10", "Ps 51:17"]
+          ]
+        },
+        {
+          "name": "Jonah",
+          "description": "Jonah 1-4",
+          "additional_tags": ["Story:16"],
+          "verse_ranges": [
+            ["Jon 1:1", "Jon 4:11"]
+          ]
+        },
+        {
+          "name": "Daniel & The Lions Den",
+          "description": "Daniel 6",
+          "additional_tags": ["Story:17"],
+          "verse_ranges": [
+            ["Dan 6:1", "Dan 6:28"]
+          ]
+        },
+        {
+          "name": "The Birth Of Jesus",
+          "description": "Luke 2:1-20",
+          "additional_tags": ["Story:18"],
+          "verse_ranges": [
+            ["Lk 2:1", "Lk 2:20"]
+          ]
+        },
+        {
+          "name": "The Baptism Of Jesus",
+          "description": "Mark 1:1-7",
+          "additional_tags": ["Story:19"],
+          "verse_ranges": [
+            ["Mk 1:1", "Mk 1:7"]
+          ]
+        },
+        {
+          "name": "The Temptation Of Jesus",
+          "description": "Matthew 4:1-11",
+          "additional_tags": ["Story:20"],
+          "verse_ranges": [
+            ["Mt 4:1", "Mt 4:11"]
+          ]
+        },
+        {
+          "name": "Jesus Heals The Paralytic",
+          "description": "Luke 5:17-26, Mark 2:1-12",
+          "additional_tags": ["Story:21"],
+          "verse_ranges": [
+            ["Lk 5:17", "Lk 5:26"],
+            ["Mk 2:1", "Mk 2:12"]
+          ]
+        },
+        {
+          "name": "Demon Possessed Gaderene",
+          "description": "Luke 8:22-39",
+          "additional_tags": ["Story:22"],
+          "verse_ranges": [
+            ["Lk 8:22", "Lk 8:39"]
+          ]
+        },
+        {
+          "name": "The Good Samaritan",
+          "description": "Luke 8:22-39",
+          "additional_tags": ["Story:23"],
+          "verse_ranges": [
+            ["Lk 10:25", "Lk 10:37"]
+          ]
+        },
+        {
+          "name": "The Prodigal Son",
+          "description": "Luke 15:11-31",
+          "additional_tags": ["Story:24"],
+          "verse_ranges": [
+            ["Lk 15:11", "Lk 15:31"]
+          ]
+        },
+        {
+          "name": "Jesus & Zacchaeus",
+          "description": "Luke 19:1-10",
+          "additional_tags": ["Story:25"],
+          "verse_ranges": [
+            ["Lk 19:1", "Lk 19:10"]
+          ]
+        },
+        {
+          "name": "Jesus On Trial",
+          "description": "Matthew 26-27, Luke 22-23, Mark 14-15",
+          "additional_tags": ["Story:26"],
+          "verse_ranges": [
+            ["Mt 26:1", "Mt 27:66"],
+            ["Lk 22:1", "Lk 23:56"],
+            ["Mk 14:1", "Mk 15:47"]
+          ]
+        },
+        {
+          "name": "Jesus' Crucifixion",
+          "description": "Matthew 27:27-61, Mark 15:16-47",
+          "additional_tags": ["Story:27"],
+          "verse_ranges": [
+            ["Mt 27:27", "Mt 27:61"],
+            ["Mk 15:16", "Mk 15:47"]
+          ]
+        },
+        {
+          "name": "Jesus' Resurrection",
+          "description": "Acts 1",
+          "additional_tags": ["Story:28"],
+          "verse_ranges": [
+            ["Acts 1:1", "Acts 1:26"]
+          ]
+        },
+        {
+          "name": "Jesus Appears To His Disciples",
+          "description": "Luke 24:36-53",
+          "verse_ranges": [
+            ["Lk 24:36", "Lk 24:53"]
+          ]
+        },
+        {
+          "name": "The Promised Holy Spirit",
+          "description": "Acts 2:1-47",
+          "additional_tags": ["Story:29"],
+          "verse_ranges": [
+            ["Acts 2:1", "Acts 2:47"]
+          ]
+        },
+        {
+          "name": "Stephen's Death",
+          "description": "Acts 6-7",
+          "additional_tags": ["Story:30"],
+          "verse_ranges": [
+            ["Acts 6:1", "Acts 7:60"]
+          ]
+        },
+        {
+          "name": "The Conversion Of Paul",
+          "description": "Acts 7-9",
+          "additional_tags": ["Story:31"],
+          "verse_ranges": [
+            ["Acts 7:54", "Acts 9:31"]
+          ]
+        },
+        {
+          "name": "Peter & Cornelius",
+          "description": "Acts 10",
+          "additional_tags": ["Story:32"],
+          "verse_ranges": [
+            ["Acts 10:1", "Acts 10:48"]
+          ]
+        },
+        {
+          "name": "Macedonian Call",
+          "description": "Acts 15:36-41, 16:1-40",
+          "additional_tags": ["Story:33"],
+          "verse_ranges": [
+            ["Acts 15:36", "Acts 15:41"],
+            ["Acts 16:1", "Acts 16:40"]
+          ]
+        },
+        {
+          "name": "New Heaven & Earth",
+          "description": "Revelation 21:1-8",
+          "additional_tags": ["Story:34"],
+          "verse_ranges": [
+            ["Rev 21:1", "Rev 21:8"]
+          ]
+        }
+      ]
+    }
+  ]
+}

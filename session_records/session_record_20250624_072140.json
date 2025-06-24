@@ -1,0 +1,84 @@
+{
+  "timestamp": "20250624_072140",
+  "languages": [],
+  "projects": [],
+  "quests": [],
+  "assets": [
+    {
+      "id": "f2d917bc-885d-4528-b27b-597484d8acf7",
+      "name": "Jo 1:1"
+    },
+    {
+      "id": "2375d668-f0fa-462b-b86e-6b7d972dee39",
+      "name": "Jo 1:2"
+    }
+  ],
+  "asset_content_links": [
+    {
+      "id": "29337497-aee7-4b32-a18a-e87f5356c3fd",
+      "asset_id": "f2d917bc-885d-4528-b27b-597484d8acf7"
+    },
+    {
+      "id": "05b8cafd-2a85-4b99-bacf-9142403c42ee",
+      "asset_id": "2375d668-f0fa-462b-b86e-6b7d972dee39"
+    }
+  ],
+  "quest_asset_links": [
+    {
+      "id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407_f2d917bc-885d-4528-b27b-597484d8acf7",
+      "quest_id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407",
+      "asset_id": "f2d917bc-885d-4528-b27b-597484d8acf7"
+    },
+    {
+      "id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407_2375d668-f0fa-462b-b86e-6b7d972dee39",
+      "quest_id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407",
+      "asset_id": "2375d668-f0fa-462b-b86e-6b7d972dee39"
+    }
+  ],
+  "asset_tag_links": [
+    {
+      "id": "f2d917bc-885d-4528-b27b-597484d8acf7_0eb017b4-8d31-49c2-9331-cbe9484b479d",
+      "asset_id": "f2d917bc-885d-4528-b27b-597484d8acf7",
+      "tag_id": "0eb017b4-8d31-49c2-9331-cbe9484b479d"
+    },
+    {
+      "id": "f2d917bc-885d-4528-b27b-597484d8acf7_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "asset_id": "f2d917bc-885d-4528-b27b-597484d8acf7",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    },
+    {
+      "id": "f2d917bc-885d-4528-b27b-597484d8acf7_5ba1b668-99d8-459b-b7a8-3447b6ebc831",
+      "asset_id": "f2d917bc-885d-4528-b27b-597484d8acf7",
+      "tag_id": "5ba1b668-99d8-459b-b7a8-3447b6ebc831"
+    },
+    {
+      "id": "2375d668-f0fa-462b-b86e-6b7d972dee39_0eb017b4-8d31-49c2-9331-cbe9484b479d",
+      "asset_id": "2375d668-f0fa-462b-b86e-6b7d972dee39",
+      "tag_id": "0eb017b4-8d31-49c2-9331-cbe9484b479d"
+    },
+    {
+      "id": "2375d668-f0fa-462b-b86e-6b7d972dee39_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "asset_id": "2375d668-f0fa-462b-b86e-6b7d972dee39",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    },
+    {
+      "id": "2375d668-f0fa-462b-b86e-6b7d972dee39_70372ef7-d4ec-4877-bc99-6e9d80d0ab7f",
+      "asset_id": "2375d668-f0fa-462b-b86e-6b7d972dee39",
+      "tag_id": "70372ef7-d4ec-4877-bc99-6e9d80d0ab7f"
+    }
+  ],
+  "quest_tag_links": [],
+  "tags": [],
+  "audio_files": [
+    {
+      "id": "content/JHN_1_1_9547916f-16cc-413e-8a31-0c6cd4a280f8.m4a",
+      "bucket": "assets",
+      "path": "content/JHN_1_1_9547916f-16cc-413e-8a31-0c6cd4a280f8.m4a"
+    },
+    {
+      "id": "content/JHN_1_2_5bc58066-d88f-426a-9203-50289d4bb7b6.m4a",
+      "bucket": "assets",
+      "path": "content/JHN_1_2_5bc58066-d88f-426a-9203-50289d4bb7b6.m4a"
+    }
+  ]
+}

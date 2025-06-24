@@ -16,6 +16,27 @@ def get_supabase_client():
         raise RuntimeError("Set SUPABASE_URL and SUPABASE_KEY in your .env")
     return create_client(url, key)
 
+def load_book_names():
+    """Load book name translations from book_names.json"""
+    try:
+        with open('book_names.json', encoding='utf-8') as f:
+            return json.load(f)['book_names']
+    except FileNotFoundError:
+        print("Warning: book_names.json not found. Using default English names.")
+        return {}
+
+def get_localized_book_name(book_code, language, book_names_data):
+    """Get the localized book name for a given book code and language"""
+    if book_code in book_names_data:
+        # Map source language names to locale codes
+        lang_map = {
+            'English': 'en',
+            'Brazilian Portuguese': 'pt-BR'
+        }
+        locale = lang_map.get(language, 'en')
+        return book_names_data[book_code].get(locale, book_code.title())
+    return book_code.title()
+
 def upsert_language(sb: Client, lang):
     """Upsert a language and return its ID."""
     # Check if language exists
@@ -90,9 +111,14 @@ def get_or_create_tag(sb: Client, cache: dict, tag_name: str):
 def main():
     parser = argparse.ArgumentParser(description="Upload or delete quests in Supabase")
     parser.add_argument('--delete', action='store_true', help='Delete records instead of upserting')
+    parser.add_argument('--json-file', default='gods_story_quests.json', help='JSON file to process (default: gods_story_quests.json)')
     args = parser.parse_args()
     sb = get_supabase_client()
-    with open('gods_story_quests.json', encoding='utf-8') as f:
+    
+    # Load book names translations
+    book_names_data = load_book_names()
+    
+    with open(args.json_file, encoding='utf-8') as f:
         data = json.load(f)
 
     if args.delete:
@@ -164,11 +190,11 @@ def main():
             for start_ref, end_ref in quest.get('verse_ranges', []):
                 #print what we're about to do
                 print(f"Processing {start_ref} to {end_ref}")
-                sr = ScriptureReference(start_ref, end_ref, "eng-engwebp")
+                sr = ScriptureReference(start_ref, end_ref, 'brazilian_portuguese_translation_4.txt', 'local_ebible')
                 for verse_ref, verse_text in sr.verses:
                     # Format reference
                     book_code, chapter, verse = verse_ref.split('_', 2)
-                    formatted_book = book_code.title()
+                    formatted_book = get_localized_book_name(book_code, proj['source_language_english_name'], book_names_data)
                     formatted_name = f"{formatted_book} {chapter}:{verse}"
                     all_books.add(formatted_book)
                     all_chapters.add(chapter)
@@ -211,9 +237,9 @@ def main():
 
                     # Asset-level tags: book, chapter, verse
                     for tag_name in (
-                        f"book:{formatted_book}",
-                        f"chapter:{chapter}",
-                        f"verse:{verse}"
+                        f"livro:{formatted_book}",
+                        f"capítulo:{chapter}",
+                        f"versículo:{verse}"
                     ):
                         tag_id = get_or_create_tag(sb, tag_cache, tag_name)
                         sb.table('asset_tag_link') \
