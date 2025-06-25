@@ -8,12 +8,14 @@ import os
 import json
 import uuid
 import sys
+import asyncio
 from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
 from dotenv import load_dotenv
 from supabase import create_client, Client
 from pydub import AudioSegment
 import io
+import logging
 
 from ScriptureReference import ScriptureReference
 from supabase_upload_quests import (
@@ -25,6 +27,10 @@ from supabase_upload_quests import (
     get_or_create_tag
 )
 from audio_handler import AudioHandler
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 class SessionRecorder:
@@ -97,8 +103,6 @@ class MasterScriptureProcessor:
         if self.config.get('book_abbreviations', {}).get('use_localized', False):
             self.book_names_data = load_book_names()
     
-
-    
     def upload_audio_to_storage(self, file_path: str, storage_path: str, bucket_name: str) -> Optional[str]:
         """Upload audio file to Supabase storage"""
         try:
@@ -114,12 +118,12 @@ class MasterScriptureProcessor:
             return public_url
             
         except Exception as e:
-            print(f"Error uploading audio to storage: {str(e)}")
+            logger.error(f"Error uploading audio to storage: {str(e)}")
             return None
     
-    def process_verses(self, verses: List[Tuple[str, str]], project_info: Dict, 
-                      lang_map: Dict, tag_cache: Dict, project_id: str, quest_id: str) -> None:
-        """Process verses for a quest, creating assets and optionally generating audio"""
+    async def process_verses_async(self, verses: List[Tuple[str, str]], project_info: Dict, 
+                                  lang_map: Dict, tag_cache: Dict, project_id: str, quest_id: str) -> None:
+        """Process verses for a quest, creating assets and optionally generating audio concurrently"""
         
         audio_config = self.config.get('audio_generation', {})
         save_local = audio_config.get('save_local', False)
@@ -131,6 +135,10 @@ class MasterScriptureProcessor:
         abbr_language = book_abbr_config.get('language', 'en')
         
         source_lang_id = lang_map[project_info['source_language_english_name']]
+        
+        # Prepare batch for audio generation
+        audio_batch = []
+        verse_metadata = {}
         
         for verse_ref, verse_text in verses:
             # Parse reference
@@ -149,7 +157,6 @@ class MasterScriptureProcessor:
             formatted_name = f"{formatted_book} {chapter}:{verse}"
             
             # Check if asset exists for this quest
-            # First check if asset is already linked to this quest
             existing_asset = self.supabase.table('quest_asset_link') \
                 .select('asset_id, asset(id, name)') \
                 .eq('quest_id', quest_id) \
@@ -176,8 +183,17 @@ class MasterScriptureProcessor:
                 if self.session_recorder:
                     self.session_recorder.add_record('assets', asset_id, {'name': formatted_name})
             
-            # Handle audio generation/reuse
-            audio_id = None
+            # Store metadata for later use
+            verse_metadata[verse_ref] = {
+                'asset_id': asset_id,
+                'formatted_name': formatted_name,
+                'verse_text': verse_text,
+                'formatted_book': formatted_book,
+                'chapter': chapter,
+                'verse': verse
+            }
+            
+            # Prepare audio generation if needed
             if generate_audio and self.audio_handler:
                 # Get storage configuration
                 storage_config = self.config.get('storage', {})
@@ -188,6 +204,7 @@ class MasterScriptureProcessor:
                 project_name = project_info.get('name', 'default').replace(' ', '_')
                 
                 # Check if we should save to database and if audio already exists
+                audio_id = None
                 if save_to_database:
                     existing_audio = self.supabase.table('asset_content_link') \
                         .select('audio_id') \
@@ -198,10 +215,11 @@ class MasterScriptureProcessor:
                     if existing_audio.data and existing_audio.data[0]['audio_id']:
                         # Reuse existing audio file
                         audio_id = existing_audio.data[0]['audio_id']
-                        print(f"Reusing existing audio for {verse_ref}: {audio_id}")
+                        logger.info(f"Reusing existing audio for {verse_ref}: {audio_id}")
+                        verse_metadata[verse_ref]['audio_id'] = audio_id
                 
-                # Generate audio if needed
-                if not audio_id or save_local:
+                # Add to batch if no existing audio
+                if not audio_id:
                     file_uuid = str(uuid.uuid4())
                     filename = f"{verse_ref}_{file_uuid}.m4a"
                     
@@ -215,33 +233,65 @@ class MasterScriptureProcessor:
                         # Use temp file for database upload only
                         local_path = f"temp_{asset_id}.m4a"
                     
-                    # Generate audio
-                    if self.audio_handler.generate_audio(verse_text, local_path):
-                        # Record local file if saved
-                        if save_local and self.session_recorder:
-                            self.session_recorder.add_record('local_audio_files', local_path, {
-                                'path': local_path,
-                                'verse_ref': verse_ref
-                            })
-                        
-                        # Upload to database if configured
-                        if save_to_database and not audio_id:
-                            storage_path = f"{content_folder}/{filename}"
-                            audio_url = self.upload_audio_to_storage(local_path, storage_path, bucket_name)
-                            if audio_url:
-                                audio_id = storage_path
-                                print(f"Generated and uploaded audio for {verse_ref}: {audio_id}")
+                    audio_batch.append((verse_text, local_path))
+                    verse_metadata[verse_ref]['pending_audio'] = {
+                        'local_path': local_path,
+                        'filename': filename,
+                        'save_local': save_local,
+                        'save_to_database': save_to_database
+                    }
+        
+        # Generate audio in parallel if needed
+        if audio_batch and self.audio_handler:
+            logger.info(f"Generating {len(audio_batch)} audio files concurrently...")
+            audio_results = await self.audio_handler.generate_multiple_audio(audio_batch)
+            
+            # Process audio results
+            for output_path, success in audio_results:
+                # Find the corresponding verse
+                for verse_ref, metadata in verse_metadata.items():
+                    if 'pending_audio' in metadata and metadata['pending_audio']['local_path'] == output_path:
+                        if success:
+                            pending = metadata['pending_audio']
+                            
+                            # Record local file if saved
+                            if pending['save_local'] and self.session_recorder:
+                                self.session_recorder.add_record('local_audio_files', output_path, {
+                                    'path': output_path,
+                                    'verse_ref': verse_ref
+                                })
+                            
+                            # Upload to database if configured
+                            if pending['save_to_database']:
+                                storage_config = self.config.get('storage', {})
+                                bucket_name = storage_config.get('bucket_name', 'assets')
+                                content_folder = storage_config.get('content_folder', 'content')
                                 
-                                # Record the audio file creation
-                                if self.session_recorder:
-                                    self.session_recorder.add_record('audio_files', storage_path, {
-                                        'bucket': bucket_name,
-                                        'path': storage_path
-                                    })
-                        
-                        # Clean up temp file if not saving locally
-                        if not save_local and os.path.exists(local_path):
-                            os.remove(local_path)
+                                storage_path = f"{content_folder}/{pending['filename']}"
+                                audio_url = self.upload_audio_to_storage(output_path, storage_path, bucket_name)
+                                if audio_url:
+                                    metadata['audio_id'] = storage_path
+                                    logger.info(f"Uploaded audio for {verse_ref}: {storage_path}")
+                                    
+                                    # Record the audio file creation
+                                    if self.session_recorder:
+                                        self.session_recorder.add_record('audio_files', storage_path, {
+                                            'bucket': bucket_name,
+                                            'path': storage_path
+                                        })
+                            
+                            # Clean up temp file if not saving locally
+                            if not pending['save_local'] and os.path.exists(output_path):
+                                os.remove(output_path)
+                        else:
+                            logger.error(f"Failed to generate audio for {verse_ref}")
+                        break
+        
+        # Now process all database updates
+        for verse_ref, metadata in verse_metadata.items():
+            asset_id = metadata['asset_id']
+            verse_text = metadata['verse_text']
+            audio_id = metadata.get('audio_id')
             
             # Check if content link already exists
             existing_content = self.supabase.table('asset_content_link') \
@@ -276,9 +326,9 @@ class MasterScriptureProcessor:
             
             # Add tags
             for tag_name in (
-                f"livro:{formatted_book}",
-                f"capítulo:{chapter}",
-                f"versículo:{verse}"
+                f"livro:{metadata['formatted_book']}",
+                f"capítulo:{metadata['chapter']}",
+                f"versículo:{metadata['verse']}"
             ):
                 tag_id = get_or_create_tag(self.supabase, tag_cache, tag_name)
                 
@@ -303,6 +353,11 @@ class MasterScriptureProcessor:
                             'asset_id': asset_id,
                             'tag_id': tag_id
                         })
+    
+    def process_verses(self, verses: List[Tuple[str, str]], project_info: Dict, 
+                      lang_map: Dict, tag_cache: Dict, project_id: str, quest_id: str) -> None:
+        """Sync wrapper for process_verses_async"""
+        asyncio.run(self.process_verses_async(verses, project_info, lang_map, tag_cache, project_id, quest_id))
     
     def run(self):
         """Main execution method"""

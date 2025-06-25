@@ -249,6 +249,7 @@
         {
           "name": "Jesus Appears To His Disciples",
           "description": "Luke 24:36-53",
+          "additional_tags": ["Story:29"],
           "verse_ranges": [
             ["Lk 24:36", "Lk 24:53"]
           ]
@@ -256,7 +257,7 @@
         {
           "name": "The Promised Holy Spirit",
           "description": "Acts 2:1-47",
-          "additional_tags": ["Story:29"],
+          "additional_tags": ["Story:30"],
           "verse_ranges": [
             ["Acts 2:1", "Acts 2:47"]
           ]
@@ -264,7 +265,7 @@
         {
           "name": "Stephen's Death",
           "description": "Acts 6-7",
-          "additional_tags": ["Story:30"],
+          "additional_tags": ["Story:31"],
           "verse_ranges": [
             ["Acts 6:1", "Acts 7:60"]
           ]
@@ -272,7 +273,7 @@
         {
           "name": "The Conversion Of Paul",
           "description": "Acts 7-9",
-          "additional_tags": ["Story:31"],
+          "additional_tags": ["Story:32"],
           "verse_ranges": [
             ["Acts 7:54", "Acts 9:31"]
           ]
@@ -280,7 +281,7 @@
         {
           "name": "Peter & Cornelius",
           "description": "Acts 10",
-          "additional_tags": ["Story:32"],
+          "additional_tags": ["Story:33"],
           "verse_ranges": [
             ["Acts 10:1", "Acts 10:48"]
           ]
@@ -288,7 +289,7 @@
         {
           "name": "Macedonian Call",
           "description": "Acts 15:36-41, 16:1-40",
-          "additional_tags": ["Story:33"],
+          "additional_tags": ["Story:34"],
           "verse_ranges": [
             ["Acts 15:36", "Acts 15:41"],
             ["Acts 16:1", "Acts 16:40"]
@@ -297,7 +298,7 @@
         {
           "name": "New Heaven & Earth",
           "description": "Revelation 21:1-8",
-          "additional_tags": ["Story:34"],
+          "additional_tags": ["Story:35"],
           "verse_ranges": [
             ["Rev 21:1", "Rev 21:8"]
           ]

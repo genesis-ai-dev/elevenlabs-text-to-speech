@@ -1,5 +1,5 @@
 {
-  "project_file": "json_projects/gen_pt-BR.json",
+  "project_file": "json_projects/exo_pt-BR_partial.json",
   
   "scripture_reference": {
     "bible_filename": "source_texts/brazilian_portuguese_translation_5.txt",
@@ -11,6 +11,8 @@
     "provider": "openai",
     "save_local": true,
     "save_to_database": true,
+    "max_concurrent_requests": 5,
+    "requests_per_minute": 60,
     
     "elevenlabs": {
       "voice_id": "dX7gRq1dIvLTgUaWpEFn"

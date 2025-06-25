@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv
+supabase
+openai>=1.0.0
+elevenlabs
+pydub
+
+# Async and concurrency support
+aiohttp
+backoff
+asyncio
+
+# Additional utilities
+tenacity  # Alternative retry library (optional) 
