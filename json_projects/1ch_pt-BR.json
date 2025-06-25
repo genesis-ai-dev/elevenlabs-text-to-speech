@@ -1,0 +1,390 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Crônicas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:339"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 1:1",
+              "1Ch 1:54"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:340"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 2:1",
+              "1Ch 2:55"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:341"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 3:1",
+              "1Ch 3:24"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:342"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 4:1",
+              "1Ch 4:43"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:343"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 5:1",
+              "1Ch 5:26"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:344"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 6:1",
+              "1Ch 6:81"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:345"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 7:1",
+              "1Ch 7:40"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:346"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 8:1",
+              "1Ch 8:40"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:347"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 9:1",
+              "1Ch 9:44"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:348"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 10:1",
+              "1Ch 10:14"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:349"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 11:1",
+              "1Ch 11:47"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:350"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 12:1",
+              "1Ch 12:40"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:351"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 13:1",
+              "1Ch 13:14"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:352"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 14:1",
+              "1Ch 14:17"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:353"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 15:1",
+              "1Ch 15:29"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:354"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 16:1",
+              "1Ch 16:43"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:355"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 17:1",
+              "1Ch 17:27"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:356"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 18:1",
+              "1Ch 18:17"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:357"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 19:1",
+              "1Ch 19:19"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:358"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 20:1",
+              "1Ch 20:8"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:359"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 21:1",
+              "1Ch 21:30"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:360"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 22:1",
+              "1Ch 22:19"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:361"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 23:1",
+              "1Ch 23:32"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:362"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 24:1",
+              "1Ch 24:31"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:363"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 25:1",
+              "1Ch 25:31"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:364"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 26:1",
+              "1Ch 26:32"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:365"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 27:1",
+              "1Ch 27:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:366"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 28:1",
+              "1Ch 28:21"
+            ]
+          ]
+        },
+        {
+          "name": "1 Crônicas Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:367"
+          ],
+          "verse_ranges": [
+            [
+              "1Ch 29:1",
+              "1Ch 29:30"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

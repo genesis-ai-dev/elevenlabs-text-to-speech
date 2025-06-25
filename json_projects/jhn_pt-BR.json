@@ -1,0 +1,286 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "João Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:998"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 1:1",
+              "Jhn 1:51"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:999"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 2:1",
+              "Jhn 2:25"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1000"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 3:1",
+              "Jhn 3:36"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1001"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 4:1",
+              "Jhn 4:54"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1002"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 5:1",
+              "Jhn 5:47"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1003"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 6:1",
+              "Jhn 6:71"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1004"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 7:1",
+              "Jhn 7:53"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1005"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 8:1",
+              "Jhn 8:59"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1006"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 9:1",
+              "Jhn 9:41"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1007"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 10:1",
+              "Jhn 10:42"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1008"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 11:1",
+              "Jhn 11:57"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1009"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 12:1",
+              "Jhn 12:50"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1010"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 13:1",
+              "Jhn 13:38"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:1011"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 14:1",
+              "Jhn 14:31"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:1012"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 15:1",
+              "Jhn 15:27"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:1013"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 16:1",
+              "Jhn 16:33"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:1014"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 17:1",
+              "Jhn 17:26"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:1015"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 18:1",
+              "Jhn 18:40"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:1016"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 19:1",
+              "Jhn 19:42"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:1017"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 20:1",
+              "Jhn 20:31"
+            ]
+          ]
+        },
+        {
+          "name": "João Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:1018"
+          ],
+          "verse_ranges": [
+            [
+              "Jhn 21:1",
+              "Jhn 21:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

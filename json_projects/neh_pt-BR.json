@@ -1,0 +1,182 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Neemias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:414"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 1:1",
+              "Neh 1:11"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:415"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 2:1",
+              "Neh 2:20"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:416"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 3:1",
+              "Neh 3:32"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:417"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 4:1",
+              "Neh 4:23"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:418"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 5:1",
+              "Neh 5:19"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:419"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 6:1",
+              "Neh 6:19"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:420"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 7:1",
+              "Neh 7:72"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:421"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 8:1",
+              "Neh 8:18"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:422"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 9:1",
+              "Neh 9:38"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:423"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 10:1",
+              "Neh 10:39"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:424"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 11:1",
+              "Neh 11:36"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:425"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 12:1",
+              "Neh 12:47"
+            ]
+          ]
+        },
+        {
+          "name": "Neemias Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:426"
+          ],
+          "verse_ranges": [
+            [
+              "Neh 13:1",
+              "Neh 13:31"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

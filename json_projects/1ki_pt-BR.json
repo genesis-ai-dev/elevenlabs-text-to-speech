@@ -1,0 +1,299 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Reis Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:292"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 1:1",
+              "1Ki 1:53"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:293"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 2:1",
+              "1Ki 2:46"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:294"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 3:1",
+              "1Ki 3:28"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:295"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 4:1",
+              "1Ki 4:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:296"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 5:1",
+              "1Ki 5:18"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:297"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 6:1",
+              "1Ki 6:38"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:298"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 7:1",
+              "1Ki 7:51"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:299"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 8:1",
+              "1Ki 8:66"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:300"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 9:1",
+              "1Ki 9:28"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:301"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 10:1",
+              "1Ki 10:29"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:302"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 11:1",
+              "1Ki 11:43"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:303"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 12:1",
+              "1Ki 12:33"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:304"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 13:1",
+              "1Ki 13:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:305"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 14:1",
+              "1Ki 14:31"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:306"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 15:1",
+              "1Ki 15:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:307"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 16:1",
+              "1Ki 16:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:308"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 17:1",
+              "1Ki 17:24"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:309"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 18:1",
+              "1Ki 18:46"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:310"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 19:1",
+              "1Ki 19:21"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:311"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 20:1",
+              "1Ki 20:43"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:312"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 21:1",
+              "1Ki 21:29"
+            ]
+          ]
+        },
+        {
+          "name": "1 Reis Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:313"
+          ],
+          "verse_ranges": [
+            [
+              "1Ki 22:1",
+              "1Ki 22:53"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

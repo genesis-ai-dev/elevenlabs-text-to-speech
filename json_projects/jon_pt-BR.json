@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Jonas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:890"
+          ],
+          "verse_ranges": [
+            [
+              "Jon 1:1",
+              "Jon 1:17"
+            ]
+          ]
+        },
+        {
+          "name": "Jonas Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:891"
+          ],
+          "verse_ranges": [
+            [
+              "Jon 2:1",
+              "Jon 2:10"
+            ]
+          ]
+        },
+        {
+          "name": "Jonas Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:892"
+          ],
+          "verse_ranges": [
+            [
+              "Jon 3:1",
+              "Jon 3:10"
+            ]
+          ]
+        },
+        {
+          "name": "Jonas Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:893"
+          ],
+          "verse_ranges": [
+            [
+              "Jon 4:1",
+              "Jon 4:11"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

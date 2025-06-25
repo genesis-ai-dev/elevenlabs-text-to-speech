@@ -1,0 +1,533 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Êxodo Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:51"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 1:1",
+              "Exo 1:22"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:52"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 2:1",
+              "Exo 2:25"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:53"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 3:1",
+              "Exo 3:22"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:54"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 4:1",
+              "Exo 4:31"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:55"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 5:1",
+              "Exo 5:23"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:56"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 6:1",
+              "Exo 6:30"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:57"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 7:1",
+              "Exo 7:25"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:58"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 8:1",
+              "Exo 8:32"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:59"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 9:1",
+              "Exo 9:35"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:60"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 10:1",
+              "Exo 10:29"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:61"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 11:1",
+              "Exo 11:10"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:62"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 12:1",
+              "Exo 12:51"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:63"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 13:1",
+              "Exo 13:22"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:64"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 14:1",
+              "Exo 14:31"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:65"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 15:1",
+              "Exo 15:27"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:66"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 16:1",
+              "Exo 16:36"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:67"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 17:1",
+              "Exo 17:16"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:68"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 18:1",
+              "Exo 18:27"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:69"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 19:1",
+              "Exo 19:25"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:70"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 20:1",
+              "Exo 20:26"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:71"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 21:1",
+              "Exo 21:36"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:72"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 22:1",
+              "Exo 22:31"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:73"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 23:1",
+              "Exo 23:33"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:74"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 24:1",
+              "Exo 24:18"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:75"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 25:1",
+              "Exo 25:40"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:76"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 26:1",
+              "Exo 26:37"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:77"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 27:1",
+              "Exo 27:21"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:78"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 28:1",
+              "Exo 28:43"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:79"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 29:1",
+              "Exo 29:46"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:80"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 30:1",
+              "Exo 30:38"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:81"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 31:1",
+              "Exo 31:18"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:82"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 32:1",
+              "Exo 32:35"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:83"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 33:1",
+              "Exo 33:23"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:84"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 34:1",
+              "Exo 34:35"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:85"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 35:1",
+              "Exo 35:35"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:86"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 36:1",
+              "Exo 36:38"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:87"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 37:1",
+              "Exo 37:29"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:88"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 38:1",
+              "Exo 38:31"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:89"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 39:1",
+              "Exo 39:43"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:90"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 40:1",
+              "Exo 40:38"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

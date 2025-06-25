@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Lamentações Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:798"
+          ],
+          "verse_ranges": [
+            [
+              "Lam 1:1",
+              "Lam 1:22"
+            ]
+          ]
+        },
+        {
+          "name": "Lamentações Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:799"
+          ],
+          "verse_ranges": [
+            [
+              "Lam 2:1",
+              "Lam 2:22"
+            ]
+          ]
+        },
+        {
+          "name": "Lamentações Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:800"
+          ],
+          "verse_ranges": [
+            [
+              "Lam 3:1",
+              "Lam 3:66"
+            ]
+          ]
+        },
+        {
+          "name": "Lamentações Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:801"
+          ],
+          "verse_ranges": [
+            [
+              "Lam 4:1",
+              "Lam 4:22"
+            ]
+          ]
+        },
+        {
+          "name": "Lamentações Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:802"
+          ],
+          "verse_ranges": [
+            [
+              "Lam 5:1",
+              "Lam 5:22"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

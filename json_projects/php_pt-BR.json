@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Filipenses Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1104"
+          ],
+          "verse_ranges": [
+            [
+              "Php 1:1",
+              "Php 1:30"
+            ]
+          ]
+        },
+        {
+          "name": "Filipenses Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1105"
+          ],
+          "verse_ranges": [
+            [
+              "Php 2:1",
+              "Php 2:30"
+            ]
+          ]
+        },
+        {
+          "name": "Filipenses Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1106"
+          ],
+          "verse_ranges": [
+            [
+              "Php 3:1",
+              "Php 3:21"
+            ]
+          ]
+        },
+        {
+          "name": "Filipenses Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1107"
+          ],
+          "verse_ranges": [
+            [
+              "Php 4:1",
+              "Php 4:23"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

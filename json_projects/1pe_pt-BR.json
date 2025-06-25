@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Pedro Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1152"
+          ],
+          "verse_ranges": [
+            [
+              "1Pe 1:1",
+              "1Pe 1:25"
+            ]
+          ]
+        },
+        {
+          "name": "1 Pedro Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1153"
+          ],
+          "verse_ranges": [
+            [
+              "1Pe 2:1",
+              "1Pe 2:25"
+            ]
+          ]
+        },
+        {
+          "name": "1 Pedro Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1154"
+          ],
+          "verse_ranges": [
+            [
+              "1Pe 3:1",
+              "1Pe 3:22"
+            ]
+          ]
+        },
+        {
+          "name": "1 Pedro Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1155"
+          ],
+          "verse_ranges": [
+            [
+              "1Pe 4:1",
+              "1Pe 4:19"
+            ]
+          ]
+        },
+        {
+          "name": "1 Pedro Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1156"
+          ],
+          "verse_ranges": [
+            [
+              "1Pe 5:1",
+              "1Pe 5:14"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

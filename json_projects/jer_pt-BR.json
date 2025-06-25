@@ -1,0 +1,689 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Jeremias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:746"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 1:1",
+              "Jer 1:19"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:747"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 2:1",
+              "Jer 2:37"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:748"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 3:1",
+              "Jer 3:25"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:749"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 4:1",
+              "Jer 4:31"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:750"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 5:1",
+              "Jer 5:31"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:751"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 6:1",
+              "Jer 6:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:752"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 7:1",
+              "Jer 7:34"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:753"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 8:1",
+              "Jer 8:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:754"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 9:1",
+              "Jer 9:26"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:755"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 10:1",
+              "Jer 10:25"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:756"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 11:1",
+              "Jer 11:23"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:757"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 12:1",
+              "Jer 12:17"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:758"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 13:1",
+              "Jer 13:27"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:759"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 14:1",
+              "Jer 14:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:760"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 15:1",
+              "Jer 15:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:761"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 16:1",
+              "Jer 16:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:762"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 17:1",
+              "Jer 17:27"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:763"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 18:1",
+              "Jer 18:23"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:764"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 19:1",
+              "Jer 19:15"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:765"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 20:1",
+              "Jer 20:18"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:766"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 21:1",
+              "Jer 21:14"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:767"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 22:1",
+              "Jer 22:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:768"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 23:1",
+              "Jer 23:40"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:769"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 24:1",
+              "Jer 24:10"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:770"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 25:1",
+              "Jer 25:38"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:771"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 26:1",
+              "Jer 26:24"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:772"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 27:1",
+              "Jer 27:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:773"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 28:1",
+              "Jer 28:17"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:774"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 29:1",
+              "Jer 29:32"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:775"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 30:1",
+              "Jer 30:24"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:776"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 31:1",
+              "Jer 31:40"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:777"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 32:1",
+              "Jer 32:44"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:778"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 33:1",
+              "Jer 33:26"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:779"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 34:1",
+              "Jer 34:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:780"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 35:1",
+              "Jer 35:19"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:781"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 36:1",
+              "Jer 36:32"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:782"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 37:1",
+              "Jer 37:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:783"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 38:1",
+              "Jer 38:28"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:784"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 39:1",
+              "Jer 39:18"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:785"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 40:1",
+              "Jer 40:16"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 41",
+          "description": "",
+          "additional_tags": [
+            "misión:786"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 41:1",
+              "Jer 41:18"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 42",
+          "description": "",
+          "additional_tags": [
+            "misión:787"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 42:1",
+              "Jer 42:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 43",
+          "description": "",
+          "additional_tags": [
+            "misión:788"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 43:1",
+              "Jer 43:13"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 44",
+          "description": "",
+          "additional_tags": [
+            "misión:789"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 44:1",
+              "Jer 44:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 45",
+          "description": "",
+          "additional_tags": [
+            "misión:790"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 45:1",
+              "Jer 45:5"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 46",
+          "description": "",
+          "additional_tags": [
+            "misión:791"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 46:1",
+              "Jer 46:28"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 47",
+          "description": "",
+          "additional_tags": [
+            "misión:792"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 47:1",
+              "Jer 47:7"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 48",
+          "description": "",
+          "additional_tags": [
+            "misión:793"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 48:1",
+              "Jer 48:47"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 49",
+          "description": "",
+          "additional_tags": [
+            "misión:794"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 49:1",
+              "Jer 49:39"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 50",
+          "description": "",
+          "additional_tags": [
+            "misión:795"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 50:1",
+              "Jer 50:46"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 51",
+          "description": "",
+          "additional_tags": [
+            "misión:796"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 51:1",
+              "Jer 51:64"
+            ]
+          ]
+        },
+        {
+          "name": "Jeremias Capítulo 52",
+          "description": "",
+          "additional_tags": [
+            "misión:797"
+          ],
+          "verse_ranges": [
+            [
+              "Jer 52:1",
+              "Jer 52:34"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

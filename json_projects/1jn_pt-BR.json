@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 João Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1160"
+          ],
+          "verse_ranges": [
+            [
+              "1Jn 1:1",
+              "1Jn 1:10"
+            ]
+          ]
+        },
+        {
+          "name": "1 João Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1161"
+          ],
+          "verse_ranges": [
+            [
+              "1Jn 2:1",
+              "1Jn 2:29"
+            ]
+          ]
+        },
+        {
+          "name": "1 João Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1162"
+          ],
+          "verse_ranges": [
+            [
+              "1Jn 3:1",
+              "1Jn 3:24"
+            ]
+          ]
+        },
+        {
+          "name": "1 João Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1163"
+          ],
+          "verse_ranges": [
+            [
+              "1Jn 4:1",
+              "1Jn 4:21"
+            ]
+          ]
+        },
+        {
+          "name": "1 João Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1164"
+          ],
+          "verse_ranges": [
+            [
+              "1Jn 5:1",
+              "1Jn 5:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

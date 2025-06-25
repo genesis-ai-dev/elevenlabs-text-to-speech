@@ -1,0 +1,172 @@
+{
+  "timestamp": "20250624_180916",
+  "languages": [],
+  "projects": [],
+  "quests": [
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "name": "G\u00eanesis Cap\u00edtulo 1",
+      "project_id": "b4dbe6c9-d406-494f-abd7-7014c0cde564"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "name": "G\u00eanesis Cap\u00edtulo 2",
+      "project_id": "b4dbe6c9-d406-494f-abd7-7014c0cde564"
+    }
+  ],
+  "assets": [
+    {
+      "id": "abb32023-ab18-4f36-a1ce-c64018cef956",
+      "name": "Gn 1:1"
+    },
+    {
+      "id": "77d6bf40-ec79-4b6c-931d-a2e91797665b",
+      "name": "Gn 1:2"
+    },
+    {
+      "id": "db6c5a14-220f-4064-b217-469f33105eb1",
+      "name": "Gn 2:1"
+    },
+    {
+      "id": "0d6619a5-cc07-4f63-b163-88ccf396372b",
+      "name": "Gn 2:2"
+    }
+  ],
+  "asset_content_links": [
+    {
+      "id": "fae69fd8-a3ca-473c-b23d-f2e991747a4f",
+      "asset_id": "abb32023-ab18-4f36-a1ce-c64018cef956"
+    },
+    {
+      "id": "12d24443-20f3-4a70-bb86-09fdfa65255b",
+      "asset_id": "77d6bf40-ec79-4b6c-931d-a2e91797665b"
+    },
+    {
+      "id": "56fe5be1-0bac-43f3-8bd1-cd92c7a62518",
+      "asset_id": "db6c5a14-220f-4064-b217-469f33105eb1"
+    },
+    {
+      "id": "fc14abee-4582-4a2d-a2f9-81287ab9d447",
+      "asset_id": "0d6619a5-cc07-4f63-b163-88ccf396372b"
+    }
+  ],
+  "quest_asset_links": [
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765_abb32023-ab18-4f36-a1ce-c64018cef956",
+      "quest_id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "asset_id": "abb32023-ab18-4f36-a1ce-c64018cef956"
+    },
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765_77d6bf40-ec79-4b6c-931d-a2e91797665b",
+      "quest_id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "asset_id": "77d6bf40-ec79-4b6c-931d-a2e91797665b"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05_db6c5a14-220f-4064-b217-469f33105eb1",
+      "quest_id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "asset_id": "db6c5a14-220f-4064-b217-469f33105eb1"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05_0d6619a5-cc07-4f63-b163-88ccf396372b",
+      "quest_id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "asset_id": "0d6619a5-cc07-4f63-b163-88ccf396372b"
+    }
+  ],
+  "asset_tag_links": [
+    {
+      "id": "abb32023-ab18-4f36-a1ce-c64018cef956_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "asset_id": "abb32023-ab18-4f36-a1ce-c64018cef956",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "abb32023-ab18-4f36-a1ce-c64018cef956_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "asset_id": "abb32023-ab18-4f36-a1ce-c64018cef956",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    },
+    {
+      "id": "abb32023-ab18-4f36-a1ce-c64018cef956_5ba1b668-99d8-459b-b7a8-3447b6ebc831",
+      "asset_id": "abb32023-ab18-4f36-a1ce-c64018cef956",
+      "tag_id": "5ba1b668-99d8-459b-b7a8-3447b6ebc831"
+    },
+    {
+      "id": "77d6bf40-ec79-4b6c-931d-a2e91797665b_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "asset_id": "77d6bf40-ec79-4b6c-931d-a2e91797665b",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "77d6bf40-ec79-4b6c-931d-a2e91797665b_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "asset_id": "77d6bf40-ec79-4b6c-931d-a2e91797665b",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    },
+    {
+      "id": "77d6bf40-ec79-4b6c-931d-a2e91797665b_70372ef7-d4ec-4877-bc99-6e9d80d0ab7f",
+      "asset_id": "77d6bf40-ec79-4b6c-931d-a2e91797665b",
+      "tag_id": "70372ef7-d4ec-4877-bc99-6e9d80d0ab7f"
+    },
+    {
+      "id": "db6c5a14-220f-4064-b217-469f33105eb1_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "asset_id": "db6c5a14-220f-4064-b217-469f33105eb1",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "db6c5a14-220f-4064-b217-469f33105eb1_ccf322a2-19d7-43d9-8f1d-18b2225f0eb1",
+      "asset_id": "db6c5a14-220f-4064-b217-469f33105eb1",
+      "tag_id": "ccf322a2-19d7-43d9-8f1d-18b2225f0eb1"
+    },
+    {
+      "id": "db6c5a14-220f-4064-b217-469f33105eb1_5ba1b668-99d8-459b-b7a8-3447b6ebc831",
+      "asset_id": "db6c5a14-220f-4064-b217-469f33105eb1",
+      "tag_id": "5ba1b668-99d8-459b-b7a8-3447b6ebc831"
+    },
+    {
+      "id": "0d6619a5-cc07-4f63-b163-88ccf396372b_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "asset_id": "0d6619a5-cc07-4f63-b163-88ccf396372b",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "0d6619a5-cc07-4f63-b163-88ccf396372b_ccf322a2-19d7-43d9-8f1d-18b2225f0eb1",
+      "asset_id": "0d6619a5-cc07-4f63-b163-88ccf396372b",
+      "tag_id": "ccf322a2-19d7-43d9-8f1d-18b2225f0eb1"
+    },
+    {
+      "id": "0d6619a5-cc07-4f63-b163-88ccf396372b_70372ef7-d4ec-4877-bc99-6e9d80d0ab7f",
+      "asset_id": "0d6619a5-cc07-4f63-b163-88ccf396372b",
+      "tag_id": "70372ef7-d4ec-4877-bc99-6e9d80d0ab7f"
+    }
+  ],
+  "quest_tag_links": [
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "quest_id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "quest_id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    },
+    {
+      "id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765_1f614787-cfbb-4b31-9f84-d6f10e9bd4e7",
+      "quest_id": "f57f922b-f66b-4b0e-a11a-c616ccbf7765",
+      "tag_id": "1f614787-cfbb-4b31-9f84-d6f10e9bd4e7"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05_beb65071-415e-4f71-bd06-1cdf07f0c437",
+      "quest_id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "tag_id": "beb65071-415e-4f71-bd06-1cdf07f0c437"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05_ccf322a2-19d7-43d9-8f1d-18b2225f0eb1",
+      "quest_id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "tag_id": "ccf322a2-19d7-43d9-8f1d-18b2225f0eb1"
+    },
+    {
+      "id": "e3695a62-e387-41ab-9e0d-884062fd5f05_eefde6c5-14ae-4680-9cda-2610b0e3fa3c",
+      "quest_id": "e3695a62-e387-41ab-9e0d-884062fd5f05",
+      "tag_id": "eefde6c5-14ae-4680-9cda-2610b0e3fa3c"
+    }
+  ],
+  "tags": [],
+  "audio_files": [],
+  "local_audio_files": []
+}

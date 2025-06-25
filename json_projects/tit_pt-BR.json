@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Tito Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1130"
+          ],
+          "verse_ranges": [
+            [
+              "Tit 1:1",
+              "Tit 1:16"
+            ]
+          ]
+        },
+        {
+          "name": "Tito Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1131"
+          ],
+          "verse_ranges": [
+            [
+              "Tit 2:1",
+              "Tit 2:15"
+            ]
+          ]
+        },
+        {
+          "name": "Tito Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1132"
+          ],
+          "verse_ranges": [
+            [
+              "Tit 3:1",
+              "Tit 3:15"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

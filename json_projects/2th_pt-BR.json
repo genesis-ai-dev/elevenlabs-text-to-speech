@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Tessalonicenses Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1117"
+          ],
+          "verse_ranges": [
+            [
+              "2Th 1:1",
+              "2Th 1:12"
+            ]
+          ]
+        },
+        {
+          "name": "2 Tessalonicenses Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1118"
+          ],
+          "verse_ranges": [
+            [
+              "2Th 2:1",
+              "2Th 2:17"
+            ]
+          ]
+        },
+        {
+          "name": "2 Tessalonicenses Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1119"
+          ],
+          "verse_ranges": [
+            [
+              "2Th 3:1",
+              "2Th 3:18"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

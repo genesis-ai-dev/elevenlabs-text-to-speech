@@ -12,7 +12,6 @@ from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
 from dotenv import load_dotenv
 from supabase import create_client, Client
-from elevenlabs import ElevenLabs
 from pydub import AudioSegment
 import io
 
@@ -25,6 +24,7 @@ from supabase_upload_quests import (
     upsert_project,
     get_or_create_tag
 )
+from audio_handler import AudioHandler
 
 
 class SessionRecorder:
@@ -43,7 +43,8 @@ class SessionRecorder:
             "asset_tag_links": [],
             "quest_tag_links": [],
             "tags": [],
-            "audio_files": []
+            "audio_files": [],
+            "local_audio_files": []
         }
     
     def add_record(self, table: str, record_id: str, additional_info: dict = None):
@@ -57,10 +58,16 @@ class SessionRecorder:
     
     def save(self):
         """Save the session record to file"""
-        with open(self.filename, 'w', encoding='utf-8') as f:
+        # Ensure session_records directory exists
+        os.makedirs('session_records', exist_ok=True)
+        
+        # Update filename to include directory
+        filepath = os.path.join('session_records', self.filename)
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(self.records, f, indent=2)
-        print(f"\nSession record saved to: {self.filename}")
-        return self.filename
+        print(f"\nSession record saved to: {filepath}")
+        return filepath
 
 
 class MasterScriptureProcessor:
@@ -78,47 +85,19 @@ class MasterScriptureProcessor:
         # Initialize session recorder
         self.session_recorder = session_recorder
         
-        # Initialize ElevenLabs if audio generation is enabled
-        if self.config.get('audio_generation', {}).get('enabled', False):
-            api_key = os.getenv("ELEVENLABS_API_KEY")
-            if not api_key:
-                raise RuntimeError("ELEVENLABS_API_KEY not found in environment")
-            self.elevenlabs = ElevenLabs(api_key=api_key)
+        # Initialize audio handler if audio generation is enabled
+        audio_config = self.config.get('audio_generation', {})
+        if audio_config.get('save_local', False) or audio_config.get('save_to_database', False):
+            self.audio_handler = AudioHandler(self.config)
+        else:
+            self.audio_handler = None
         
         # Load book names if localization is enabled
         self.book_names_data = {}
         if self.config.get('book_abbreviations', {}).get('use_localized', False):
             self.book_names_data = load_book_names()
     
-    def generate_audio_v3(self, text: str, output_path: str, voice_id: str) -> bool:
-        """Generate audio using ElevenLabs v3 API"""
-        try:
-            # Use the v3 API endpoint
-            audio_generator = self.elevenlabs.text_to_speech.convert(
-                voice_id=voice_id,
-                text=text,
-                model_id="eleven_multilingual_v2",
-                output_format="mp3_44100_128"
-            )
-            
-            # Collect audio bytes from generator
-            audio_bytes = b"".join(audio_generator)
-            
-            # Convert MP3 to M4A
-            audio_segment = AudioSegment.from_mp3(io.BytesIO(audio_bytes))
-            
-            # Ensure output path has .m4a extension
-            if not output_path.endswith('.m4a'):
-                output_path = os.path.splitext(output_path)[0] + '.m4a'
-            
-            # Export as M4A
-            audio_segment.export(output_path, format="mp4", codec="aac")
-            print(f"Audio saved successfully to {output_path}")
-            return True
-            
-        except Exception as e:
-            print(f"Error generating audio: {str(e)}")
-            return False
+
     
     def upload_audio_to_storage(self, file_path: str, storage_path: str, bucket_name: str) -> Optional[str]:
         """Upload audio file to Supabase storage"""
@@ -143,8 +122,9 @@ class MasterScriptureProcessor:
         """Process verses for a quest, creating assets and optionally generating audio"""
         
         audio_config = self.config.get('audio_generation', {})
-        generate_audio = audio_config.get('enabled', False)
-        voice_id = audio_config.get('voice_id')
+        save_local = audio_config.get('save_local', False)
+        save_to_database = audio_config.get('save_to_database', False)
+        generate_audio = save_local or save_to_database
         
         book_abbr_config = self.config.get('book_abbreviations', {})
         use_localized = book_abbr_config.get('use_localized', False)
@@ -198,49 +178,70 @@ class MasterScriptureProcessor:
             
             # Handle audio generation/reuse
             audio_id = None
-            if generate_audio and voice_id:
+            if generate_audio and self.audio_handler:
                 # Get storage configuration
                 storage_config = self.config.get('storage', {})
                 bucket_name = storage_config.get('bucket_name', 'assets')
                 content_folder = storage_config.get('content_folder', 'content')
                 
-                # Check if audio already exists for this verse reference
-                # Look for any existing audio file with this verse reference
-                existing_audio = self.supabase.table('asset_content_link') \
-                    .select('audio_id') \
-                    .like('audio_id', f'{content_folder}/{verse_ref}_%') \
-                    .limit(1) \
-                    .execute()
+                # Get project name for local storage
+                project_name = project_info.get('name', 'default').replace(' ', '_')
                 
-                if existing_audio.data and existing_audio.data[0]['audio_id']:
-                    # Reuse existing audio file
-                    audio_id = existing_audio.data[0]['audio_id']
-                    print(f"Reusing existing audio for {verse_ref}: {audio_id}")
-                else:
-                    # Generate new audio file
+                # Check if we should save to database and if audio already exists
+                if save_to_database:
+                    existing_audio = self.supabase.table('asset_content_link') \
+                        .select('audio_id') \
+                        .like('audio_id', f'{content_folder}/{verse_ref}_%') \
+                        .limit(1) \
+                        .execute()
+                    
+                    if existing_audio.data and existing_audio.data[0]['audio_id']:
+                        # Reuse existing audio file
+                        audio_id = existing_audio.data[0]['audio_id']
+                        print(f"Reusing existing audio for {verse_ref}: {audio_id}")
+                
+                # Generate audio if needed
+                if not audio_id or save_local:
                     file_uuid = str(uuid.uuid4())
                     filename = f"{verse_ref}_{file_uuid}.m4a"
                     
-                    # Create temporary audio file
-                    temp_audio_path = f"temp_{asset_id}.m4a"
-                    if self.generate_audio_v3(verse_text, temp_audio_path, voice_id):
-                        # Upload to storage with full path
-                        storage_path = f"{content_folder}/{filename}"
-                        audio_url = self.upload_audio_to_storage(temp_audio_path, storage_path, bucket_name)
-                        if audio_url:
-                            audio_id = storage_path
-                            print(f"Generated new audio for {verse_ref}: {audio_id}")
-                            
-                            # Record the audio file creation
-                            if self.session_recorder:
-                                self.session_recorder.add_record('audio_files', storage_path, {
-                                    'bucket': bucket_name,
-                                    'path': storage_path
-                                })
+                    # Determine output path
+                    if save_local:
+                        # Create local directory structure
+                        local_dir = os.path.join("generated_audio", project_name)
+                        os.makedirs(local_dir, exist_ok=True)
+                        local_path = os.path.join(local_dir, filename)
+                    else:
+                        # Use temp file for database upload only
+                        local_path = f"temp_{asset_id}.m4a"
+                    
+                    # Generate audio
+                    if self.audio_handler.generate_audio(verse_text, local_path):
+                        # Record local file if saved
+                        if save_local and self.session_recorder:
+                            self.session_recorder.add_record('local_audio_files', local_path, {
+                                'path': local_path,
+                                'verse_ref': verse_ref
+                            })
                         
-                        # Clean up temp file
-                        if os.path.exists(temp_audio_path):
-                            os.remove(temp_audio_path)
+                        # Upload to database if configured
+                        if save_to_database and not audio_id:
+                            storage_path = f"{content_folder}/{filename}"
+                            audio_url = self.upload_audio_to_storage(local_path, storage_path, bucket_name)
+                            if audio_url:
+                                audio_id = storage_path
+                                print(f"Generated and uploaded audio for {verse_ref}: {audio_id}")
+                                
+                                # Record the audio file creation
+                                if self.session_recorder:
+                                    self.session_recorder.add_record('audio_files', storage_path, {
+                                        'bucket': bucket_name,
+                                        'path': storage_path
+                                    })
+                        
+                        # Clean up temp file if not saving locally
+                        if not save_local and os.path.exists(local_path):
+                            os.remove(local_path)
             
             # Check if content link already exists
             existing_content = self.supabase.table('asset_content_link') \
@@ -315,21 +316,34 @@ class MasterScriptureProcessor:
         
         # Process languages
         lang_map = {}
-        for lang in project_data['languages']:
-            lang_id = upsert_language(self.supabase, lang)
-            lang_map[lang['english_name']] = lang_id
         
-        # Fetch any additional languages from DB
+        # Process languages from project data if provided
+        if 'languages' in project_data:
+            for lang in project_data['languages']:
+                lang_id = upsert_language(self.supabase, lang)
+                lang_map[lang['english_name']] = lang_id
+        
+        # Fetch any additional languages from DB (including all languages if none provided)
         for proj in project_data['projects']:
             for lang_name in (proj['source_language_english_name'], proj['target_language_english_name']):
                 if lang_name not in lang_map:
+                    # Try to fetch from database
                     resp = self.supabase.table('language') \
                         .select('id') \
                         .eq('english_name', lang_name) \
                         .execute()
-                    if not resp.data:
-                        raise RuntimeError(f"Language {lang_name} not found in DB")
-                    lang_map[lang_name] = resp.data[0]['id']
+                    
+                    if resp.data:
+                        # Language exists in database
+                        lang_map[lang_name] = resp.data[0]['id']
+                        print(f"Using existing language from database: {lang_name}")
+                    else:
+                        # Language not found in database
+                        raise RuntimeError(
+                            f"Language '{lang_name}' not found in database. "
+                            f"Either add it to the 'languages' section in your project file, "
+                            f"or ensure it exists in the database."
+                        )
         
         # Process projects and quests
         tag_cache = {}
@@ -434,8 +448,48 @@ class MasterScriptureProcessor:
                                     'asset_id': asset_id
                                 })
                 
-                # Add quest-level tags
-                for tag_name in quest.get('additional_tags', []):
+                # Collect unique books and chapters from all verses
+                quest_books = set()
+                quest_chapters = set()
+                
+                # Get book abbreviation config
+                book_abbr_config = self.config.get('book_abbreviations', {})
+                
+                for verse_ref, _ in all_verses:
+                    book_code, chapter, verse = verse_ref.split('_', 2)
+                    
+                    # Get formatted book name
+                    if book_abbr_config.get('use_localized', False):
+                        formatted_book = get_localized_book_name(
+                            book_code, 
+                            proj['source_language_english_name'], 
+                            self.book_names_data
+                        )
+                    else:
+                        formatted_book = book_code.title()
+                    
+                    quest_books.add(formatted_book)
+                    quest_chapters.add((formatted_book, chapter))
+                
+                # Add book and chapter tags for quest
+                quest_tags = []
+                
+                # Add book tags
+                for book in quest_books:
+                    quest_tags.append(f"livro:{book}")
+                
+                # Add chapter tags (only if quest covers a single book)
+                if len(quest_books) == 1:
+                    for book, chapter in quest_chapters:
+                        quest_tags.append(f"capítulo:{chapter}")
+                
+                # Add additional tags from JSON
+                quest_tags.extend(quest.get('additional_tags', []))
+                
+                print(f"Quest tags to add: {quest_tags}")
+                
+                # Create quest-tag links
+                for tag_name in quest_tags:
                     tag_id = get_or_create_tag(self.supabase, tag_cache, tag_name)
                     
                     # Check if link exists
@@ -449,6 +503,7 @@ class MasterScriptureProcessor:
                         self.supabase.table('quest_tag_link') \
                             .insert({'quest_id': quest_id, 'tag_id': tag_id}) \
                             .execute()
+                        print(f"  Added quest tag: {tag_name}")
                         
                         # Record the creation
                         if self.session_recorder:
@@ -456,6 +511,8 @@ class MasterScriptureProcessor:
                                 'quest_id': quest_id,
                                 'tag_id': tag_id
                             })
+                    else:
+                        print(f"  Quest tag already exists: {tag_name}")
         
         print("Processing complete!")
 

@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Filemom Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1133"
+          ],
+          "verse_ranges": [
+            [
+              "Phm 1:1",
+              "Phm 1:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

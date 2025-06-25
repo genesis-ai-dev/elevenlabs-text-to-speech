@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Efésios Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1098"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 1:1",
+              "Eph 1:23"
+            ]
+          ]
+        },
+        {
+          "name": "Efésios Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1099"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 2:1",
+              "Eph 2:22"
+            ]
+          ]
+        },
+        {
+          "name": "Efésios Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1100"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 3:1",
+              "Eph 3:21"
+            ]
+          ]
+        },
+        {
+          "name": "Efésios Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1101"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 4:1",
+              "Eph 4:32"
+            ]
+          ]
+        },
+        {
+          "name": "Efésios Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1102"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 5:1",
+              "Eph 5:33"
+            ]
+          ]
+        },
+        {
+          "name": "Efésios Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1103"
+          ],
+          "verse_ranges": [
+            [
+              "Eph 6:1",
+              "Eph 6:24"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

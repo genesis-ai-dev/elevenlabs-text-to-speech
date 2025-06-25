@@ -1,5 +1,5 @@
 {
-  "project_file": "json_projects/john_quests_ch_1.json",
+  "project_file": "json_projects/gen_pt-BR.json",
   
   "scripture_reference": {
     "bible_filename": "source_texts/brazilian_portuguese_translation_5.txt",
@@ -8,8 +8,19 @@
   },
   
   "audio_generation": {
-    "enabled": true,
-    "voice_id": "dX7gRq1dIvLTgUaWpEFn"
+    "provider": "openai",
+    "save_local": true,
+    "save_to_database": true,
+    
+    "elevenlabs": {
+      "voice_id": "dX7gRq1dIvLTgUaWpEFn"
+    },
+    
+    "openai": {
+      "voice": "echo",
+      "model": "gpt-4o-mini-tts",
+      "instructions": "Voice affect: Calm, composed, reverent, and trustworthy.\n\nTone: Sincere, respectable, and even.\n\nPacing:\n\n    Steady and consistent for narration.\n\n    Slightly faster for narrative action to maintain engagement.\n\nEmotions: Calm, confident narration.\n\nPronunciation:\n\n    Clear, precise Brazilian-Portuguese.\n\n    Give special care to biblical names and places (e.g., Jerusalém, Moisés, Abraão)."
+    }
   },
   
   "book_abbreviations": {

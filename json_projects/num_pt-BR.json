@@ -1,0 +1,481 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Números Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:118"
+          ],
+          "verse_ranges": [
+            [
+              "Num 1:1",
+              "Num 1:54"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:119"
+          ],
+          "verse_ranges": [
+            [
+              "Num 2:1",
+              "Num 2:34"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:120"
+          ],
+          "verse_ranges": [
+            [
+              "Num 3:1",
+              "Num 3:51"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:121"
+          ],
+          "verse_ranges": [
+            [
+              "Num 4:1",
+              "Num 4:49"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:122"
+          ],
+          "verse_ranges": [
+            [
+              "Num 5:1",
+              "Num 5:31"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:123"
+          ],
+          "verse_ranges": [
+            [
+              "Num 6:1",
+              "Num 6:27"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:124"
+          ],
+          "verse_ranges": [
+            [
+              "Num 7:1",
+              "Num 7:89"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:125"
+          ],
+          "verse_ranges": [
+            [
+              "Num 8:1",
+              "Num 8:26"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:126"
+          ],
+          "verse_ranges": [
+            [
+              "Num 9:1",
+              "Num 9:23"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:127"
+          ],
+          "verse_ranges": [
+            [
+              "Num 10:1",
+              "Num 10:36"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:128"
+          ],
+          "verse_ranges": [
+            [
+              "Num 11:1",
+              "Num 11:35"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:129"
+          ],
+          "verse_ranges": [
+            [
+              "Num 12:1",
+              "Num 12:16"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:130"
+          ],
+          "verse_ranges": [
+            [
+              "Num 13:1",
+              "Num 13:33"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:131"
+          ],
+          "verse_ranges": [
+            [
+              "Num 14:1",
+              "Num 14:45"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:132"
+          ],
+          "verse_ranges": [
+            [
+              "Num 15:1",
+              "Num 15:41"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:133"
+          ],
+          "verse_ranges": [
+            [
+              "Num 16:1",
+              "Num 16:50"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:134"
+          ],
+          "verse_ranges": [
+            [
+              "Num 17:1",
+              "Num 17:13"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:135"
+          ],
+          "verse_ranges": [
+            [
+              "Num 18:1",
+              "Num 18:32"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:136"
+          ],
+          "verse_ranges": [
+            [
+              "Num 19:1",
+              "Num 19:22"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:137"
+          ],
+          "verse_ranges": [
+            [
+              "Num 20:1",
+              "Num 20:29"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:138"
+          ],
+          "verse_ranges": [
+            [
+              "Num 21:1",
+              "Num 21:35"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:139"
+          ],
+          "verse_ranges": [
+            [
+              "Num 22:1",
+              "Num 22:41"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:140"
+          ],
+          "verse_ranges": [
+            [
+              "Num 23:1",
+              "Num 23:30"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:141"
+          ],
+          "verse_ranges": [
+            [
+              "Num 24:1",
+              "Num 24:25"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:142"
+          ],
+          "verse_ranges": [
+            [
+              "Num 25:1",
+              "Num 25:18"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:143"
+          ],
+          "verse_ranges": [
+            [
+              "Num 26:1",
+              "Num 26:65"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:144"
+          ],
+          "verse_ranges": [
+            [
+              "Num 27:1",
+              "Num 27:23"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:145"
+          ],
+          "verse_ranges": [
+            [
+              "Num 28:1",
+              "Num 28:31"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:146"
+          ],
+          "verse_ranges": [
+            [
+              "Num 29:1",
+              "Num 29:40"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:147"
+          ],
+          "verse_ranges": [
+            [
+              "Num 30:1",
+              "Num 30:16"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:148"
+          ],
+          "verse_ranges": [
+            [
+              "Num 31:1",
+              "Num 31:54"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:149"
+          ],
+          "verse_ranges": [
+            [
+              "Num 32:1",
+              "Num 32:42"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:150"
+          ],
+          "verse_ranges": [
+            [
+              "Num 33:1",
+              "Num 33:56"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:151"
+          ],
+          "verse_ranges": [
+            [
+              "Num 34:1",
+              "Num 34:29"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:152"
+          ],
+          "verse_ranges": [
+            [
+              "Num 35:1",
+              "Num 35:34"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:153"
+          ],
+          "verse_ranges": [
+            [
+              "Num 36:1",
+              "Num 36:13"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

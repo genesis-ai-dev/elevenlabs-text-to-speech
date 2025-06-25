@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Joel Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:877"
+          ],
+          "verse_ranges": [
+            [
+              "Jol 1:1",
+              "Jol 1:20"
+            ]
+          ]
+        },
+        {
+          "name": "Joel Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:878"
+          ],
+          "verse_ranges": [
+            [
+              "Jol 2:1",
+              "Jol 2:32"
+            ]
+          ]
+        },
+        {
+          "name": "Joel Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:879"
+          ],
+          "verse_ranges": [
+            [
+              "Jol 3:1",
+              "Jol 3:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

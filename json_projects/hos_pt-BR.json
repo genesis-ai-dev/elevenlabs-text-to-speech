@@ -1,0 +1,195 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Oséias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:863"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 1:1",
+              "Hos 1:11"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:864"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 2:1",
+              "Hos 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:865"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 3:1",
+              "Hos 3:5"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:866"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 4:1",
+              "Hos 4:19"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:867"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 5:1",
+              "Hos 5:15"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:868"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 6:1",
+              "Hos 6:11"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:869"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 7:1",
+              "Hos 7:16"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:870"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 8:1",
+              "Hos 8:14"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:871"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 9:1",
+              "Hos 9:17"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:872"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 10:1",
+              "Hos 10:15"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:873"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 11:1",
+              "Hos 11:12"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:874"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 12:1",
+              "Hos 12:14"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:875"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 13:1",
+              "Hos 13:16"
+            ]
+          ]
+        },
+        {
+          "name": "Oséias Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:876"
+          ],
+          "verse_ranges": [
+            [
+              "Hos 14:1",
+              "Hos 14:9"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

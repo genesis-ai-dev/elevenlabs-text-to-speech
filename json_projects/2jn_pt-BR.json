@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 João Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1165"
+          ],
+          "verse_ranges": [
+            [
+              "2Jn 1:1",
+              "2Jn 1:13"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

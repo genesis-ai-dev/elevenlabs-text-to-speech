@@ -1,0 +1,559 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Jó Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:437"
+          ],
+          "verse_ranges": [
+            [
+              "Job 1:1",
+              "Job 1:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:438"
+          ],
+          "verse_ranges": [
+            [
+              "Job 2:1",
+              "Job 2:13"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:439"
+          ],
+          "verse_ranges": [
+            [
+              "Job 3:1",
+              "Job 3:26"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:440"
+          ],
+          "verse_ranges": [
+            [
+              "Job 4:1",
+              "Job 4:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:441"
+          ],
+          "verse_ranges": [
+            [
+              "Job 5:1",
+              "Job 5:27"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:442"
+          ],
+          "verse_ranges": [
+            [
+              "Job 6:1",
+              "Job 6:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:443"
+          ],
+          "verse_ranges": [
+            [
+              "Job 7:1",
+              "Job 7:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:444"
+          ],
+          "verse_ranges": [
+            [
+              "Job 8:1",
+              "Job 8:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:445"
+          ],
+          "verse_ranges": [
+            [
+              "Job 9:1",
+              "Job 9:35"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:446"
+          ],
+          "verse_ranges": [
+            [
+              "Job 10:1",
+              "Job 10:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:447"
+          ],
+          "verse_ranges": [
+            [
+              "Job 11:1",
+              "Job 11:20"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:448"
+          ],
+          "verse_ranges": [
+            [
+              "Job 12:1",
+              "Job 12:25"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:449"
+          ],
+          "verse_ranges": [
+            [
+              "Job 13:1",
+              "Job 13:28"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:450"
+          ],
+          "verse_ranges": [
+            [
+              "Job 14:1",
+              "Job 14:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:451"
+          ],
+          "verse_ranges": [
+            [
+              "Job 15:1",
+              "Job 15:35"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:452"
+          ],
+          "verse_ranges": [
+            [
+              "Job 16:1",
+              "Job 16:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:453"
+          ],
+          "verse_ranges": [
+            [
+              "Job 17:1",
+              "Job 17:16"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:454"
+          ],
+          "verse_ranges": [
+            [
+              "Job 18:1",
+              "Job 18:21"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:455"
+          ],
+          "verse_ranges": [
+            [
+              "Job 19:1",
+              "Job 19:29"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:456"
+          ],
+          "verse_ranges": [
+            [
+              "Job 20:1",
+              "Job 20:29"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:457"
+          ],
+          "verse_ranges": [
+            [
+              "Job 21:1",
+              "Job 21:34"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:458"
+          ],
+          "verse_ranges": [
+            [
+              "Job 22:1",
+              "Job 22:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:459"
+          ],
+          "verse_ranges": [
+            [
+              "Job 23:1",
+              "Job 23:17"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:460"
+          ],
+          "verse_ranges": [
+            [
+              "Job 24:1",
+              "Job 24:25"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:461"
+          ],
+          "verse_ranges": [
+            [
+              "Job 25:1",
+              "Job 25:6"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:462"
+          ],
+          "verse_ranges": [
+            [
+              "Job 26:1",
+              "Job 26:14"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:463"
+          ],
+          "verse_ranges": [
+            [
+              "Job 27:1",
+              "Job 27:23"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:464"
+          ],
+          "verse_ranges": [
+            [
+              "Job 28:1",
+              "Job 28:28"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:465"
+          ],
+          "verse_ranges": [
+            [
+              "Job 29:1",
+              "Job 29:25"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:466"
+          ],
+          "verse_ranges": [
+            [
+              "Job 30:1",
+              "Job 30:31"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:467"
+          ],
+          "verse_ranges": [
+            [
+              "Job 31:1",
+              "Job 31:40"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:468"
+          ],
+          "verse_ranges": [
+            [
+              "Job 32:1",
+              "Job 32:22"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:469"
+          ],
+          "verse_ranges": [
+            [
+              "Job 33:1",
+              "Job 33:33"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:470"
+          ],
+          "verse_ranges": [
+            [
+              "Job 34:1",
+              "Job 34:37"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:471"
+          ],
+          "verse_ranges": [
+            [
+              "Job 35:1",
+              "Job 35:16"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:472"
+          ],
+          "verse_ranges": [
+            [
+              "Job 36:1",
+              "Job 36:33"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:473"
+          ],
+          "verse_ranges": [
+            [
+              "Job 37:1",
+              "Job 37:24"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:474"
+          ],
+          "verse_ranges": [
+            [
+              "Job 38:1",
+              "Job 38:41"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:475"
+          ],
+          "verse_ranges": [
+            [
+              "Job 39:1",
+              "Job 39:30"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:476"
+          ],
+          "verse_ranges": [
+            [
+              "Job 40:1",
+              "Job 40:24"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 41",
+          "description": "",
+          "additional_tags": [
+            "misión:477"
+          ],
+          "verse_ranges": [
+            [
+              "Job 41:1",
+              "Job 41:34"
+            ]
+          ]
+        },
+        {
+          "name": "Jó Capítulo 42",
+          "description": "",
+          "additional_tags": [
+            "misión:478"
+          ],
+          "verse_ranges": [
+            [
+              "Job 42:1",
+              "Job 42:17"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

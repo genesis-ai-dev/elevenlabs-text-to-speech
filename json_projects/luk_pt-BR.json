@@ -1,0 +1,325 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Lucas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:974"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 1:1",
+              "Luk 1:80"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:975"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 2:1",
+              "Luk 2:52"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:976"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 3:1",
+              "Luk 3:38"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:977"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 4:1",
+              "Luk 4:44"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:978"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 5:1",
+              "Luk 5:39"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:979"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 6:1",
+              "Luk 6:49"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:980"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 7:1",
+              "Luk 7:50"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:981"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 8:1",
+              "Luk 8:56"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:982"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 9:1",
+              "Luk 9:62"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:983"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 10:1",
+              "Luk 10:42"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:984"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 11:1",
+              "Luk 11:54"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:985"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 12:1",
+              "Luk 12:59"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:986"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 13:1",
+              "Luk 13:35"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:987"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 14:1",
+              "Luk 14:35"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:988"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 15:1",
+              "Luk 15:32"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:989"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 16:1",
+              "Luk 16:31"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:990"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 17:1",
+              "Luk 17:37"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:991"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 18:1",
+              "Luk 18:43"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:992"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 19:1",
+              "Luk 19:48"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:993"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 20:1",
+              "Luk 20:47"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:994"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 21:1",
+              "Luk 21:38"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:995"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 22:1",
+              "Luk 22:71"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:996"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 23:1",
+              "Luk 23:56"
+            ]
+          ]
+        },
+        {
+          "name": "Lucas Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:997"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 24:1",
+              "Luk 24:53"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

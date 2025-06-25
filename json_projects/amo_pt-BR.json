@@ -1,0 +1,130 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Amós Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:880"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 1:1",
+              "Amo 1:15"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:881"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 2:1",
+              "Amo 2:16"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:882"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 3:1",
+              "Amo 3:15"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:883"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 4:1",
+              "Amo 4:13"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:884"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 5:1",
+              "Amo 5:27"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:885"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 6:1",
+              "Amo 6:14"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:886"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 7:1",
+              "Amo 7:17"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:887"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 8:1",
+              "Amo 8:14"
+            ]
+          ]
+        },
+        {
+          "name": "Amós Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:888"
+          ],
+          "verse_ranges": [
+            [
+              "Amo 9:1",
+              "Amo 9:15"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

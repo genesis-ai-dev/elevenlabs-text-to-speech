@@ -1,0 +1,56 @@
+{
+  "timestamp": "20250624_183947",
+  "languages": [],
+  "projects": [],
+  "quests": [],
+  "assets": [],
+  "asset_content_links": [],
+  "quest_asset_links": [],
+  "asset_tag_links": [],
+  "quest_tag_links": [],
+  "tags": [],
+  "audio_files": [
+    {
+      "id": "content/GEN_1_1_99a65d1e-a4fe-4513-ac24-d0b5ea674e44.m4a",
+      "bucket": "assets",
+      "path": "content/GEN_1_1_99a65d1e-a4fe-4513-ac24-d0b5ea674e44.m4a"
+    },
+    {
+      "id": "content/GEN_1_2_9bfe73e2-e5a3-489e-a9ce-649259d05e48.m4a",
+      "bucket": "assets",
+      "path": "content/GEN_1_2_9bfe73e2-e5a3-489e-a9ce-649259d05e48.m4a"
+    },
+    {
+      "id": "content/GEN_2_1_26b7effc-5907-48b6-b33b-2df597e6486a.m4a",
+      "bucket": "assets",
+      "path": "content/GEN_2_1_26b7effc-5907-48b6-b33b-2df597e6486a.m4a"
+    },
+    {
+      "id": "content/GEN_2_2_93d9b3c1-e0f3-463f-b2f3-36f3fb9e5802.m4a",
+      "bucket": "assets",
+      "path": "content/GEN_2_2_93d9b3c1-e0f3-463f-b2f3-36f3fb9e5802.m4a"
+    }
+  ],
+  "local_audio_files": [
+    {
+      "id": "generated_audio\\B\u00edblia\\GEN_1_1_99a65d1e-a4fe-4513-ac24-d0b5ea674e44.m4a",
+      "path": "generated_audio\\B\u00edblia\\GEN_1_1_99a65d1e-a4fe-4513-ac24-d0b5ea674e44.m4a",
+      "verse_ref": "GEN_1_1"
+    },
+    {
+      "id": "generated_audio\\B\u00edblia\\GEN_1_2_9bfe73e2-e5a3-489e-a9ce-649259d05e48.m4a",
+      "path": "generated_audio\\B\u00edblia\\GEN_1_2_9bfe73e2-e5a3-489e-a9ce-649259d05e48.m4a",
+      "verse_ref": "GEN_1_2"
+    },
+    {
+      "id": "generated_audio\\B\u00edblia\\GEN_2_1_26b7effc-5907-48b6-b33b-2df597e6486a.m4a",
+      "path": "generated_audio\\B\u00edblia\\GEN_2_1_26b7effc-5907-48b6-b33b-2df597e6486a.m4a",
+      "verse_ref": "GEN_2_1"
+    },
+    {
+      "id": "generated_audio\\B\u00edblia\\GEN_2_2_93d9b3c1-e0f3-463f-b2f3-36f3fb9e5802.m4a",
+      "path": "generated_audio\\B\u00edblia\\GEN_2_2_93d9b3c1-e0f3-463f-b2f3-36f3fb9e5802.m4a",
+      "verse_ref": "GEN_2_2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Obadias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:889"
+          ],
+          "verse_ranges": [
+            [
+              "Oba 1:1",
+              "Oba 1:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

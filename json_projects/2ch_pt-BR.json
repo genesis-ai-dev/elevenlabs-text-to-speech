@@ -1,0 +1,481 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Crônicas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:368"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 1:1",
+              "2Ch 1:17"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:369"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 2:1",
+              "2Ch 2:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:370"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 3:1",
+              "2Ch 3:17"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:371"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 4:1",
+              "2Ch 4:22"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:372"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 5:1",
+              "2Ch 5:14"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:373"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 6:1",
+              "2Ch 6:42"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:374"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 7:1",
+              "2Ch 7:22"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:375"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 8:1",
+              "2Ch 8:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:376"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 9:1",
+              "2Ch 9:31"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:377"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 10:1",
+              "2Ch 10:19"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:378"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 11:1",
+              "2Ch 11:23"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:379"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 12:1",
+              "2Ch 12:16"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:380"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 13:1",
+              "2Ch 13:22"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:381"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 14:1",
+              "2Ch 14:15"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:382"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 15:1",
+              "2Ch 15:19"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:383"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 16:1",
+              "2Ch 16:14"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:384"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 17:1",
+              "2Ch 17:19"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:385"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 18:1",
+              "2Ch 18:34"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:386"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 19:1",
+              "2Ch 19:11"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:387"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 20:1",
+              "2Ch 20:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:388"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 21:1",
+              "2Ch 21:20"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:389"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 22:1",
+              "2Ch 22:12"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:390"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 23:1",
+              "2Ch 23:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:391"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 24:1",
+              "2Ch 24:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:392"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 25:1",
+              "2Ch 25:28"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:393"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 26:1",
+              "2Ch 26:23"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:394"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 27:1",
+              "2Ch 27:9"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:395"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 28:1",
+              "2Ch 28:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:396"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 29:1",
+              "2Ch 29:36"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:397"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 30:1",
+              "2Ch 30:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:398"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 31:1",
+              "2Ch 31:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:399"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 32:1",
+              "2Ch 32:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:400"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 33:1",
+              "2Ch 33:25"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:401"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 34:1",
+              "2Ch 34:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:402"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 35:1",
+              "2Ch 35:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Crônicas Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:403"
+          ],
+          "verse_ranges": [
+            [
+              "2Ch 36:1",
+              "2Ch 36:23"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Timóteo Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1120"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 1:1",
+              "1Ti 1:20"
+            ]
+          ]
+        },
+        {
+          "name": "1 Timóteo Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1121"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 2:1",
+              "1Ti 2:15"
+            ]
+          ]
+        },
+        {
+          "name": "1 Timóteo Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1122"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 3:1",
+              "1Ti 3:16"
+            ]
+          ]
+        },
+        {
+          "name": "1 Timóteo Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1123"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 4:1",
+              "1Ti 4:16"
+            ]
+          ]
+        },
+        {
+          "name": "1 Timóteo Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1124"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 5:1",
+              "1Ti 5:25"
+            ]
+          ]
+        },
+        {
+          "name": "1 Timóteo Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1125"
+          ],
+          "verse_ranges": [
+            [
+              "1Ti 6:1",
+              "1Ti 6:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

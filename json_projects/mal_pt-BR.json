@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Malaquias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:926"
+          ],
+          "verse_ranges": [
+            [
+              "Mal 1:1",
+              "Mal 1:14"
+            ]
+          ]
+        },
+        {
+          "name": "Malaquias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:927"
+          ],
+          "verse_ranges": [
+            [
+              "Mal 2:1",
+              "Mal 2:17"
+            ]
+          ]
+        },
+        {
+          "name": "Malaquias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:928"
+          ],
+          "verse_ranges": [
+            [
+              "Mal 3:1",
+              "Mal 3:18"
+            ]
+          ]
+        },
+        {
+          "name": "Malaquias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:929"
+          ],
+          "verse_ranges": [
+            [
+              "Mal 4:1",
+              "Mal 4:6"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Naum Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:901"
+          ],
+          "verse_ranges": [
+            [
+              "Nam 1:1",
+              "Nam 1:15"
+            ]
+          ]
+        },
+        {
+          "name": "Naum Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:902"
+          ],
+          "verse_ranges": [
+            [
+              "Nam 2:1",
+              "Nam 2:13"
+            ]
+          ]
+        },
+        {
+          "name": "Naum Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:903"
+          ],
+          "verse_ranges": [
+            [
+              "Nam 3:1",
+              "Nam 3:19"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Apocalipse Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1168"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 1:1",
+              "Rev 1:20"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1169"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 2:1",
+              "Rev 2:29"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1170"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 3:1",
+              "Rev 3:22"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1171"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 4:1",
+              "Rev 4:11"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1172"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 5:1",
+              "Rev 5:14"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1173"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 6:1",
+              "Rev 6:17"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1174"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 7:1",
+              "Rev 7:17"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1175"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 8:1",
+              "Rev 8:13"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1176"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 9:1",
+              "Rev 9:21"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1177"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 10:1",
+              "Rev 10:11"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1178"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 11:1",
+              "Rev 11:19"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1179"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 12:1",
+              "Rev 12:18"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1180"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 13:1",
+              "Rev 13:18"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:1181"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 14:1",
+              "Rev 14:20"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:1182"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 15:1",
+              "Rev 15:8"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:1183"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 16:1",
+              "Rev 16:21"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:1184"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 17:1",
+              "Rev 17:18"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:1185"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 18:1",
+              "Rev 18:24"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:1186"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 19:1",
+              "Rev 19:21"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:1187"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 20:1",
+              "Rev 20:15"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:1188"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 21:1",
+              "Rev 21:27"
+            ]
+          ]
+        },
+        {
+          "name": "Apocalipse Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:1189"
+          ],
+          "verse_ranges": [
+            [
+              "Rev 22:1",
+              "Rev 22:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

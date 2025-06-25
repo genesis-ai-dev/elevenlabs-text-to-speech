@@ -1,0 +1,364 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Levítico Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:91"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 1:1",
+              "Lev 1:17"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:92"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 2:1",
+              "Lev 2:16"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:93"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 3:1",
+              "Lev 3:17"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:94"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 4:1",
+              "Lev 4:35"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:95"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 5:1",
+              "Lev 5:19"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:96"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 6:1",
+              "Lev 6:30"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:97"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 7:1",
+              "Lev 7:38"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:98"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 8:1",
+              "Lev 8:36"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:99"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 9:1",
+              "Lev 9:24"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:100"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 10:1",
+              "Lev 10:20"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:101"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 11:1",
+              "Lev 11:47"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:102"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 12:1",
+              "Lev 12:8"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:103"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 13:1",
+              "Lev 13:59"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:104"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 14:1",
+              "Lev 14:57"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:105"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 15:1",
+              "Lev 15:33"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:106"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 16:1",
+              "Lev 16:34"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:107"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 17:1",
+              "Lev 17:16"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:108"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 18:1",
+              "Lev 18:30"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:109"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 19:1",
+              "Lev 19:37"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:110"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 20:1",
+              "Lev 20:27"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:111"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 21:1",
+              "Lev 21:24"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:112"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 22:1",
+              "Lev 22:33"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:113"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 23:1",
+              "Lev 23:44"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:114"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 24:1",
+              "Lev 24:23"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:115"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 25:1",
+              "Lev 25:55"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:116"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 26:1",
+              "Lev 26:46"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:117"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 27:1",
+              "Lev 27:34"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

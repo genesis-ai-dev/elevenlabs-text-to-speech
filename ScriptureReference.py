@@ -306,7 +306,13 @@ class ScriptureReference:
         bookPrefix, bookName, startChapter, startVerse, endChapter, endVerse = match.groups()
         fullBookName = f"{bookPrefix or ''}{bookName}".upper()
 
-        bookCode = next((code for code, details in book_codes.items() if any(fullBookName.startswith(name.upper()) for name in details['codes'])), None)
+        # First try exact match with the book code keys
+        bookCode = fullBookName if fullBookName in book_codes else None
+        
+        # If no exact match, try matching with the alternate codes
+        if not bookCode:
+            bookCode = next((code for code, details in book_codes.items() if any(fullBookName.startswith(name.upper()) for name in details['codes'])), None)
+        
         if not bookCode:
             return None
 
@@ -473,9 +479,9 @@ class ScriptureReference:
 # scripture_ref = ScriptureReference("gen 1:1", "gen 1:5", 'C:/Users/caleb/Downloads/SPAWTC_palabra_de_dios_para_todos_text/content/chapters', 'xhtml').verses
 # print("Verses from XHTML:")
 # [print(verse) for verse in scripture_ref]
-
+       
 # Example usage with local eBible file:
-# scripture_ref = ScriptureReference('jn 1:1', 'jn 1:51', 'brazilian_portuguese_translation_4.txt', 'local_ebible')
+# scripture_ref = ScriptureReference(start_ref='song 1:1', bible_filename='source_texts/brazilian_portuguese_translation_5.txt', source_type='local_ebible')
 # print("Verses from local eBible file:")
 # for verse in scripture_ref.verses:
 #     print(verse)

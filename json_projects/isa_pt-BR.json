@@ -1,0 +1,871 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Isaías Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:680"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 1:1",
+              "Isa 1:31"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:681"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 2:1",
+              "Isa 2:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:682"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 3:1",
+              "Isa 3:26"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:683"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 4:1",
+              "Isa 4:6"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:684"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 5:1",
+              "Isa 5:30"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:685"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 6:1",
+              "Isa 6:13"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:686"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 7:1",
+              "Isa 7:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:687"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 8:1",
+              "Isa 8:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:688"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 9:1",
+              "Isa 9:21"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:689"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 10:1",
+              "Isa 10:34"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:690"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 11:1",
+              "Isa 11:16"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:691"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 12:1",
+              "Isa 12:6"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:692"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 13:1",
+              "Isa 13:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:693"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 14:1",
+              "Isa 14:32"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:694"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 15:1",
+              "Isa 15:9"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:695"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 16:1",
+              "Isa 16:14"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:696"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 17:1",
+              "Isa 17:14"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:697"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 18:1",
+              "Isa 18:7"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:698"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 19:1",
+              "Isa 19:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:699"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 20:1",
+              "Isa 20:6"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:700"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 21:1",
+              "Isa 21:17"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:701"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 22:1",
+              "Isa 22:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:702"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 23:1",
+              "Isa 23:18"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:703"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 24:1",
+              "Isa 24:23"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:704"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 25:1",
+              "Isa 25:12"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:705"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 26:1",
+              "Isa 26:21"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:706"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 27:1",
+              "Isa 27:13"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:707"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 28:1",
+              "Isa 28:29"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:708"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 29:1",
+              "Isa 29:24"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:709"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 30:1",
+              "Isa 30:33"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:710"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 31:1",
+              "Isa 31:9"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:711"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 32:1",
+              "Isa 32:20"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:712"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 33:1",
+              "Isa 33:24"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:713"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 34:1",
+              "Isa 34:17"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:714"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 35:1",
+              "Isa 35:10"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:715"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 36:1",
+              "Isa 36:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:716"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 37:1",
+              "Isa 37:38"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:717"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 38:1",
+              "Isa 38:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:718"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 39:1",
+              "Isa 39:8"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:719"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 40:1",
+              "Isa 40:31"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 41",
+          "description": "",
+          "additional_tags": [
+            "misión:720"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 41:1",
+              "Isa 41:29"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 42",
+          "description": "",
+          "additional_tags": [
+            "misión:721"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 42:1",
+              "Isa 42:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 43",
+          "description": "",
+          "additional_tags": [
+            "misión:722"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 43:1",
+              "Isa 43:28"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 44",
+          "description": "",
+          "additional_tags": [
+            "misión:723"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 44:1",
+              "Isa 44:28"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 45",
+          "description": "",
+          "additional_tags": [
+            "misión:724"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 45:1",
+              "Isa 45:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 46",
+          "description": "",
+          "additional_tags": [
+            "misión:725"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 46:1",
+              "Isa 46:13"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 47",
+          "description": "",
+          "additional_tags": [
+            "misión:726"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 47:1",
+              "Isa 47:15"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 48",
+          "description": "",
+          "additional_tags": [
+            "misión:727"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 48:1",
+              "Isa 48:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 49",
+          "description": "",
+          "additional_tags": [
+            "misión:728"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 49:1",
+              "Isa 49:26"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 50",
+          "description": "",
+          "additional_tags": [
+            "misión:729"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 50:1",
+              "Isa 50:11"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 51",
+          "description": "",
+          "additional_tags": [
+            "misión:730"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 51:1",
+              "Isa 51:23"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 52",
+          "description": "",
+          "additional_tags": [
+            "misión:731"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 52:1",
+              "Isa 52:15"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 53",
+          "description": "",
+          "additional_tags": [
+            "misión:732"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 53:1",
+              "Isa 53:12"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 54",
+          "description": "",
+          "additional_tags": [
+            "misión:733"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 54:1",
+              "Isa 54:17"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 55",
+          "description": "",
+          "additional_tags": [
+            "misión:734"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 55:1",
+              "Isa 55:13"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 56",
+          "description": "",
+          "additional_tags": [
+            "misión:735"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 56:1",
+              "Isa 56:12"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 57",
+          "description": "",
+          "additional_tags": [
+            "misión:736"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 57:1",
+              "Isa 57:21"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 58",
+          "description": "",
+          "additional_tags": [
+            "misión:737"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 58:1",
+              "Isa 58:14"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 59",
+          "description": "",
+          "additional_tags": [
+            "misión:738"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 59:1",
+              "Isa 59:21"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 60",
+          "description": "",
+          "additional_tags": [
+            "misión:739"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 60:1",
+              "Isa 60:22"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 61",
+          "description": "",
+          "additional_tags": [
+            "misión:740"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 61:1",
+              "Isa 61:11"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 62",
+          "description": "",
+          "additional_tags": [
+            "misión:741"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 62:1",
+              "Isa 62:12"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 63",
+          "description": "",
+          "additional_tags": [
+            "misión:742"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 63:1",
+              "Isa 63:19"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 64",
+          "description": "",
+          "additional_tags": [
+            "misión:743"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 64:1",
+              "Isa 64:11"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 65",
+          "description": "",
+          "additional_tags": [
+            "misión:744"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 65:1",
+              "Isa 65:25"
+            ]
+          ]
+        },
+        {
+          "name": "Isaías Capítulo 66",
+          "description": "",
+          "additional_tags": [
+            "misión:745"
+          ],
+          "verse_ranges": [
+            [
+              "Isa 66:1",
+              "Isa 66:24"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

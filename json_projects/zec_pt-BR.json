@@ -1,0 +1,195 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Zacarias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:912"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 1:1",
+              "Zec 1:21"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:913"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 2:1",
+              "Zec 2:13"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:914"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 3:1",
+              "Zec 3:10"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:915"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 4:1",
+              "Zec 4:14"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:916"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 5:1",
+              "Zec 5:11"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:917"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 6:1",
+              "Zec 6:15"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:918"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 7:1",
+              "Zec 7:14"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:919"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 8:1",
+              "Zec 8:23"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:920"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 9:1",
+              "Zec 9:17"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:921"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 10:1",
+              "Zec 10:12"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:922"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 11:1",
+              "Zec 11:17"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:923"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 12:1",
+              "Zec 12:14"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:924"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 13:1",
+              "Zec 13:9"
+            ]
+          ]
+        },
+        {
+          "name": "Zacarias Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:925"
+          ],
+          "verse_ranges": [
+            [
+              "Zec 14:1",
+              "Zec 14:21"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

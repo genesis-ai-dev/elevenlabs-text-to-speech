@@ -1,0 +1,325 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Josué Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:188"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 1:1",
+              "Jos 1:18"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:189"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 2:1",
+              "Jos 2:24"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:190"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 3:1",
+              "Jos 3:17"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:191"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 4:1",
+              "Jos 4:24"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:192"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 5:1",
+              "Jos 5:15"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:193"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 6:1",
+              "Jos 6:27"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:194"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 7:1",
+              "Jos 7:26"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:195"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 8:1",
+              "Jos 8:35"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:196"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 9:1",
+              "Jos 9:27"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:197"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 10:1",
+              "Jos 10:43"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:198"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 11:1",
+              "Jos 11:23"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:199"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 12:1",
+              "Jos 12:24"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:200"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 13:1",
+              "Jos 13:33"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:201"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 14:1",
+              "Jos 14:15"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:202"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 15:1",
+              "Jos 15:63"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:203"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 16:1",
+              "Jos 16:10"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:204"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 17:1",
+              "Jos 17:18"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:205"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 18:1",
+              "Jos 18:28"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:206"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 19:1",
+              "Jos 19:51"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:207"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 20:1",
+              "Jos 20:9"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:208"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 21:1",
+              "Jos 21:45"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:209"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 22:1",
+              "Jos 22:34"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:210"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 23:1",
+              "Jos 23:16"
+            ]
+          ]
+        },
+        {
+          "name": "Josué Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:211"
+          ],
+          "verse_ranges": [
+            [
+              "Jos 24:1",
+              "Jos 24:33"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

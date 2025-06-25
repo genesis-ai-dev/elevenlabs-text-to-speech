@@ -1,0 +1,377 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Atos dos Apóstolos Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1019"
+          ],
+          "verse_ranges": [
+            [
+              "Act 1:1",
+              "Act 1:26"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1020"
+          ],
+          "verse_ranges": [
+            [
+              "Act 2:1",
+              "Act 2:47"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1021"
+          ],
+          "verse_ranges": [
+            [
+              "Act 3:1",
+              "Act 3:26"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1022"
+          ],
+          "verse_ranges": [
+            [
+              "Act 4:1",
+              "Act 4:37"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1023"
+          ],
+          "verse_ranges": [
+            [
+              "Act 5:1",
+              "Act 5:42"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1024"
+          ],
+          "verse_ranges": [
+            [
+              "Act 6:1",
+              "Act 6:15"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1025"
+          ],
+          "verse_ranges": [
+            [
+              "Act 7:1",
+              "Act 7:60"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1026"
+          ],
+          "verse_ranges": [
+            [
+              "Act 8:1",
+              "Act 8:40"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1027"
+          ],
+          "verse_ranges": [
+            [
+              "Act 9:1",
+              "Act 9:43"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1028"
+          ],
+          "verse_ranges": [
+            [
+              "Act 10:1",
+              "Act 10:48"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1029"
+          ],
+          "verse_ranges": [
+            [
+              "Act 11:1",
+              "Act 11:30"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1030"
+          ],
+          "verse_ranges": [
+            [
+              "Act 12:1",
+              "Act 12:25"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1031"
+          ],
+          "verse_ranges": [
+            [
+              "Act 13:1",
+              "Act 13:52"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:1032"
+          ],
+          "verse_ranges": [
+            [
+              "Act 14:1",
+              "Act 14:28"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:1033"
+          ],
+          "verse_ranges": [
+            [
+              "Act 15:1",
+              "Act 15:41"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:1034"
+          ],
+          "verse_ranges": [
+            [
+              "Act 16:1",
+              "Act 16:40"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:1035"
+          ],
+          "verse_ranges": [
+            [
+              "Act 17:1",
+              "Act 17:34"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:1036"
+          ],
+          "verse_ranges": [
+            [
+              "Act 18:1",
+              "Act 18:28"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:1037"
+          ],
+          "verse_ranges": [
+            [
+              "Act 19:1",
+              "Act 19:40"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:1038"
+          ],
+          "verse_ranges": [
+            [
+              "Act 20:1",
+              "Act 20:38"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:1039"
+          ],
+          "verse_ranges": [
+            [
+              "Act 21:1",
+              "Act 21:40"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:1040"
+          ],
+          "verse_ranges": [
+            [
+              "Act 22:1",
+              "Act 22:30"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:1041"
+          ],
+          "verse_ranges": [
+            [
+              "Act 23:1",
+              "Act 23:35"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:1042"
+          ],
+          "verse_ranges": [
+            [
+              "Act 24:1",
+              "Act 24:27"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:1043"
+          ],
+          "verse_ranges": [
+            [
+              "Act 25:1",
+              "Act 25:27"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:1044"
+          ],
+          "verse_ranges": [
+            [
+              "Act 26:1",
+              "Act 26:32"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:1045"
+          ],
+          "verse_ranges": [
+            [
+              "Act 27:1",
+              "Act 27:44"
+            ]
+          ]
+        },
+        {
+          "name": "Atos dos Apóstolos Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:1046"
+          ],
+          "verse_ranges": [
+            [
+              "Act 28:1",
+              "Act 28:31"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

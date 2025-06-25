@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Timóteo Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1126"
+          ],
+          "verse_ranges": [
+            [
+              "2Ti 1:1",
+              "2Ti 1:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Timóteo Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1127"
+          ],
+          "verse_ranges": [
+            [
+              "2Ti 2:1",
+              "2Ti 2:26"
+            ]
+          ]
+        },
+        {
+          "name": "2 Timóteo Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1128"
+          ],
+          "verse_ranges": [
+            [
+              "2Ti 3:1",
+              "2Ti 3:17"
+            ]
+          ]
+        },
+        {
+          "name": "2 Timóteo Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1129"
+          ],
+          "verse_ranges": [
+            [
+              "2Ti 4:1",
+              "2Ti 4:22"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

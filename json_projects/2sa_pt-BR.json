@@ -1,0 +1,325 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Samuel Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:268"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 1:1",
+              "2Sa 1:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:269"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 2:1",
+              "2Sa 2:32"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:270"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 3:1",
+              "2Sa 3:39"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:271"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 4:1",
+              "2Sa 4:12"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:272"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 5:1",
+              "2Sa 5:25"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:273"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 6:1",
+              "2Sa 6:23"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:274"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 7:1",
+              "2Sa 7:29"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:275"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 8:1",
+              "2Sa 8:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:276"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 9:1",
+              "2Sa 9:13"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:277"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 10:1",
+              "2Sa 10:19"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:278"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 11:1",
+              "2Sa 11:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:279"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 12:1",
+              "2Sa 12:31"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:280"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 13:1",
+              "2Sa 13:39"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:281"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 14:1",
+              "2Sa 14:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:282"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 15:1",
+              "2Sa 15:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:283"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 16:1",
+              "2Sa 16:23"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:284"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 17:1",
+              "2Sa 17:29"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:285"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 18:1",
+              "2Sa 18:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:286"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 19:1",
+              "2Sa 19:43"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:287"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 20:1",
+              "2Sa 20:26"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:288"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 21:1",
+              "2Sa 21:22"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:289"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 22:1",
+              "2Sa 22:51"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:290"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 23:1",
+              "2Sa 23:39"
+            ]
+          ]
+        },
+        {
+          "name": "2 Samuel Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:291"
+          ],
+          "verse_ranges": [
+            [
+              "2Sa 24:1",
+              "2Sa 24:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

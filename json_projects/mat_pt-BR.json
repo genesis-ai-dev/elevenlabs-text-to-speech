@@ -1,0 +1,377 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Mateus Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:930"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 1:1",
+              "Mat 1:25"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:931"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 2:1",
+              "Mat 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:932"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 3:1",
+              "Mat 3:17"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:933"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 4:1",
+              "Mat 4:25"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:934"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 5:1",
+              "Mat 5:48"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:935"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 6:1",
+              "Mat 6:34"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:936"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 7:1",
+              "Mat 7:29"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:937"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 8:1",
+              "Mat 8:34"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:938"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 9:1",
+              "Mat 9:38"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:939"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 10:1",
+              "Mat 10:42"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:940"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 11:1",
+              "Mat 11:30"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:941"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 12:1",
+              "Mat 12:50"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:942"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 13:1",
+              "Mat 13:58"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:943"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 14:1",
+              "Mat 14:36"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:944"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 15:1",
+              "Mat 15:39"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:945"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 16:1",
+              "Mat 16:28"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:946"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 17:1",
+              "Mat 17:27"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:947"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 18:1",
+              "Mat 18:35"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:948"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 19:1",
+              "Mat 19:30"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:949"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 20:1",
+              "Mat 20:34"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:950"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 21:1",
+              "Mat 21:46"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:951"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 22:1",
+              "Mat 22:46"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:952"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 23:1",
+              "Mat 23:39"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:953"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 24:1",
+              "Mat 24:51"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:954"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 25:1",
+              "Mat 25:46"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:955"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 26:1",
+              "Mat 26:75"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:956"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 27:1",
+              "Mat 27:66"
+            ]
+          ]
+        },
+        {
+          "name": "Mateus Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:957"
+          ],
+          "verse_ranges": [
+            [
+              "Mat 28:1",
+              "Mat 28:20"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

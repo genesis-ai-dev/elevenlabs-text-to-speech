@@ -1,0 +1,221 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Coríntios Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1063"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 1:1",
+              "1Co 1:31"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1064"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 2:1",
+              "1Co 2:16"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1065"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 3:1",
+              "1Co 3:23"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1066"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 4:1",
+              "1Co 4:21"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1067"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 5:1",
+              "1Co 5:13"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1068"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 6:1",
+              "1Co 6:20"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1069"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 7:1",
+              "1Co 7:40"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1070"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 8:1",
+              "1Co 8:13"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1071"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 9:1",
+              "1Co 9:27"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1072"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 10:1",
+              "1Co 10:33"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1073"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 11:1",
+              "1Co 11:34"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1074"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 12:1",
+              "1Co 12:31"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1075"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 13:1",
+              "1Co 13:13"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:1076"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 14:1",
+              "1Co 14:40"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:1077"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 15:1",
+              "1Co 15:58"
+            ]
+          ]
+        },
+        {
+          "name": "1 Coríntios Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:1078"
+          ],
+          "verse_ranges": [
+            [
+              "1Co 16:1",
+              "1Co 16:24"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

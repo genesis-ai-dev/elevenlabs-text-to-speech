@@ -1,0 +1,33 @@
+{
+  "project_file": "json_projects/your_project.json",
+  
+  "scripture_reference": {
+    "bible_filename": "source_texts/your_bible_file.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  
+  "audio_generation": {
+    "provider": "openai",
+    "save_local": true,
+    "save_to_database": true,
+    
+    "elevenlabs": {
+      "voice_id": "your_elevenlabs_voice_id"
+    },
+    
+    "openai": {
+      "voice": "echo",
+      "model": "gpt-4o-mini-tts"
+    },
+  
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "pt-BR"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

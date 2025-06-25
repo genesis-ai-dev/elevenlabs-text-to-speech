@@ -1,0 +1,1963 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Salmos Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:479"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 1:1",
+              "Psa 1:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:480"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 2:1",
+              "Psa 2:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:481"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 3:1",
+              "Psa 3:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:482"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 4:1",
+              "Psa 4:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:483"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 5:1",
+              "Psa 5:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:484"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 6:1",
+              "Psa 6:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:485"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 7:1",
+              "Psa 7:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:486"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 8:1",
+              "Psa 8:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:487"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 9:1",
+              "Psa 9:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:488"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 10:1",
+              "Psa 10:18"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:489"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 11:1",
+              "Psa 11:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:490"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 12:1",
+              "Psa 12:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:491"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 13:1",
+              "Psa 13:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:492"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 14:1",
+              "Psa 14:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:493"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 15:1",
+              "Psa 15:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:494"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 16:1",
+              "Psa 16:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:495"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 17:1",
+              "Psa 17:15"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:496"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 18:1",
+              "Psa 18:50"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:497"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 19:1",
+              "Psa 19:14"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:498"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 20:1",
+              "Psa 20:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:499"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 21:1",
+              "Psa 21:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:500"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 22:1",
+              "Psa 22:31"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:501"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 23:1",
+              "Psa 23:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:502"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 24:1",
+              "Psa 24:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:503"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 25:1",
+              "Psa 25:22"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:504"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 26:1",
+              "Psa 26:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:505"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 27:1",
+              "Psa 27:14"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:506"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 28:1",
+              "Psa 28:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:507"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 29:1",
+              "Psa 29:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:508"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 30:1",
+              "Psa 30:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:509"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 31:1",
+              "Psa 31:24"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:510"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 32:1",
+              "Psa 32:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:511"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 33:1",
+              "Psa 33:22"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:512"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 34:1",
+              "Psa 34:22"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:513"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 35:1",
+              "Psa 35:28"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:514"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 36:1",
+              "Psa 36:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:515"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 37:1",
+              "Psa 37:40"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:516"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 38:1",
+              "Psa 38:22"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:517"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 39:1",
+              "Psa 39:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:518"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 40:1",
+              "Psa 40:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 41",
+          "description": "",
+          "additional_tags": [
+            "misión:519"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 41:1",
+              "Psa 41:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 42",
+          "description": "",
+          "additional_tags": [
+            "misión:520"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 42:1",
+              "Psa 42:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 43",
+          "description": "",
+          "additional_tags": [
+            "misión:521"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 43:1",
+              "Psa 43:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 44",
+          "description": "",
+          "additional_tags": [
+            "misión:522"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 44:1",
+              "Psa 44:26"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 45",
+          "description": "",
+          "additional_tags": [
+            "misión:523"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 45:1",
+              "Psa 45:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 46",
+          "description": "",
+          "additional_tags": [
+            "misión:524"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 46:1",
+              "Psa 46:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 47",
+          "description": "",
+          "additional_tags": [
+            "misión:525"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 47:1",
+              "Psa 47:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 48",
+          "description": "",
+          "additional_tags": [
+            "misión:526"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 48:1",
+              "Psa 48:14"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 49",
+          "description": "",
+          "additional_tags": [
+            "misión:527"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 49:1",
+              "Psa 49:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 50",
+          "description": "",
+          "additional_tags": [
+            "misión:528"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 50:1",
+              "Psa 50:23"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 51",
+          "description": "",
+          "additional_tags": [
+            "misión:529"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 51:1",
+              "Psa 51:19"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 52",
+          "description": "",
+          "additional_tags": [
+            "misión:530"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 52:1",
+              "Psa 52:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 53",
+          "description": "",
+          "additional_tags": [
+            "misión:531"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 53:1",
+              "Psa 53:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 54",
+          "description": "",
+          "additional_tags": [
+            "misión:532"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 54:1",
+              "Psa 54:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 55",
+          "description": "",
+          "additional_tags": [
+            "misión:533"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 55:1",
+              "Psa 55:23"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 56",
+          "description": "",
+          "additional_tags": [
+            "misión:534"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 56:1",
+              "Psa 56:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 57",
+          "description": "",
+          "additional_tags": [
+            "misión:535"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 57:1",
+              "Psa 57:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 58",
+          "description": "",
+          "additional_tags": [
+            "misión:536"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 58:1",
+              "Psa 58:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 59",
+          "description": "",
+          "additional_tags": [
+            "misión:537"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 59:2",
+              "Psa 59:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 60",
+          "description": "",
+          "additional_tags": [
+            "misión:538"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 60:1",
+              "Psa 60:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 61",
+          "description": "",
+          "additional_tags": [
+            "misión:539"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 61:1",
+              "Psa 61:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 62",
+          "description": "",
+          "additional_tags": [
+            "misión:540"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 62:1",
+              "Psa 62:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 63",
+          "description": "",
+          "additional_tags": [
+            "misión:541"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 63:1",
+              "Psa 63:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 64",
+          "description": "",
+          "additional_tags": [
+            "misión:542"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 64:1",
+              "Psa 64:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 65",
+          "description": "",
+          "additional_tags": [
+            "misión:543"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 65:1",
+              "Psa 65:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 66",
+          "description": "",
+          "additional_tags": [
+            "misión:544"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 66:1",
+              "Psa 66:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 67",
+          "description": "",
+          "additional_tags": [
+            "misión:545"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 67:1",
+              "Psa 67:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 68",
+          "description": "",
+          "additional_tags": [
+            "misión:546"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 68:1",
+              "Psa 68:35"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 69",
+          "description": "",
+          "additional_tags": [
+            "misión:547"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 69:1",
+              "Psa 69:36"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 70",
+          "description": "",
+          "additional_tags": [
+            "misión:548"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 70:1",
+              "Psa 70:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 71",
+          "description": "",
+          "additional_tags": [
+            "misión:549"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 71:1",
+              "Psa 71:24"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 72",
+          "description": "",
+          "additional_tags": [
+            "misión:550"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 72:1",
+              "Psa 72:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 73",
+          "description": "",
+          "additional_tags": [
+            "misión:551"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 73:1",
+              "Psa 73:28"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 74",
+          "description": "",
+          "additional_tags": [
+            "misión:552"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 74:1",
+              "Psa 74:23"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 75",
+          "description": "",
+          "additional_tags": [
+            "misión:553"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 75:1",
+              "Psa 75:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 76",
+          "description": "",
+          "additional_tags": [
+            "misión:554"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 76:1",
+              "Psa 76:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 77",
+          "description": "",
+          "additional_tags": [
+            "misión:555"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 77:1",
+              "Psa 77:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 78",
+          "description": "",
+          "additional_tags": [
+            "misión:556"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 78:1",
+              "Psa 78:72"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 79",
+          "description": "",
+          "additional_tags": [
+            "misión:557"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 79:1",
+              "Psa 79:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 80",
+          "description": "",
+          "additional_tags": [
+            "misión:558"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 80:1",
+              "Psa 80:19"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 81",
+          "description": "",
+          "additional_tags": [
+            "misión:559"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 81:1",
+              "Psa 81:16"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 82",
+          "description": "",
+          "additional_tags": [
+            "misión:560"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 82:1",
+              "Psa 82:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 83",
+          "description": "",
+          "additional_tags": [
+            "misión:561"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 83:1",
+              "Psa 83:18"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 84",
+          "description": "",
+          "additional_tags": [
+            "misión:562"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 84:1",
+              "Psa 84:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 85",
+          "description": "",
+          "additional_tags": [
+            "misión:563"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 85:1",
+              "Psa 85:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 86",
+          "description": "",
+          "additional_tags": [
+            "misión:564"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 86:1",
+              "Psa 86:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 87",
+          "description": "",
+          "additional_tags": [
+            "misión:565"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 87:1",
+              "Psa 87:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 88",
+          "description": "",
+          "additional_tags": [
+            "misión:566"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 88:1",
+              "Psa 88:18"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 89",
+          "description": "",
+          "additional_tags": [
+            "misión:567"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 89:1",
+              "Psa 89:52"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 90",
+          "description": "",
+          "additional_tags": [
+            "misión:568"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 90:1",
+              "Psa 90:17"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 91",
+          "description": "",
+          "additional_tags": [
+            "misión:569"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 91:1",
+              "Psa 91:16"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 92",
+          "description": "",
+          "additional_tags": [
+            "misión:570"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 92:1",
+              "Psa 92:15"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 93",
+          "description": "",
+          "additional_tags": [
+            "misión:571"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 93:1",
+              "Psa 93:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 94",
+          "description": "",
+          "additional_tags": [
+            "misión:572"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 94:1",
+              "Psa 94:23"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 95",
+          "description": "",
+          "additional_tags": [
+            "misión:573"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 95:1",
+              "Psa 95:11"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 96",
+          "description": "",
+          "additional_tags": [
+            "misión:574"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 96:1",
+              "Psa 96:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 97",
+          "description": "",
+          "additional_tags": [
+            "misión:575"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 97:1",
+              "Psa 97:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 98",
+          "description": "",
+          "additional_tags": [
+            "misión:576"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 98:1",
+              "Psa 98:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 99",
+          "description": "",
+          "additional_tags": [
+            "misión:577"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 99:1",
+              "Psa 99:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 100",
+          "description": "",
+          "additional_tags": [
+            "misión:578"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 100:1",
+              "Psa 100:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 101",
+          "description": "",
+          "additional_tags": [
+            "misión:579"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 101:1",
+              "Psa 101:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 102",
+          "description": "",
+          "additional_tags": [
+            "misión:580"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 102:1",
+              "Psa 102:28"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 103",
+          "description": "",
+          "additional_tags": [
+            "misión:581"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 103:1",
+              "Psa 103:22"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 104",
+          "description": "",
+          "additional_tags": [
+            "misión:582"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 104:1",
+              "Psa 104:35"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 105",
+          "description": "",
+          "additional_tags": [
+            "misión:583"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 105:1",
+              "Psa 105:45"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 106",
+          "description": "",
+          "additional_tags": [
+            "misión:584"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 106:1",
+              "Psa 106:48"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 107",
+          "description": "",
+          "additional_tags": [
+            "misión:585"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 107:1",
+              "Psa 107:43"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 108",
+          "description": "",
+          "additional_tags": [
+            "misión:586"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 108:1",
+              "Psa 108:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 109",
+          "description": "",
+          "additional_tags": [
+            "misión:587"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 109:1",
+              "Psa 109:31"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 110",
+          "description": "",
+          "additional_tags": [
+            "misión:588"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 110:1",
+              "Psa 110:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 111",
+          "description": "",
+          "additional_tags": [
+            "misión:589"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 111:1",
+              "Psa 111:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 112",
+          "description": "",
+          "additional_tags": [
+            "misión:590"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 112:1",
+              "Psa 112:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 113",
+          "description": "",
+          "additional_tags": [
+            "misión:591"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 113:1",
+              "Psa 113:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 114",
+          "description": "",
+          "additional_tags": [
+            "misión:592"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 114:1",
+              "Psa 114:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 115",
+          "description": "",
+          "additional_tags": [
+            "misión:593"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 115:1",
+              "Psa 115:18"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 116",
+          "description": "",
+          "additional_tags": [
+            "misión:594"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 116:1",
+              "Psa 116:19"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 117",
+          "description": "",
+          "additional_tags": [
+            "misión:595"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 117:1",
+              "Psa 117:2"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 118",
+          "description": "",
+          "additional_tags": [
+            "misión:596"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 118:1",
+              "Psa 118:29"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 119",
+          "description": "",
+          "additional_tags": [
+            "misión:597"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 119:1",
+              "Psa 119:176"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 120",
+          "description": "",
+          "additional_tags": [
+            "misión:598"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 120:1",
+              "Psa 120:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 121",
+          "description": "",
+          "additional_tags": [
+            "misión:599"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 121:1",
+              "Psa 121:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 122",
+          "description": "",
+          "additional_tags": [
+            "misión:600"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 122:1",
+              "Psa 122:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 123",
+          "description": "",
+          "additional_tags": [
+            "misión:601"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 123:1",
+              "Psa 123:4"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 124",
+          "description": "",
+          "additional_tags": [
+            "misión:602"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 124:1",
+              "Psa 124:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 125",
+          "description": "",
+          "additional_tags": [
+            "misión:603"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 125:1",
+              "Psa 125:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 126",
+          "description": "",
+          "additional_tags": [
+            "misión:604"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 126:1",
+              "Psa 126:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 127",
+          "description": "",
+          "additional_tags": [
+            "misión:605"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 127:1",
+              "Psa 127:5"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 128",
+          "description": "",
+          "additional_tags": [
+            "misión:606"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 128:1",
+              "Psa 128:6"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 129",
+          "description": "",
+          "additional_tags": [
+            "misión:607"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 129:1",
+              "Psa 129:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 130",
+          "description": "",
+          "additional_tags": [
+            "misión:608"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 130:1",
+              "Psa 130:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 131",
+          "description": "",
+          "additional_tags": [
+            "misión:609"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 131:1",
+              "Psa 131:3"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 132",
+          "description": "",
+          "additional_tags": [
+            "misión:610"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 132:1",
+              "Psa 132:18"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 133",
+          "description": "",
+          "additional_tags": [
+            "misión:611"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 133:1",
+              "Psa 133:3"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 134",
+          "description": "",
+          "additional_tags": [
+            "misión:612"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 134:1",
+              "Psa 134:3"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 135",
+          "description": "",
+          "additional_tags": [
+            "misión:613"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 135:1",
+              "Psa 135:21"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 136",
+          "description": "",
+          "additional_tags": [
+            "misión:614"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 136:1",
+              "Psa 136:26"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 137",
+          "description": "",
+          "additional_tags": [
+            "misión:615"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 137:1",
+              "Psa 137:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 138",
+          "description": "",
+          "additional_tags": [
+            "misión:616"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 138:1",
+              "Psa 138:8"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 139",
+          "description": "",
+          "additional_tags": [
+            "misión:617"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 139:1",
+              "Psa 139:24"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 140",
+          "description": "",
+          "additional_tags": [
+            "misión:618"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 140:1",
+              "Psa 140:13"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 141",
+          "description": "",
+          "additional_tags": [
+            "misión:619"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 141:1",
+              "Psa 141:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 142",
+          "description": "",
+          "additional_tags": [
+            "misión:620"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 142:1",
+              "Psa 142:7"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 143",
+          "description": "",
+          "additional_tags": [
+            "misión:621"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 143:1",
+              "Psa 143:12"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 144",
+          "description": "",
+          "additional_tags": [
+            "misión:622"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 144:1",
+              "Psa 144:15"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 145",
+          "description": "",
+          "additional_tags": [
+            "misión:623"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 145:1",
+              "Psa 145:21"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 146",
+          "description": "",
+          "additional_tags": [
+            "misión:624"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 146:1",
+              "Psa 146:10"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 147",
+          "description": "",
+          "additional_tags": [
+            "misión:625"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 147:1",
+              "Psa 147:20"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 148",
+          "description": "",
+          "additional_tags": [
+            "misión:626"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 148:1",
+              "Psa 148:14"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 149",
+          "description": "",
+          "additional_tags": [
+            "misión:627"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 149:1",
+              "Psa 149:9"
+            ]
+          ]
+        },
+        {
+          "name": "Salmos Capítulo 150",
+          "description": "",
+          "additional_tags": [
+            "misión:628"
+          ],
+          "verse_ranges": [
+            [
+              "Psa 150:1",
+              "Psa 150:6"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

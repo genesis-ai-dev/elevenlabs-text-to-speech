@@ -1,0 +1,637 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Ezequiel Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:803"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 1:1",
+              "Ezk 1:28"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:804"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 2:1",
+              "Ezk 2:10"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:805"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 3:1",
+              "Ezk 3:27"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:806"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 4:1",
+              "Ezk 4:17"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:807"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 5:1",
+              "Ezk 5:17"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:808"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 6:1",
+              "Ezk 6:14"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:809"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 7:1",
+              "Ezk 7:27"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:810"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 8:1",
+              "Ezk 8:18"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:811"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 9:1",
+              "Ezk 9:11"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:812"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 10:1",
+              "Ezk 10:22"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:813"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 11:1",
+              "Ezk 11:25"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:814"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 12:1",
+              "Ezk 12:28"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:815"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 13:1",
+              "Ezk 13:23"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:816"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 14:1",
+              "Ezk 14:23"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:817"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 15:1",
+              "Ezk 15:8"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:818"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 16:1",
+              "Ezk 16:63"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:819"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 17:1",
+              "Ezk 17:24"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:820"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 18:1",
+              "Ezk 18:32"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:821"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 19:1",
+              "Ezk 19:14"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:822"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 20:1",
+              "Ezk 20:49"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:823"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 21:1",
+              "Ezk 21:32"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:824"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 22:1",
+              "Ezk 22:31"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:825"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 23:1",
+              "Ezk 23:49"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:826"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 24:1",
+              "Ezk 24:27"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:827"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 25:1",
+              "Ezk 25:17"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:828"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 26:1",
+              "Ezk 26:21"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:829"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 27:1",
+              "Ezk 27:36"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:830"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 28:1",
+              "Ezk 28:26"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:831"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 29:1",
+              "Ezk 29:21"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:832"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 30:1",
+              "Ezk 30:26"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:833"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 31:1",
+              "Ezk 31:18"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:834"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 32:1",
+              "Ezk 32:32"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:835"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 33:1",
+              "Ezk 33:33"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:836"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 34:1",
+              "Ezk 34:31"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 35",
+          "description": "",
+          "additional_tags": [
+            "misión:837"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 35:1",
+              "Ezk 35:15"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 36",
+          "description": "",
+          "additional_tags": [
+            "misión:838"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 36:1",
+              "Ezk 36:38"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 37",
+          "description": "",
+          "additional_tags": [
+            "misión:839"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 37:1",
+              "Ezk 37:28"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 38",
+          "description": "",
+          "additional_tags": [
+            "misión:840"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 38:1",
+              "Ezk 38:23"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 39",
+          "description": "",
+          "additional_tags": [
+            "misión:841"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 39:1",
+              "Ezk 39:29"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 40",
+          "description": "",
+          "additional_tags": [
+            "misión:842"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 40:1",
+              "Ezk 40:49"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 41",
+          "description": "",
+          "additional_tags": [
+            "misión:843"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 41:1",
+              "Ezk 41:26"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 42",
+          "description": "",
+          "additional_tags": [
+            "misión:844"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 42:1",
+              "Ezk 42:20"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 43",
+          "description": "",
+          "additional_tags": [
+            "misión:845"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 43:1",
+              "Ezk 43:27"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 44",
+          "description": "",
+          "additional_tags": [
+            "misión:846"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 44:1",
+              "Ezk 44:31"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 45",
+          "description": "",
+          "additional_tags": [
+            "misión:847"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 45:1",
+              "Ezk 45:25"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 46",
+          "description": "",
+          "additional_tags": [
+            "misión:848"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 46:1",
+              "Ezk 46:24"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 47",
+          "description": "",
+          "additional_tags": [
+            "misión:849"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 47:1",
+              "Ezk 47:23"
+            ]
+          ]
+        },
+        {
+          "name": "Ezequiel Capítulo 48",
+          "description": "",
+          "additional_tags": [
+            "misión:850"
+          ],
+          "verse_ranges": [
+            [
+              "Ezk 48:1",
+              "Ezk 48:35"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

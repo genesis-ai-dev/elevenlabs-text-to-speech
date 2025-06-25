@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "1 Tessalonicenses Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1112"
+          ],
+          "verse_ranges": [
+            [
+              "1Th 1:1",
+              "1Th 1:10"
+            ]
+          ]
+        },
+        {
+          "name": "1 Tessalonicenses Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1113"
+          ],
+          "verse_ranges": [
+            [
+              "1Th 2:1",
+              "1Th 2:20"
+            ]
+          ]
+        },
+        {
+          "name": "1 Tessalonicenses Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1114"
+          ],
+          "verse_ranges": [
+            [
+              "1Th 3:1",
+              "1Th 3:13"
+            ]
+          ]
+        },
+        {
+          "name": "1 Tessalonicenses Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1115"
+          ],
+          "verse_ranges": [
+            [
+              "1Th 4:1",
+              "1Th 4:18"
+            ]
+          ]
+        },
+        {
+          "name": "1 Tessalonicenses Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1116"
+          ],
+          "verse_ranges": [
+            [
+              "1Th 5:1",
+              "1Th 5:28"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

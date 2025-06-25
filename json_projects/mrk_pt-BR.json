@@ -1,0 +1,221 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Marcos Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:958"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 1:1",
+              "Mrk 1:45"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:959"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 2:1",
+              "Mrk 2:28"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:960"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 3:1",
+              "Mrk 3:35"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:961"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 4:1",
+              "Mrk 4:41"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:962"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 5:1",
+              "Mrk 5:43"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:963"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 6:1",
+              "Mrk 6:56"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:964"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 7:1",
+              "Mrk 7:37"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:965"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 8:1",
+              "Mrk 8:38"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:966"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 9:1",
+              "Mrk 9:50"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:967"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 10:1",
+              "Mrk 10:52"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:968"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 11:1",
+              "Mrk 11:33"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:969"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 12:1",
+              "Mrk 12:44"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:970"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 13:1",
+              "Mrk 13:37"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:971"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 14:1",
+              "Mrk 14:72"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:972"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 15:1",
+              "Mrk 15:47"
+            ]
+          ]
+        },
+        {
+          "name": "Marcos Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:973"
+          ],
+          "verse_ranges": [
+            [
+              "Mrk 16:1",
+              "Mrk 16:20"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Ester Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:427"
+          ],
+          "verse_ranges": [
+            [
+              "Est 1:1",
+              "Est 1:22"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:428"
+          ],
+          "verse_ranges": [
+            [
+              "Est 2:1",
+              "Est 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:429"
+          ],
+          "verse_ranges": [
+            [
+              "Est 3:1",
+              "Est 3:15"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:430"
+          ],
+          "verse_ranges": [
+            [
+              "Est 4:1",
+              "Est 4:17"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:431"
+          ],
+          "verse_ranges": [
+            [
+              "Est 5:1",
+              "Est 5:14"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:432"
+          ],
+          "verse_ranges": [
+            [
+              "Est 6:1",
+              "Est 6:14"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:433"
+          ],
+          "verse_ranges": [
+            [
+              "Est 7:1",
+              "Est 7:10"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:434"
+          ],
+          "verse_ranges": [
+            [
+              "Est 8:1",
+              "Est 8:17"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:435"
+          ],
+          "verse_ranges": [
+            [
+              "Est 9:1",
+              "Est 9:32"
+            ]
+          ]
+        },
+        {
+          "name": "Ester Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:436"
+          ],
+          "verse_ranges": [
+            [
+              "Est 10:1",
+              "Est 10:3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

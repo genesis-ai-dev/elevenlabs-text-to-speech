@@ -1,0 +1,374 @@
+{
+  "languages": [
+    {
+      "native_name": "Yanomami",
+      "english_name": "Yanomami",
+      "iso639_3": "yrl",
+      "locale": "yrl",
+      "ui_ready": false
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+
+      "quests": [
+        {
+          "name": "Gênesis Capítulo 1",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 1:1", "Gen 1:31"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 2",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 2:1", "Gen 2:25"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 3",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 3:1", "Gen 3:24"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 4",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 4:1", "Gen 4:26"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 5",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 5:1", "Gen 5:32"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 6",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 6:1", "Gen 6:22"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 7",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 7:1", "Gen 7:24"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 8",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 8:1", "Gen 8:22"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 9",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 9:1", "Gen 9:29"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 10",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 10:1", "Gen 10:32"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 11",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 11:1", "Gen 11:32"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 12",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 12:1", "Gen 12:20"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 13",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 13:1", "Gen 13:18"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 14",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 14:1", "Gen 14:24"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 15",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 15:1", "Gen 15:21"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 16",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 16:1", "Gen 16:16"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 17",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 17:1", "Gen 17:27"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 18",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 18:1", "Gen 18:33"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 19",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 19:1", "Gen 19:38"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 20",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 20:1", "Gen 20:18"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 21",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 21:1", "Gen 21:34"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 22",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 22:1", "Gen 22:24"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 23",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 23:1", "Gen 23:20"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 24",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 24:1", "Gen 24:67"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 25",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 25:1", "Gen 25:34"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 26",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 26:1", "Gen 26:35"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 27",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 27:1", "Gen 27:46"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 28",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 28:1", "Gen 28:22"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 29",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 29:1", "Gen 29:35"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 30",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 30:1", "Gen 30:43"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 31",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 31:1", "Gen 31:55"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 32",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 32:1", "Gen 32:32"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 33",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 33:1", "Gen 33:20"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 34",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 34:1", "Gen 34:31"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 35",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 35:1", "Gen 35:29"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 36",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 36:1", "Gen 36:43"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 37",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 37:1", "Gen 37:36"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 38",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 38:1", "Gen 38:30"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 39",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 39:1", "Gen 39:23"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 40",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 40:1", "Gen 40:23"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 41",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 41:1", "Gen 41:57"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 42",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 42:1", "Gen 42:38"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 43",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 43:1", "Gen 43:34"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 44",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 44:1", "Gen 44:34"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 45",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 45:1", "Gen 45:28"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 46",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 46:1", "Gen 46:34"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 47",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 47:1", "Gen 47:31"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 48",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 48:1", "Gen 48:22"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 49",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 49:1", "Gen 49:33"]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 50",
+          "description": "",
+          "verse_ranges": [
+            ["Gen 50:1", "Gen 50:26"]
+          ]
+        }
+      ]
+    }
+  ]
+} 

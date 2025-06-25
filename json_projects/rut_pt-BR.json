@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Rute Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:233"
+          ],
+          "verse_ranges": [
+            [
+              "Rut 1:1",
+              "Rut 1:22"
+            ]
+          ]
+        },
+        {
+          "name": "Rute Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:234"
+          ],
+          "verse_ranges": [
+            [
+              "Rut 2:1",
+              "Rut 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Rute Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:235"
+          ],
+          "verse_ranges": [
+            [
+              "Rut 3:1",
+              "Rut 3:18"
+            ]
+          ]
+        },
+        {
+          "name": "Rute Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:236"
+          ],
+          "verse_ranges": [
+            [
+              "Rut 4:1",
+              "Rut 4:22"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

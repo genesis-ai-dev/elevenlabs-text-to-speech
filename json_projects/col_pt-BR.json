@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Colossenses Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1108"
+          ],
+          "verse_ranges": [
+            [
+              "Col 1:1",
+              "Col 1:29"
+            ]
+          ]
+        },
+        {
+          "name": "Colossenses Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1109"
+          ],
+          "verse_ranges": [
+            [
+              "Col 2:1",
+              "Col 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Colossenses Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1110"
+          ],
+          "verse_ranges": [
+            [
+              "Col 3:1",
+              "Col 3:25"
+            ]
+          ]
+        },
+        {
+          "name": "Colossenses Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1111"
+          ],
+          "verse_ranges": [
+            [
+              "Col 4:1",
+              "Col 4:18"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Coríntios Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1079"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 1:1",
+              "2Co 1:24"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1080"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 2:1",
+              "2Co 2:17"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1081"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 3:1",
+              "2Co 3:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1082"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 4:1",
+              "2Co 4:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1083"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 5:1",
+              "2Co 5:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1084"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 6:1",
+              "2Co 6:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1085"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 7:1",
+              "2Co 7:16"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1086"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 8:1",
+              "2Co 8:24"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1087"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 9:1",
+              "2Co 9:15"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1088"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 10:1",
+              "2Co 10:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1089"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 11:1",
+              "2Co 11:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1090"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 12:1",
+              "2Co 12:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Coríntios Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1091"
+          ],
+          "verse_ranges": [
+            [
+              "2Co 13:1",
+              "2Co 13:13"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

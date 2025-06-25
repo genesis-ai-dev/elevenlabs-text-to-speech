@@ -1,0 +1,416 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Provérbios Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:629"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 1:1",
+              "Pro 1:33"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:630"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 2:1",
+              "Pro 2:22"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:631"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 3:1",
+              "Pro 3:35"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:632"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 4:1",
+              "Pro 4:27"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:633"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 5:1",
+              "Pro 5:23"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:634"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 6:1",
+              "Pro 6:35"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:635"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 7:1",
+              "Pro 7:27"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:636"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 8:1",
+              "Pro 8:36"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:637"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 9:1",
+              "Pro 9:18"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:638"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 10:1",
+              "Pro 10:32"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:639"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 11:1",
+              "Pro 11:31"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:640"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 12:1",
+              "Pro 12:28"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:641"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 13:1",
+              "Pro 13:25"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:642"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 14:1",
+              "Pro 14:35"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:643"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 15:1",
+              "Pro 15:33"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:644"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 16:1",
+              "Pro 16:33"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:645"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 17:1",
+              "Pro 17:28"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:646"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 18:1",
+              "Pro 18:24"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:647"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 19:1",
+              "Pro 19:29"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:648"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 20:1",
+              "Pro 20:30"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:649"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 21:1",
+              "Pro 21:31"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:650"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 22:1",
+              "Pro 22:29"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:651"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 23:1",
+              "Pro 23:35"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:652"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 24:1",
+              "Pro 24:34"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:653"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 25:1",
+              "Pro 25:28"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:654"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 26:1",
+              "Pro 26:28"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:655"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 27:1",
+              "Pro 27:27"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:656"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 28:1",
+              "Pro 28:28"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:657"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 29:1",
+              "Pro 29:27"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:658"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 30:1",
+              "Pro 30:33"
+            ]
+          ]
+        },
+        {
+          "name": "Provérbios Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:659"
+          ],
+          "verse_ranges": [
+            [
+              "Pro 31:1",
+              "Pro 31:31"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

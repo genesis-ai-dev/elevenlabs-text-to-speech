@@ -22,7 +22,7 @@ def generate_first_verses_file():
             # Create ScriptureReference with line numbers enabled
             scripture_ref = ScriptureReference(
                 first_verse_ref, 
-                bible_filename='brazilian_portuguese_translation_4_corrected.txt', 
+                bible_filename='source_texts/brazilian_portuguese_translation_5.txt', 
                 source_type='local_ebible', 
                 show_line_numbers=True
             )

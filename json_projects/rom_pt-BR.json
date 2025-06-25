@@ -1,0 +1,221 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Romanos Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1047"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 1:1",
+              "Rom 1:32"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1048"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 2:1",
+              "Rom 2:29"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1049"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 3:1",
+              "Rom 3:31"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1050"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 4:1",
+              "Rom 4:25"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1051"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 5:1",
+              "Rom 5:21"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1052"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 6:1",
+              "Rom 6:23"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1053"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 7:1",
+              "Rom 7:25"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1054"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 8:1",
+              "Rom 8:39"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1055"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 9:1",
+              "Rom 9:33"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1056"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 10:1",
+              "Rom 10:21"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1057"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 11:1",
+              "Rom 11:36"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1058"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 12:1",
+              "Rom 12:21"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1059"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 13:1",
+              "Rom 13:14"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:1060"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 14:1",
+              "Rom 14:23"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:1061"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 15:1",
+              "Rom 15:33"
+            ]
+          ]
+        },
+        {
+          "name": "Romanos Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:1062"
+          ],
+          "verse_ranges": [
+            [
+              "Rom 16:1",
+              "Rom 16:27"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

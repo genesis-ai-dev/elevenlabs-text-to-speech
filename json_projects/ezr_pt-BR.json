@@ -1,0 +1,143 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Esdras Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:404"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 1:1",
+              "Ezr 1:11"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:405"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 2:1",
+              "Ezr 2:70"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:406"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 3:1",
+              "Ezr 3:13"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:407"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 4:1",
+              "Ezr 4:24"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:408"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 5:1",
+              "Ezr 5:17"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:409"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 6:1",
+              "Ezr 6:22"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:410"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 7:1",
+              "Ezr 7:28"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:411"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 8:1",
+              "Ezr 8:36"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:412"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 9:1",
+              "Ezr 9:15"
+            ]
+          ]
+        },
+        {
+          "name": "Esdras Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:413"
+          ],
+          "verse_ranges": [
+            [
+              "Ezr 10:1",
+              "Ezr 10:44"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

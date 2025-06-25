@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Pedro Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1157"
+          ],
+          "verse_ranges": [
+            [
+              "2Pe 1:1",
+              "2Pe 1:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Pedro Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1158"
+          ],
+          "verse_ranges": [
+            [
+              "2Pe 2:1",
+              "2Pe 2:22"
+            ]
+          ]
+        },
+        {
+          "name": "2 Pedro Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1159"
+          ],
+          "verse_ranges": [
+            [
+              "2Pe 3:1",
+              "2Pe 3:18"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

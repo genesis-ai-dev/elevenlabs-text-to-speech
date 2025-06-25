@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Tiago Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1147"
+          ],
+          "verse_ranges": [
+            [
+              "Jas 1:1",
+              "Jas 1:27"
+            ]
+          ]
+        },
+        {
+          "name": "Tiago Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1148"
+          ],
+          "verse_ranges": [
+            [
+              "Jas 2:1",
+              "Jas 2:26"
+            ]
+          ]
+        },
+        {
+          "name": "Tiago Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1149"
+          ],
+          "verse_ranges": [
+            [
+              "Jas 3:1",
+              "Jas 3:18"
+            ]
+          ]
+        },
+        {
+          "name": "Tiago Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1150"
+          ],
+          "verse_ranges": [
+            [
+              "Jas 4:1",
+              "Jas 4:17"
+            ]
+          ]
+        },
+        {
+          "name": "Tiago Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1151"
+          ],
+          "verse_ranges": [
+            [
+              "Jas 5:1",
+              "Jas 5:20"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

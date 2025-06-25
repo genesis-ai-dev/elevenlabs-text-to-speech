@@ -1,0 +1,182 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Hebreus Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1134"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 1:1",
+              "Heb 1:14"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1135"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 2:1",
+              "Heb 2:18"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1136"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 3:1",
+              "Heb 3:19"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1137"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 4:1",
+              "Heb 4:16"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1138"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 5:1",
+              "Heb 5:14"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1139"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 6:1",
+              "Heb 6:20"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:1140"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 7:1",
+              "Heb 7:28"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:1141"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 8:1",
+              "Heb 8:13"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:1142"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 9:1",
+              "Heb 9:28"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:1143"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 10:1",
+              "Heb 10:39"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:1144"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 11:1",
+              "Heb 11:40"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:1145"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 12:1",
+              "Heb 12:29"
+            ]
+          ]
+        },
+        {
+          "name": "Hebreus Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:1146"
+          ],
+          "verse_ranges": [
+            [
+              "Heb 13:1",
+              "Heb 13:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

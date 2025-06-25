@@ -1,3 +1,5 @@
 audio/
 .env
 __pycache__/
+generated_audio/
+sessions_records/

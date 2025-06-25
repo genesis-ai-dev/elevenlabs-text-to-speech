@@ -1,0 +1,169 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Eclesiastes Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:660"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 1:1",
+              "Ecc 1:18"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:661"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 2:1",
+              "Ecc 2:26"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:662"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 3:1",
+              "Ecc 3:22"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:663"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 4:1",
+              "Ecc 4:16"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:664"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 5:1",
+              "Ecc 5:20"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:665"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 6:1",
+              "Ecc 6:12"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:666"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 7:1",
+              "Ecc 7:29"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:667"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 8:1",
+              "Ecc 8:17"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:668"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 9:1",
+              "Ecc 9:18"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:669"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 10:1",
+              "Ecc 10:20"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:670"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 11:1",
+              "Ecc 11:10"
+            ]
+          ]
+        },
+        {
+          "name": "Eclesiastes Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:671"
+          ],
+          "verse_ranges": [
+            [
+              "Ecc 12:1",
+              "Ecc 12:14"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

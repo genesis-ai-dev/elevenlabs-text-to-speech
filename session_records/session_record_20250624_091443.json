@@ -1,0 +1,24 @@
+{
+  "timestamp": "20250624_091443",
+  "languages": [],
+  "projects": [],
+  "quests": [],
+  "assets": [],
+  "asset_content_links": [],
+  "quest_asset_links": [],
+  "asset_tag_links": [],
+  "quest_tag_links": [
+    {
+      "id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407_0eb017b4-8d31-49c2-9331-cbe9484b479d",
+      "quest_id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407",
+      "tag_id": "0eb017b4-8d31-49c2-9331-cbe9484b479d"
+    },
+    {
+      "id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407_39fe6b91-8aeb-4f96-be46-8188d474c10d",
+      "quest_id": "95631fc8-523c-47f5-a0aa-4ef93e1a1407",
+      "tag_id": "39fe6b91-8aeb-4f96-be46-8188d474c10d"
+    }
+  ],
+  "tags": [],
+  "audio_files": []
+}

@@ -1,0 +1,338 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "2 Reis Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:314"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 1:1",
+              "2Ki 1:18"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:315"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 2:1",
+              "2Ki 2:25"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:316"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 3:1",
+              "2Ki 3:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:317"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 4:1",
+              "2Ki 4:44"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:318"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 5:1",
+              "2Ki 5:27"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:319"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 6:1",
+              "2Ki 6:33"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:320"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 7:1",
+              "2Ki 7:20"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:321"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 8:1",
+              "2Ki 8:29"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:322"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 9:1",
+              "2Ki 9:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:323"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 10:1",
+              "2Ki 10:36"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:324"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 11:1",
+              "2Ki 11:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:325"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 12:1",
+              "2Ki 12:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:326"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 13:1",
+              "2Ki 13:25"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:327"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 14:1",
+              "2Ki 14:29"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:328"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 15:1",
+              "2Ki 15:38"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:329"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 16:1",
+              "2Ki 16:20"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:330"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 17:1",
+              "2Ki 17:41"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:331"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 18:1",
+              "2Ki 18:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:332"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 19:1",
+              "2Ki 19:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:333"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 20:1",
+              "2Ki 20:21"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:334"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 21:1",
+              "2Ki 21:26"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:335"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 22:1",
+              "2Ki 22:20"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:336"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 23:1",
+              "2Ki 23:37"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:337"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 24:1",
+              "2Ki 24:20"
+            ]
+          ]
+        },
+        {
+          "name": "2 Reis Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:338"
+          ],
+          "verse_ranges": [
+            [
+              "2Ki 25:1",
+              "2Ki 25:30"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

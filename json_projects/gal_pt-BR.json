@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Gálatas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1092"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 1:1",
+              "Gal 1:24"
+            ]
+          ]
+        },
+        {
+          "name": "Gálatas Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:1093"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 2:1",
+              "Gal 2:21"
+            ]
+          ]
+        },
+        {
+          "name": "Gálatas Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:1094"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 3:1",
+              "Gal 3:29"
+            ]
+          ]
+        },
+        {
+          "name": "Gálatas Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:1095"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 4:1",
+              "Gal 4:31"
+            ]
+          ]
+        },
+        {
+          "name": "Gálatas Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:1096"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 5:1",
+              "Gal 5:26"
+            ]
+          ]
+        },
+        {
+          "name": "Gálatas Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:1097"
+          ],
+          "verse_ranges": [
+            [
+              "Gal 6:1",
+              "Gal 6:18"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

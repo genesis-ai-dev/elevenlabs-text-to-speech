@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Cântico dos Cânticos Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:672"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 1:1",
+              "Sng 1:17"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:673"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 2:1",
+              "Sng 2:17"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:674"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 3:1",
+              "Sng 3:11"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:675"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 4:1",
+              "Sng 4:16"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:676"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 5:1",
+              "Sng 5:16"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:677"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 6:1",
+              "Sng 6:13"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:678"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 7:1",
+              "Sng 7:13"
+            ]
+          ]
+        },
+        {
+          "name": "Cântico dos Cânticos Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:679"
+          ],
+          "verse_ranges": [
+            [
+              "Sng 8:1",
+              "Sng 8:14"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

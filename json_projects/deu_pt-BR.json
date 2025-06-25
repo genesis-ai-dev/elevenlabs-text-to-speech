@@ -1,0 +1,455 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Deuteronômio Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:154"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 1:1",
+              "Deu 1:46"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:155"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 2:1",
+              "Deu 2:37"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:156"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 3:1",
+              "Deu 3:29"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:157"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 4:1",
+              "Deu 4:49"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:158"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 5:1",
+              "Deu 5:33"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:159"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 6:1",
+              "Deu 6:25"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:160"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 7:1",
+              "Deu 7:26"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:161"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 8:1",
+              "Deu 8:20"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:162"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 9:1",
+              "Deu 9:29"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:163"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 10:1",
+              "Deu 10:22"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:164"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 11:1",
+              "Deu 11:32"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:165"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 12:1",
+              "Deu 12:32"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:166"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 13:1",
+              "Deu 13:18"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:167"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 14:1",
+              "Deu 14:29"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:168"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 15:1",
+              "Deu 15:23"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:169"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 16:1",
+              "Deu 16:22"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:170"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 17:1",
+              "Deu 17:20"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:171"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 18:1",
+              "Deu 18:22"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:172"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 19:1",
+              "Deu 19:21"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:173"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 20:1",
+              "Deu 20:20"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:174"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 21:1",
+              "Deu 21:23"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:175"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 22:1",
+              "Deu 22:30"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:176"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 23:1",
+              "Deu 23:25"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 24",
+          "description": "",
+          "additional_tags": [
+            "misión:177"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 24:1",
+              "Deu 24:22"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 25",
+          "description": "",
+          "additional_tags": [
+            "misión:178"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 25:1",
+              "Deu 25:19"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 26",
+          "description": "",
+          "additional_tags": [
+            "misión:179"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 26:1",
+              "Deu 26:19"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 27",
+          "description": "",
+          "additional_tags": [
+            "misión:180"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 27:1",
+              "Deu 27:26"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 28",
+          "description": "",
+          "additional_tags": [
+            "misión:181"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 28:1",
+              "Deu 28:68"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:182"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 29:1",
+              "Deu 29:29"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:183"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 30:1",
+              "Deu 30:20"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:184"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 31:1",
+              "Deu 31:30"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:185"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 32:1",
+              "Deu 32:52"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 33",
+          "description": "",
+          "additional_tags": [
+            "misión:186"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 33:1",
+              "Deu 33:29"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 34",
+          "description": "",
+          "additional_tags": [
+            "misión:187"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 34:1",
+              "Deu 34:12"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

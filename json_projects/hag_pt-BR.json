@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Ageu Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:910"
+          ],
+          "verse_ranges": [
+            [
+              "Hag 1:1",
+              "Hag 1:15"
+            ]
+          ]
+        },
+        {
+          "name": "Ageu Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:911"
+          ],
+          "verse_ranges": [
+            [
+              "Hag 2:1",
+              "Hag 2:23"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

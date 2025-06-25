@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Judas Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:1167"
+          ],
+          "verse_ranges": [
+            [
+              "Jud 1:1",
+              "Jud 1:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

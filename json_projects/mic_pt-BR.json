@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Miquéias Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:894"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 1:1",
+              "Mic 1:16"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:895"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 2:1",
+              "Mic 2:13"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:896"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 3:1",
+              "Mic 3:12"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:897"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 4:1",
+              "Mic 4:13"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:898"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 5:1",
+              "Mic 5:15"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:899"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 6:1",
+              "Mic 6:16"
+            ]
+          ]
+        },
+        {
+          "name": "Miquéias Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:900"
+          ],
+          "verse_ranges": [
+            [
+              "Mic 7:1",
+              "Mic 7:20"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

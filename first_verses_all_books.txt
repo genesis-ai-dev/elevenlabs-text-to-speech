@@ -3,66 +3,68 @@ Brazilian Portuguese Translation
 ==================================================
 
 [1] GEN_1_1: No começo, Deus criou o céu e a terra.
-[1534] EXO_1_1: Estes são os nomes dos filhos de Israel que vieram para o Egito com Jacó, cada um com a sua família:
-[2747] LEV_1_1: Deus chamou Moisés e falou com ele na tenda do encontro, dizendo:
-[3606] NUM_1_1: Deus falou com Moisés na tenda do encontro, no deserto do Sinai. Isso aconteceu no primeiro dia do segundo mês, no segundo ano depois que o povo de Israel saiu da terra do Egito. Deus disse assim:
-[4895] DEU_1_1: Estas são as palavras que Moisés falou a todo Israel além do Jordão, no deserto, na planície do vale do rio Jordão, em frente a Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.
-[5854] JOS_1_1: Depois da morte de Moisés, servo de Yahweh, Yahweh falou assim para Josué, filho de Num, principal assistente de Moisés:
-[6512] JDG_1_1: Depois que Josué morreu, o povo de Israel perguntou para Deus: “Quem vai ser o primeiro a atacar os cananeus por nós, para lutar contra eles?”
-[7130] RUT_1_1: Aconteceu que, na época em que os juízes governavam, houve uma grande fome na terra. Então um homem de Belém de Judá foi morar na região de Moabe com sua esposa e seus dois filhos.
-[7215] 1SA_1_1: Havia um homem chamado Elcana, que morava em Ramataim, na região montanhosa de Efraim. Ele era filho de Jeroham, neto de Eliú, bisneto de Toú e tataraneto de Zufe, todos da família de Efraim.
-[8026] 2SA_1_1: Depois que Saul morreu, Davi voltou da batalha contra os amalequitas e ficou dois dias em Ziclague.
-[8721] 1KI_1_1: Quando o rei Davi já estava velho e com idade avançada, cobriram ele com cobertores, mas mesmo assim ele não conseguia se aquecer.
+[1534] EXO_1_1: Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó, cada um com sua família
+[2747] LEV_1_1: O Senhor chamou Moisés e falou com ele assim, lá da tenda do encontro:
+[3606] NUM_1_1: O Senhor falou com Moisés na tenda do encontro, no deserto do Sinai. Isso aconteceu no primeiro dia do segundo mês do segundo ano depois que o povo de Israel saiu do Egito. O Senhor falou assim:
+[4895] DEU_1_1: Estas são as palavras que Moisés falou para todo o povo de Israel quando eles estavam do outro lado do rio Jordão, no deserto, na planície do vale do Jordão, perto de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.
+[5854] JOS_1_1: Depois que Moisés, o servo do Senhor, morreu, o Senhor falou assim para Josué, filho de Num, que era o principal ajudante de Moisés:
+[6512] JDG_1_1: Depois que Josué morreu, o povo de Israel perguntou para o Senhor: "Quem vai subir primeiro para lutar contra os cananeus em nosso lugar?"
+[7130] RUT_1_1: Aconteceu que, no tempo em que os juízes governavam, houve uma fome muito grande na terra. Por isso, um homem que morava em Belém de Judá saiu para viver na região de Moabe junto com sua esposa e seus dois filhos.
+[7215] 1SA_1_1: Tinha um homem que morava em Ramataim, na região montanhosa de Efraim, ele era descendente dos zufitas. O nome dele era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, e ele pertencia à tribo de Efraim.
+[8026] 2SA_1_1: Depois que Saul morreu, Davi voltou de uma batalha contra os amalequitas e ficou dois dias em Ziclague.
+[8721] 1KI_1_1: Quando o rei Davi ficou velho e bem idoso, eles colocavam cobertores nele, mas mesmo assim ele não conseguia se aquecer.
 [9538] 2KI_1_1: Depois que Acabe morreu, Moabe se revoltou contra Israel.
-[10257] 1CH_1_1: Adão, Sete, Enos,
-[11200] 2CH_1_1: Ele deu orientações para as divisões dos sacerdotes e levitas, para as tarefas que cada um deveria cumprir no serviço do templo do Senhor, e para todos os objetos usados no serviço da casa do Senhor.
-[12022] EZR_1_1: Eles tiraram os holocaustos para distribuí-los entre as famílias do povo, para que fossem oferecidos ao Senhor, conforme está escrito no Livro de Moisés. Fizeram o mesmo com os bois.
-[12302] NEH_1_1: Então Esdras saiu da frente da casa de Deus e foi para os quartos de Jeoanã, filho de Eliasibe. Ele não comeu pão nem bebeu água, porque estava triste por causa da infidelidade dos que tinham voltado do cativeiro.
-[12707] EST_1_1: Então os dois corais dos que davam graças se posicionaram na casa de Deus, e eu também fiquei lá com metade dos líderes que estavam comigo.
-[12874] JOB_1_1: Então os mensageiros montaram nos cavalos do rei, usados a serviço dele, e partiram sem demora. O decreto do rei também foi divulgado no palácio de Susã.
-[13944] PSA_1_1: Você vai brincar com ele como se fosse um passarinho? Vai amarrar ele para as suas empregadas?
-[16471] PRO_1_1: Louvem o Senhor, porque é bom cantar para o nosso Deus; é agradável e o louvor é apropriado.
-[17386] ECC_1_1: O mundo dos mortos, o ventre que nunca gera filhos, a terra que nunca se sacia de água e o fogo que nunca diz: "Já chega!"
-[17725] ISA_1_1: Eu quero que vocês jurem, filhas de Jerusalém, que se encontrarem o meu amado — o que vocês vão dizer para ele? — digam que estou doente de amor.
-[19016] JER_1_1: Isso também aconteceu nos dias de Jeoaquim, filho de Josias, rei de Judá, até o quinto mês do décimo primeiro ano de Zedequias, filho de Josias, rei de Judá, quando o povo de Jerusalém foi levado como prisioneiro.
-[20380] LAM_1_1: Depois de tanta pobreza e sofrimento, Judá foi levada para o exílio. Agora ela vive entre outros povos e não encontra descanso. Todos que a perseguiam a alcançaram quando ela estava sem saída.
-[20534] EZK_1_1: A palavra de Deus veio para Ezequiel, filho do sacerdote Buzi, na terra dos caldeus, perto do rio Quebar, e ali a mão do Senhor estava sobre ele.
-[21807] DAN_1_1: O rei pediu para Aspenaz, seu chefe dos oficiais, trazer alguns dos israelitas, tanto da família real quanto da nobreza.
-[22164] HOS_1_1: Então Oséias foi lá, se casou com Gômer, filha de Diblaim, e ela ficou grávida e teve um filho dele.
-[22434] AMO_1_1: Assim diz o Senhor: “Por causa de três crimes de Damasco, e até por quatro, não vou deixar de castigá-los, porque eles trituraram Gileade com ferramentas de ferro.”
-[22580] OBA_1_1: O orgulho do seu coração enganou você, que mora nas fendas das rochas, no seu lugar alto. Você pensa assim no seu coração: “Quem vai conseguir me derrubar?”
-[22601] JON_1_1: Mas Jonas se levantou e decidiu fugir da presença do Senhor, indo para Társis. Ele desceu até Jope, onde encontrou um navio que ia para Társis. Pagou a passagem e embarcou, indo com eles para Társis, tentando se afastar da presença do Senhor.
-[22649] MIC_1_1: Olha, o Senhor está saindo do seu lugar; ele vai descer e pisar nos lugares altos da terra.
-[22754] NAM_1_1: O Senhor demora para se irar e é cheio de poder; ele não deixa o culpado sem castigo. O Senhor caminha no meio do vendaval e da tempestade, e as nuvens são como o pó sob os seus pés.
-[22801] HAB_1_1: Por que você me faz ver tanta injustiça e presenciar tanta maldade? Só vejo destruição e violência diante de mim; há brigas por todo lado, e as discussões só aumentam.
-[22857] ZEP_1_1: Vou acabar com as pessoas e com os animais; vou acabar com as aves do céu e com os peixes do mar, e também com as ruínas junto com os maus. Porque vou tirar toda a humanidade da face da terra — foi isso que o Senhor falou.
-[22910] HAG_1_1: Então a palavra do Senhor veio por meio do profeta Ageu, dizendo:
-[22948] ZEC_1_1: Diga para eles: “O Senhor dos Exércitos está dizendo assim: Voltem para mim! — essa é a palavra do Senhor dos Exércitos — e eu vou voltar para vocês”, diz o Senhor dos Exércitos.
-[23159] MAL_1_1: mas Esaú eu rejeitei. Transformei suas montanhas em terra arrasada e deixei sua herança para ser morada dos chacais do deserto.
-[23214] MAT_1_1: Judá foi pai de Perez e Zerá com Tamar. Perez foi pai de Hezrom, e Hezrom foi pai de Rão.
-[24285] MRK_1_1: A voz de alguém gritando no deserto: "Preparem o caminho do Senhor, deixem as suas estradas retas."
-[24963] LUK_1_1: Por isso, depois de pesquisar tudo cuidadosamente desde o começo, achei que seria bom escrever para você, excelentíssimo Teófilo, um relato organizado sobre tudo o que aconteceu.
-[26114] JHN_1_1: Tudo foi criado por meio dele, e sem ele nada do que existe teria sido feito.
-[26993] ACT_1_1: Depois de ter sofrido, Jesus apareceu vivo para eles, mostrando com muitas provas que realmente estava vivo. Durante quarenta dias, ele esteve com eles e falou sobre o Reino de Deus.
-[27999] ROM_1_1: sobre o seu Filho, que como ser humano era descendente de Davi.
-[28432] 1CO_1_1: Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
-[28869] 2CO_1_1: Que seja louvado o Deus e Pai do nosso Senhor Jesus Cristo. Ele é o Pai de toda misericórdia e o Deus que nos consola em todas as situações.
-[29125] GAL_1_1: Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
-[29274] EPH_1_1: Que o Deus e Pai do nosso Senhor Jesus Cristo seja louvado, pois Ele nos abençoou com todas as bênçãos espirituais nas regiões celestiais em Cristo.
-[29429] PHP_1_1: Eu agradeço a Deus toda vez que me lembro de vocês.
-[29533] COL_1_1: Epapras contou pra gente sobre o amor que vocês têm no Espírito.
-[29628] 1TH_1_1: Porque a mensagem do Senhor partiu de vocês e se espalhou, não só na Macedônia e na Acaia, mas em todos os lugares onde a fé que vocês têm em Deus chegou. Por isso, não precisamos dizer mais nada sobre isso.
-[29717] 2TH_1_1: Com fogo ardente, ele vai castigar aqueles que não conhecem a Deus e os que rejeitam o evangelho do nosso Senhor Jesus.
-[29764] 1TI_1_1: Mas a gente sabe que a lei é boa, se for usada do jeito certo.
-[29877] 2TI_1_1: Por isso, não tenha vergonha de falar sobre o nosso Senhor, nem de mim, Paulo, que estou preso por causa dele. Pelo contrário, esteja pronto para sofrer comigo por anunciar o evangelho, confiando no poder de Deus.
-[29960] TIT_1_1: Em vez disso, ele deve ser hospitaleiro e amigo do que é bom. Ele precisa ser sensato, justo, dedicado a Deus e ter domínio próprio.
-[30006] PHM_1_1: Por isso, mesmo tendo toda a autoridade em Cristo para pedir que você faça o que é certo,
-[30031] HEB_1_1: Mas sobre o Filho, ele disse assim: “O teu trono, ó Deus, dura para sempre; o cetro do teu reino é um cetro de justiça.”
-[30334] JAS_1_1: Uma pessoa assim é indecisa e instável em tudo o que faz.
-[30442] 1PE_1_1: Vocês nunca viram ele, mas amam ele. Agora vocês não veem ele, mas acreditam nele e se alegram com uma alegria tão grande que nem dá pra explicar, cheia de glória.
-[30547] 2PE_1_1: Se essas coisas estiverem em vocês e continuarem crescendo, vocês não ficarão sem fruto nem serão inúteis no conhecimento do nosso Senhor Jesus Cristo.
-[30608] 1JN_1_1: Se a gente diz que não tem pecado, está enganando a si mesmo e a verdade não está em nós.
-[30713] 2JN_1_1: Prestem atenção em vocês mesmos, para não perderem aquilo pelo que todos nós temos trabalhado, mas para que recebam uma recompensa completa.
-[30726] 3JN_1_1: Por isso, devemos receber pessoas assim, para que juntos possamos trabalhar pela verdade.
-[30741] JUD_1_1: Da mesma forma, essas pessoas, guiadas por seus próprios sonhos, contaminam o próprio corpo, rejeitam a autoridade e falam mal dos seres gloriosos.
-[30766] REV_1_1: "Eu sou o Alfa e o Ômega", diz o Senhor Deus, "aquele que é, que era e que há de vir, o Todo-Poderoso."
+[10257] 1CH_1_1: Adão, Sete, Enos
+[11200] 2CH_1_1: Salomão, filho de Davi, se fortaleceu no seu reinado, e o Senhor, seu Deus, estava com ele e fez ele se tornar muito poderoso.
+[12022] EZR_1_1: No primeiro ano de Ciro, rei da Pérsia, o Senhor cumpriu o que tinha prometido por meio do profeta Jeremias, e fez surgir um desejo no coração de Ciro. Então Ciro mandou anunciar uma mensagem em todo o seu reino, que dizia assim:
+[12302] NEH_1_1: Esta é a história de Neemias, filho de Hacalias: No mês de Quisleu, no ano vinte do reinado, eu estava na cidade-fortaleza de Susã
+[12707] EST_1_1: Isso aconteceu no tempo do rei Assuero, que governava desde a Índia até a Etiópia, um império dividido em cento e vinte e sete províncias
+[12874] JOB_1_1: Tinha um homem que morava na terra de Uz, e o nome dele era Jó. Ele era uma pessoa sem falhas e honesta, que respeitava a Deus e se afastava de tudo que era mau.
+[13944] PSA_1_1: Feliz é a pessoa que não segue o conselho dos maus, nem anda pelo caminho dos pecadores, nem se junta com quem zomba de Deus.
+[16471] PRO_1_1: Os provérbios de Salomão, filho de Davi, que foi rei de Israel
+[17386] ECC_1_1: São as palavras do Mestre, que é descendente de Davi e rei em Jerusalém.
+[17608] SNG_1_1: O mais lindo dos cânticos, que é de Salomão.
+[17725] ISA_1_1: Esta é a visão que Isaías, filho de Amoz, recebeu sobre Judá e Jerusalém durante o reinado dos reis de Judá: Uzias, Jotão, Acaz e Ezequias.
+[19016] JER_1_1: Estas são as palavras de Jeremias, filho de Hilquias, que era um dos sacerdotes na cidade de Anatote, na terra de Benjamim.
+[20380] LAM_1_1: A cidade que antes estava cheia de gente agora está completamente sozinha. Ela se tornou como uma viúva, mesmo tendo sido uma nação poderosa. Ela era uma princesa entre as nações, mas agora está forçada a ser escrava.
+[20534] EZK_1_1: Quando eu tinha trinta anos, no dia cinco do quarto mês, eu estava morando junto com os exilados perto do Canal de Quebar. De repente o céu se abriu, e eu vi visões de Deus.
+[21807] DAN_1_1: No terceiro ano do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio para Jerusalém e cercou a cidade para cortar todo o suprimento dela.
+[22164] HOS_1_1: Esta é a mensagem que o Senhor deu para Oseias, filho de Beeri, durante o tempo que Uzias, Jotão, Acaz e Ezequias eram reis de Judá, e quando Jeroboão, filho de Joás, era rei de Israel.
+[22361] JOL_1_1: Esta é a mensagem que o SENHOR deu para Joel, filho de Petuel.
+[22434] AMO_1_1: Esta é a mensagem sobre Israel que Amós, um dos pastores de Tecoa, recebeu em uma revelação. Ele recebeu esta mensagem no tempo em que Uzias era rei de Judá, e também quando Jeroboão, filho de Joás, era rei de Israel, dois anos antes do terremoto.
+[22580] OBA_1_1: A visão de Obadias. O Senhor Deus falou assim sobre Edom: Nós ouvimos uma mensagem do Senhor, e um mensageiro foi enviado para as nações dizendo: "Vamos! Vamos nos levantar contra ela para a batalha!"
+[22601] JON_1_1: O Senhor falou assim para Jonas, filho de Amitai:
+[22649] MIC_1_1: Esta é a mensagem que o Senhor deu para Micaías, que era de Moresete, quando Jotão, Acaz e Ezequias eram reis de Judá. O Senhor mostrou para ele uma visão sobre Samaria e Jerusalém.
+[22754] NAM_1_1: Esta é a mensagem sobre Nínive. O livro da visão que Naum, natural de Elcós, recebeu.
+[22801] HAB_1_1: A mensagem que o profeta Habacuque recebeu
+[22857] ZEP_1_1: Esta é a mensagem do Senhor que chegou para Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias. Isso aconteceu durante o reinado de Josias, filho de Amom, que era rei de Judá.
+[22910] HAG_1_1: No segundo ano do rei Dario, no primeiro dia do sexto mês, o Senhor falou por meio do profeta Ageu para Zorobabel, filho de Salatiel, governador de Judá, e para Josué, filho de Jozadaque, o sumo sacerdote. O Senhor falou assim:
+[22948] ZEC_1_1: No oitavo mês do segundo ano do reinado de Dario, o Senhor deu uma mensagem para o profeta Zacarias, filho de Berequias e neto de Ido.
+[23159] MAL_1_1: Esta é a mensagem que o Senhor enviou para Israel por meio de Malaquias.
+[23214] MAT_1_1: Este é o registro da família de Jesus Cristo, que veio da descendência de Davi, que veio da descendência de Abraão.
+[24285] MRK_1_1: Este é o começo das boas notícias sobre Jesus Cristo, o Filho de Deus.
+[24963] LUK_1_1: Muitas pessoas já tentaram escrever a história das coisas que aconteceram entre nós
+[26114] JHN_1_1: No começo existia a Palavra, e a Palavra estava com Deus, e a Palavra era Deus.
+[26993] ACT_1_1: O primeiro livro que eu escrevi para você, Teófilo, falava sobre tudo que Jesus começou a fazer e a ensinar
+[27999] ROM_1_1: Paulo, um servo de Jesus Cristo, chamado para ser apóstolo e separado para anunciar o evangelho de Deus
+[28432] 1CO_1_1: Paulo, que foi chamado por Jesus Cristo para ser apóstolo conforme a vontade de Deus, e o irmão Sóstenes,
+[28869] 2CO_1_1: Paulo, um apóstolo de Jesus Cristo pela vontade de Deus, e o nosso irmão Timóteo, para a igreja de Deus que está em Corinto e para todos os que creem em toda a região da Acaia.
+[29125] GAL_1_1: Paulo, um apóstolo - não escolhido por pessoas nem por meio de autoridade humana, mas por Jesus Cristo e por Deus Pai, que ressuscitou Jesus dos mortos -
+[29274] EPH_1_1: Paulo, um apóstolo de Jesus Cristo pela vontade de Deus, para o povo santo de Deus que está em Éfeso e que é fiel a Jesus Cristo.
+[29429] PHP_1_1: Paulo e Timóteo, servos de Jesus Cristo, escrevem para todo o povo de Deus que vive em Filipos e que pertence a Jesus Cristo, junto com os líderes e auxiliares da igreja.
+[29533] COL_1_1: Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e o nosso irmão Timóteo,
+[29628] 1TH_1_1: De Paulo, Silvano e Timóteo para a igreja dos tessalonicenses, que está em Deus Pai e no Senhor Jesus Cristo. Que a graça e a paz estejam com vocês.
+[29717] 2TH_1_1: De Paulo, Silas e Timóteo para a igreja dos tessalonicenses, que está em Deus nosso Pai e no Senhor Jesus Cristo.
+[29764] 1TI_1_1: De Paulo, que é apóstolo de Cristo Jesus por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança
+[29877] 2TI_1_1: Paulo, um apóstolo de Jesus Cristo pela vontade de Deus, enviado para anunciar a promessa de vida que existe em Jesus Cristo
+[29960] TIT_1_1: Paulo, servo de Deus e apóstolo de Jesus Cristo, para fortalecer a fé do povo que Deus escolheu e para levar ao conhecimento da verdade que está de acordo com a vida dedicada a Deus
+[30006] PHM_1_1: Paulo, que está preso por causa de Jesus Cristo, e o irmão Timóteo, escrevem para Filemom, nosso querido amigo e companheiro de trabalho
+[30031] HEB_1_1: Há muito tempo atrás, Deus falou com nossos antepassados de muitas maneiras diferentes através dos profetas.
+[30334] JAS_1_1: De Tiago, que serve a Deus e ao Senhor Jesus Cristo, para as doze tribos do povo de Deus que está espalhado pelo mundo: Saudações!
+[30442] 1PE_1_1: De Pedro, que é apóstolo de Jesus Cristo, para o povo escolhido por Deus que está espalhado e vivendo como estrangeiro nas regiões de Ponto, Galácia, Capadócia, Ásia e Bitínia.
+[30547] 2PE_1_1: Simão Pedro, servo e apóstolo de Jesus Cristo, escreve esta carta para vocês que receberam a mesma fé preciosa que nós recebemos, pela justiça do nosso Deus e Salvador Jesus Cristo.
+[30608] 1JN_1_1: O que existia desde o começo, o que a gente ouviu, o que a gente viu com os nossos próprios olhos, o que a gente contemplou e as nossas mãos tocaram - isso tudo é sobre a Palavra da vida.
+[30713] 2JN_1_1: Do presbítero para a senhora escolhida e seus filhos, que eu amo verdadeiramente - e não só eu, mas também todos aqueles que conhecem a verdade -
+[30726] 3JN_1_1: O presbítero, para Gaio, que é muito amado, e que eu amo verdadeiramente.
+[30741] JUD_1_1: Judas, que é servo de Jesus Cristo e irmão de Tiago, escreve esta carta para aqueles que Deus chamou, que são amados por Deus Pai e que são guardados por Jesus Cristo.
+[30766] REV_1_1: Esta é a revelação que Deus deu para Jesus Cristo, para mostrar aos seus servos o que vai acontecer em breve. Jesus mostrou isso quando enviou seu anjo para seu servo João.

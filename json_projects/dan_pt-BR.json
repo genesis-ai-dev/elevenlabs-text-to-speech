@@ -1,0 +1,169 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Daniel Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:851"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 1:1",
+              "Dan 1:21"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:852"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 2:1",
+              "Dan 2:49"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:853"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 3:1",
+              "Dan 3:30"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:854"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 4:1",
+              "Dan 4:37"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:855"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 5:1",
+              "Dan 5:31"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:856"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 6:1",
+              "Dan 6:28"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:857"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 7:1",
+              "Dan 7:28"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:858"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 8:1",
+              "Dan 8:27"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:859"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 9:1",
+              "Dan 9:27"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:860"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 10:1",
+              "Dan 10:21"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:861"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 11:1",
+              "Dan 11:45"
+            ]
+          ]
+        },
+        {
+          "name": "Daniel Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:862"
+          ],
+          "verse_ranges": [
+            [
+              "Dan 12:1",
+              "Dan 12:13"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Juízes Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:212"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 1:1",
+              "Jdg 1:36"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:213"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 2:1",
+              "Jdg 2:23"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:214"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 3:1",
+              "Jdg 3:31"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 4",
+          "description": "",
+          "additional_tags": [
+            "misión:215"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 4:1",
+              "Jdg 4:24"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 5",
+          "description": "",
+          "additional_tags": [
+            "misión:216"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 5:1",
+              "Jdg 5:31"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:217"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 6:1",
+              "Jdg 6:40"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 7",
+          "description": "",
+          "additional_tags": [
+            "misión:218"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 7:1",
+              "Jdg 7:25"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:219"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 8:1",
+              "Jdg 8:35"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 9",
+          "description": "",
+          "additional_tags": [
+            "misión:220"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 9:1",
+              "Jdg 9:57"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 10",
+          "description": "",
+          "additional_tags": [
+            "misión:221"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 10:1",
+              "Jdg 10:18"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 11",
+          "description": "",
+          "additional_tags": [
+            "misión:222"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 11:1",
+              "Jdg 11:40"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:223"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 12:1",
+              "Jdg 12:15"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:224"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 13:1",
+              "Jdg 13:25"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 14",
+          "description": "",
+          "additional_tags": [
+            "misión:225"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 14:1",
+              "Jdg 14:20"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 15",
+          "description": "",
+          "additional_tags": [
+            "misión:226"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 15:1",
+              "Jdg 15:20"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:227"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 16:1",
+              "Jdg 16:31"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:228"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 17:1",
+              "Jdg 17:13"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 18",
+          "description": "",
+          "additional_tags": [
+            "misión:229"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 18:1",
+              "Jdg 18:31"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 19",
+          "description": "",
+          "additional_tags": [
+            "misión:230"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 19:1",
+              "Jdg 19:30"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 20",
+          "description": "",
+          "additional_tags": [
+            "misión:231"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 20:1",
+              "Jdg 20:48"
+            ]
+          ]
+        },
+        {
+          "name": "Juízes Capítulo 21",
+          "description": "",
+          "additional_tags": [
+            "misión:232"
+          ],
+          "verse_ranges": [
+            [
+              "Jdg 21:1",
+              "Jdg 21:25"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Habacuque Capítulo 1",
+          "description": "",
+          "additional_tags": [
+            "misión:904"
+          ],
+          "verse_ranges": [
+            [
+              "Hab 1:1",
+              "Hab 1:17"
+            ]
+          ]
+        },
+        {
+          "name": "Habacuque Capítulo 2",
+          "description": "",
+          "additional_tags": [
+            "misión:905"
+          ],
+          "verse_ranges": [
+            [
+              "Hab 2:1",
+              "Hab 2:20"
+            ]
+          ]
+        },
+        {
+          "name": "Habacuque Capítulo 3",
+          "description": "",
+          "additional_tags": [
+            "misión:906"
+          ],
+          "verse_ranges": [
+            [
+              "Hab 3:1",
+              "Hab 3:19"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
