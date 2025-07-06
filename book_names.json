@@ -5,7 +5,7 @@
       "pt-BR": "Gn"
     },
     "EXO": {
-      "en": "Ex",
+      "en": "Exo",
       "pt-BR": "Êx"
     },
     "LEV": {
@@ -17,47 +17,47 @@
       "pt-BR": "Nm"
     },
     "DEU": {
-      "en": "Deut",
+      "en": "Deu",
       "pt-BR": "Dt"
     },
     "JOS": {
-      "en": "Josh",
+      "en": "Jos",
       "pt-BR": "Js"
     },
     "JDG": {
-      "en": "Judg",
+      "en": "Jdg",
       "pt-BR": "Jz"
     },
     "RUT": {
-      "en": "Ruth",
+      "en": "Rut",
       "pt-BR": "Rt"
     },
     "1SA": {
-      "en": "1Sam",
+      "en": "1Sa",
       "pt-BR": "1Sm"
     },
     "2SA": {
-      "en": "2Sam",
+      "en": "2Sa",
       "pt-BR": "2Sm"
     },
     "1KI": {
-      "en": "1Kings",
+      "en": "1Ki",
       "pt-BR": "1Rs"
     },
     "2KI": {
-      "en": "2Kings",
+      "en": "2Ki",
       "pt-BR": "2Rs"
     },
     "1CH": {
-      "en": "1Chr",
+      "en": "1Ch",
       "pt-BR": "1Cr"
     },
     "2CH": {
-      "en": "2Chr",
+      "en": "2Ch",
       "pt-BR": "2Cr"
     },
     "EZR": {
-      "en": "Ezra",
+      "en": "Ezr",
       "pt-BR": "Ed"
     },
     "NEH": {
@@ -65,7 +65,7 @@
       "pt-BR": "Ne"
     },
     "EST": {
-      "en": "Esth",
+      "en": "Est",
       "pt-BR": "Et"
     },
     "JOB": {
@@ -73,19 +73,19 @@
       "pt-BR": "Jó"
     },
     "PSA": {
-      "en": "Ps",
+      "en": "Psa",
       "pt-BR": "Sl"
     },
     "PRO": {
-      "en": "Prov",
+      "en": "Pro",
       "pt-BR": "Pv"
     },
     "ECC": {
-      "en": "Eccl",
+      "en": "Ecc",
       "pt-BR": "Ec"
     },
     "SNG": {
-      "en": "Song",
+      "en": "Sng",
       "pt-BR": "Ct"
     },
     "ISA": {
@@ -101,7 +101,7 @@
       "pt-BR": "Lm"
     },
     "EZK": {
-      "en": "Ezek",
+      "en": "Ezk",
       "pt-BR": "Ez"
     },
     "DAN": {
@@ -113,19 +113,19 @@
       "pt-BR": "Os"
     },
     "JOL": {
-      "en": "Joel",
+      "en": "Jol",
       "pt-BR": "Jl"
     },
     "AMO": {
-      "en": "Amos",
+      "en": "Amo",
       "pt-BR": "Am"
     },
     "OBA": {
-      "en": "Obad",
+      "en": "Oba",
       "pt-BR": "Ob"
     },
     "JON": {
-      "en": "Jonah",
+      "en": "Jon",
       "pt-BR": "Jn"
     },
     "MIC": {
@@ -141,7 +141,7 @@
       "pt-BR": "Hc"
     },
     "ZEP": {
-      "en": "Zeph",
+      "en": "Zep",
       "pt-BR": "Sf"
     },
     "HAG": {
@@ -149,7 +149,7 @@
       "pt-BR": "Ag"
     },
     "ZEC": {
-      "en": "Zech",
+      "en": "Zec",
       "pt-BR": "Zc"
     },
     "MAL": {
@@ -157,23 +157,23 @@
       "pt-BR": "Ml"
     },
     "MAT": {
-      "en": "Matt",
+      "en": "Mat",
       "pt-BR": "Mt"
     },
     "MRK": {
-      "en": "Mark",
+      "en": "Mrk",
       "pt-BR": "Mc"
     },
     "LUK": {
-      "en": "Luke",
+      "en": "Luk",
       "pt-BR": "Lc"
     },
     "JHN": {
-      "en": "John",
+      "en": "Jhn",
       "pt-BR": "Jo"
     },
     "ACT": {
-      "en": "Acts",
+      "en": "Act",
       "pt-BR": "At"
     },
     "ROM": {
@@ -181,11 +181,11 @@
       "pt-BR": "Rm"
     },
     "1CO": {
-      "en": "1Cor",
+      "en": "1Co",
       "pt-BR": "1Co"
     },
     "2CO": {
-      "en": "2Cor",
+      "en": "2Co",
       "pt-BR": "2Co"
     },
     "GAL": {
@@ -197,7 +197,7 @@
       "pt-BR": "Ef"
     },
     "PHP": {
-      "en": "Phil",
+      "en": "Php",
       "pt-BR": "Fp"
     },
     "COL": {
@@ -205,27 +205,27 @@
       "pt-BR": "Cl"
     },
     "1TH": {
-      "en": "1Thess",
+      "en": "1Th",
       "pt-BR": "1Ts"
     },
     "2TH": {
-      "en": "2Thess",
+      "en": "2Th",
       "pt-BR": "2Ts"
     },
     "1TI": {
-      "en": "1Tim",
+      "en": "1Ti",
       "pt-BR": "1Tm"
     },
     "2TI": {
-      "en": "2Tim",
+      "en": "2Ti",
       "pt-BR": "2Tm"
     },
     "TIT": {
-      "en": "Titus",
+      "en": "Tit",
       "pt-BR": "Tt"
     },
     "PHM": {
-      "en": "Phlm",
+      "en": "Phm",
       "pt-BR": "Fm"
     },
     "HEB": {
@@ -233,31 +233,31 @@
       "pt-BR": "Hb"
     },
     "JAS": {
-      "en": "James",
+      "en": "Jas",
       "pt-BR": "Tg"
     },
     "1PE": {
-      "en": "1Pet",
+      "en": "1Pe",
       "pt-BR": "1Pe"
     },
     "2PE": {
-      "en": "2Pet",
+      "en": "2Pe",
       "pt-BR": "2Pe"
     },
     "1JN": {
-      "en": "1John",
+      "en": "1Jn",
       "pt-BR": "1Jo"
     },
     "2JN": {
-      "en": "2John",
+      "en": "2Jn",
       "pt-BR": "2Jo"
     },
     "3JN": {
-      "en": "3John",
+      "en": "3Jn",
       "pt-BR": "3Jo"
     },
     "JUD": {
-      "en": "Jude",
+      "en": "Jud",
       "pt-BR": "Jd"
     },
     "REV": {

@@ -1,0 +1,65 @@
+{
+  "project_files": [
+    "json_projects/rom_pt-BR.json",
+    "json_projects/1co_pt-BR.json",
+    "json_projects/2co_pt-BR.json",
+    "json_projects/gal_pt-BR.json",
+    "json_projects/eph_pt-BR.json",
+    "json_projects/php_pt-BR.json",
+    "json_projects/col_pt-BR.json",
+    "json_projects/1th_pt-BR.json",
+    "json_projects/2th_pt-BR.json",
+    "json_projects/1ti_pt-BR.json",
+    "json_projects/2ti_pt-BR.json",
+    "json_projects/tit_pt-BR.json",
+    "json_projects/phm_pt-BR.json",
+    "json_projects/heb_pt-BR.json",
+    "json_projects/jas_pt-BR.json",
+    "json_projects/1pe_pt-BR.json",
+    "json_projects/2pe_pt-BR.json",
+    "json_projects/1jn_pt-BR.json",
+    "json_projects/2jn_pt-BR.json",
+    "json_projects/3jn_pt-BR.json",
+    "json_projects/jud_pt-BR.json",
+    "json_projects/rev_pt-BR.json"
+  ],
+
+  "scripture_reference": {
+    "bible_filename": "source_texts/brazilian_portuguese_translation_6.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  
+  "audio_generation": {
+    "provider": "openai",
+    "save_local": false,
+    "save_to_database": true,
+    "max_concurrent_requests": 10,
+    "requests_per_minute": 40,
+    
+    "elevenlabs": {
+      "voice_id": "dX7gRq1dIvLTgUaWpEFn"
+    },
+    
+    "openai": {
+      "voice": "onyx",
+      "model": "gpt-4o-mini-tts"
+    }
+  },
+  
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "pt-BR"
+  },
+  
+  "tag_labels": {
+    "book": "livro",
+    "chapter": "capítulo",
+    "verse": "versículo"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

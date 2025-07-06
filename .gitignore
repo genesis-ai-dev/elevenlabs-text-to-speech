@@ -3,3 +3,4 @@ audio/
 __pycache__/
 generated_audio/
 session_records/
+/audio_files*

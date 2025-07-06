@@ -3,7 +3,7 @@
 Script to find and print all blank lines in vref_eng.txt
 """
 
-def find_blank_lines(filename='vref_eng_2.txt'):
+def find_blank_lines(filename='vref_eng_verses_added_1.txt'):
     """Find all blank lines in the given file and print their line numbers."""
     try:
         with open(filename, 'r', encoding='utf-8') as file:

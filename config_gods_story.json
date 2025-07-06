@@ -1,0 +1,43 @@
+{
+  "project_file": "json_projects/gods_story_quests.json",
+
+  "scripture_reference": {
+    "bible_filename": "source_texts/eng-engULB_verses_added_1.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  
+  "audio_generation": {
+    "provider": "openai",
+    "save_local": false,
+    "save_to_database": true,
+    "reuse_existing_audio": true,
+    "max_concurrent_requests": 10,
+    "requests_per_minute": 40,
+    
+    "elevenlabs": {
+      "voice_id": "dX7gRq1dIvLTgUaWpEFn"
+    },
+    
+    "openai": {
+      "voice": "onyx",
+      "model": "gpt-4o-mini-tts"
+    }
+  },
+  
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "en"
+  },
+  
+  "tag_labels": {
+    "book": "book",
+    "chapter": "chapter",
+    "verse": "verse"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

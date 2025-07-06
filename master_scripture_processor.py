@@ -16,6 +16,7 @@ from supabase import create_client, Client
 from pydub import AudioSegment
 import io
 import logging
+import time
 
 from ScriptureReference import ScriptureReference
 from supabase_upload_quests import (
@@ -38,6 +39,7 @@ class SessionRecorder:
     def __init__(self):
         self.timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         self.filename = f"session_record_{self.timestamp}.json"
+        self.filepath = None
         self.records = {
             "timestamp": self.timestamp,
             "languages": [],
@@ -52,28 +54,42 @@ class SessionRecorder:
             "audio_files": [],
             "local_audio_files": []
         }
+        # Initialize the file immediately
+        self._initialize_file()
+    
+    def _initialize_file(self):
+        """Initialize the session record file"""
+        # Ensure session_records directory exists
+        os.makedirs('session_records', exist_ok=True)
+        
+        # Set filepath
+        self.filepath = os.path.join('session_records', self.filename)
+        
+        # Create initial file
+        self._write_to_file()
+        logger.info(f"Session record initialized: {self.filepath}")
+    
+    def _write_to_file(self):
+        """Write current records to file"""
+        with open(self.filepath, 'w', encoding='utf-8') as f:
+            json.dump(self.records, f, indent=2)
     
     def add_record(self, table: str, record_id: str, additional_info: dict = None):
-        """Add a record to the session"""
+        """Add a record to the session and save immediately"""
         record = {"id": record_id}
         if additional_info:
             record.update(additional_info)
         
         if table in self.records:
             self.records[table].append(record)
+            # Save after each addition
+            self._write_to_file()
     
     def save(self):
-        """Save the session record to file"""
-        # Ensure session_records directory exists
-        os.makedirs('session_records', exist_ok=True)
-        
-        # Update filename to include directory
-        filepath = os.path.join('session_records', self.filename)
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(self.records, f, indent=2)
-        print(f"\nSession record saved to: {filepath}")
-        return filepath
+        """Final save of the session record to file"""
+        self._write_to_file()
+        print(f"\nSession record saved to: {self.filepath}")
+        return self.filepath
 
 
 class MasterScriptureProcessor:
@@ -203,25 +219,40 @@ class MasterScriptureProcessor:
                 # Get project name for local storage
                 project_name = project_info.get('name', 'default').replace(' ', '_')
                 
+                # Get provider-specific voice info
+                provider = audio_config.get('provider', 'openai')
+                if provider == 'openai':
+                    voice = audio_config.get('openai', {}).get('voice', 'onyx')
+                elif provider == 'elevenlabs':
+                    voice = audio_config.get('elevenlabs', {}).get('voice_id', 'default')
+                else:
+                    voice = 'default'
+                
+                # Get language code (use ISO code if available, otherwise use English name)
+                lang_code = project_info.get('source_language_iso_code', project_info['source_language_english_name'])
+                
                 # Check if we should save to database and if audio already exists
                 audio_id = None
-                if save_to_database:
+                reuse_existing = audio_config.get('reuse_existing_audio', True)
+                
+                if save_to_database and reuse_existing:
+                    # Look for existing audio with matching verse_ref, language, and voice
                     existing_audio = self.supabase.table('asset_content_link') \
                         .select('audio_id') \
-                        .like('audio_id', f'{content_folder}/{verse_ref}_%') \
+                        .like('audio_id', f'{content_folder}/{verse_ref}_{lang_code}_{voice}_%') \
                         .limit(1) \
                         .execute()
                     
                     if existing_audio.data and existing_audio.data[0]['audio_id']:
                         # Reuse existing audio file
                         audio_id = existing_audio.data[0]['audio_id']
-                        logger.info(f"Reusing existing audio for {verse_ref}: {audio_id}")
+                        logger.info(f"Reusing existing audio for {verse_ref} ({lang_code}, {voice}): {audio_id}")
                         verse_metadata[verse_ref]['audio_id'] = audio_id
                 
                 # Add to batch if no existing audio
                 if not audio_id:
                     file_uuid = str(uuid.uuid4())
-                    filename = f"{verse_ref}_{file_uuid}.m4a"
+                    filename = f"{verse_ref}_{lang_code}_{voice}_{file_uuid}.m4a"
                     
                     # Determine output path
                     if save_local:
@@ -324,11 +355,18 @@ class MasterScriptureProcessor:
                         'asset_id': asset_id
                     })
             
+            # Get tag labels from config
+            tag_labels = self.config.get('tag_labels', {
+                'book': 'book',
+                'chapter': 'chapter',
+                'verse': 'verse'
+            })
+            
             # Add tags
             for tag_name in (
-                f"livro:{metadata['formatted_book']}",
-                f"capítulo:{metadata['chapter']}",
-                f"versículo:{metadata['verse']}"
+                f"{tag_labels['book']}:{metadata['formatted_book']}",
+                f"{tag_labels['chapter']}:{metadata['chapter']}",
+                f"{tag_labels['verse']}:{metadata['verse']}"
             ):
                 tag_id = get_or_create_tag(self.supabase, tag_cache, tag_name)
                 
@@ -361,10 +399,51 @@ class MasterScriptureProcessor:
     
     def run(self):
         """Main execution method"""
-        # Get project data
-        project_file = self.config['project_file']
-        with open(project_file, 'r', encoding='utf-8') as f:
-            project_data = json.load(f)
+        # Record start time
+        start_time = time.time()
+        
+        # Get project files - support both single file and array
+        project_files = []
+        if 'project_file' in self.config:
+            # Single file (backward compatibility)
+            project_files = [self.config['project_file']]
+        elif 'project_files' in self.config:
+            # Array of files
+            project_files = self.config['project_files']
+        else:
+            raise ValueError("Configuration must contain either 'project_file' or 'project_files'")
+        
+        # Process each project file
+        for project_file in project_files:
+            print(f"\n{'='*60}")
+            print(f"Processing project file: {project_file}")
+            print(f"{'='*60}\n")
+            
+            with open(project_file, 'r', encoding='utf-8') as f:
+                project_data = json.load(f)
+            
+            self._process_project_data(project_data)
+        
+        # Calculate and display total time
+        end_time = time.time()
+        total_time = end_time - start_time
+        
+        # Format time nicely
+        if total_time < 60:
+            time_str = f"{total_time:.2f} seconds"
+        elif total_time < 3600:
+            minutes = total_time / 60
+            time_str = f"{minutes:.2f} minutes ({total_time:.2f} seconds)"
+        else:
+            hours = total_time / 3600
+            minutes = (total_time % 3600) / 60
+            time_str = f"{hours:.2f} hours ({int(hours)}h {int(minutes)}m {total_time:.2f}s)"
+        
+        print(f"\nAll projects processed!")
+        print(f"Total execution time: {time_str}")
+    
+    def _process_project_data(self, project_data):
+        """Process a single project data object"""
         
         # Scripture reference configuration
         scripture_config = self.config.get('scripture_reference', {})
@@ -526,17 +605,24 @@ class MasterScriptureProcessor:
                     quest_books.add(formatted_book)
                     quest_chapters.add((formatted_book, chapter))
                 
+                # Get tag labels from config
+                tag_labels = self.config.get('tag_labels', {
+                    'book': 'book',
+                    'chapter': 'chapter',
+                    'verse': 'verse'
+                })
+                
                 # Add book and chapter tags for quest
                 quest_tags = []
                 
                 # Add book tags
                 for book in quest_books:
-                    quest_tags.append(f"livro:{book}")
+                    quest_tags.append(f"{tag_labels['book']}:{book}")
                 
                 # Add chapter tags (only if quest covers a single book)
                 if len(quest_books) == 1:
                     for book, chapter in quest_chapters:
-                        quest_tags.append(f"capítulo:{chapter}")
+                        quest_tags.append(f"{tag_labels['chapter']}:{chapter}")
                 
                 # Add additional tags from JSON
                 quest_tags.extend(quest.get('additional_tags', []))
@@ -568,17 +654,21 @@ class MasterScriptureProcessor:
                             })
                     else:
                         print(f"  Quest tag already exists: {tag_name}")
-        
-        print("Processing complete!")
 
 
 def delete_session(record_file: str):
     """Delete all records created in a session based on the record file"""
     print(f"\nDeleting session from record file: {record_file}")
     
+    # Handle both direct file path and just filename
     if not os.path.exists(record_file):
-        print(f"Error: Record file '{record_file}' not found!")
-        return
+        # Try looking in session_records directory
+        alt_path = os.path.join('session_records', record_file)
+        if os.path.exists(alt_path):
+            record_file = alt_path
+        else:
+            print(f"Error: Record file '{record_file}' not found!")
+            return
     
     # Load the record file
     with open(record_file, 'r', encoding='utf-8') as f:
@@ -657,7 +747,7 @@ def main():
         return
     
     # Normal mode
-    CONFIG_FILE = "config.json"  # Change this to your desired config file path
+    CONFIG_FILE = "config_pt-BR_bible.json"  # Change this to your desired config file path
     
     # Check if config file exists
     if not os.path.exists(CONFIG_FILE):

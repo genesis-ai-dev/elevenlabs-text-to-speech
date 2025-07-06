@@ -1,25 +1,37 @@
 {
-  "project_file": "json_projects/your_project.json",
+  // Option 1: Single project file (backward compatible)
+  "project_file": "json_projects/gen_pt-BR.json",
+  
+  // Option 2: Array of project files (new feature)
+  // "project_files": [
+  //   "json_projects/gen_pt-BR.json",
+  //   "json_projects/exo_pt-BR.json",
+  //   "json_projects/mat_pt-BR.json"
+  // ],
   
   "scripture_reference": {
-    "bible_filename": "source_texts/your_bible_file.txt",
+    "bible_filename": "source_texts/brazilian_portuguese_translation_5.txt",
     "source_type": "local_ebible",
     "versification": "eng"
   },
   
   "audio_generation": {
     "provider": "openai",
-    "save_local": true,
+    "save_local": false,
     "save_to_database": true,
+    "max_concurrent_requests": 5,
+    "requests_per_minute": 40,
     
     "elevenlabs": {
-      "voice_id": "your_elevenlabs_voice_id"
+      "voice_id": "dX7gRq1dIvLTgUaWpEFn"
     },
     
     "openai": {
-      "voice": "echo",
-      "model": "gpt-4o-mini-tts"
-    },
+      "voice": "onyx",
+      "model": "gpt-4o-mini-tts",
+      "instructions": "Voice affect: Calm, composed, reverent, and trustworthy.\n\nTone: Sincere, respectable, and even.\n\nPacing:\n\n    Steady and consistent for narration.\n\n    Slightly faster for narrative action to maintain engagement.\n\nEmotions: Calm, confident narration.\n\nPronunciation:\n\n    Clear, precise Brazilian-Portuguese.\n\n    Give special care to biblical names and places (e.g., Jerusalém, Moisés, Abraão)."
+    }
+  },
   
   "book_abbreviations": {
     "use_localized": true,

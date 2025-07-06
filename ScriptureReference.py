@@ -334,7 +334,7 @@ class ScriptureReference:
     @cache
     def load_verses(self):
         # read vref lines from vref_eng.txt local file, load into verses list
-        with open('vref_eng.txt', 'r') as file:
+        with open('vref_eng_verses_added_1.txt', 'r') as file:
             lines = file.readlines()
             verses = [line.strip() for line in lines]
             return verses
@@ -367,19 +367,56 @@ class ScriptureReference:
                     return i
             return -1
         
+        def find_last_verse_in_chapter(book_code, chapter):
+            """Find the last verse in a given chapter"""
+            for i in range(len(verses) - 1, -1, -1):
+                verse_parts = verses[i].split()
+                if len(verse_parts) >= 2 and verse_parts[0] == book_code:
+                    ch_v = verse_parts[1].split(':')
+                    if len(ch_v) == 2 and ch_v[0] == str(chapter):
+                        return i
+            return -1
+        
+        def find_last_verse_in_book(book_code):
+            """Find the last verse in a given book"""
+            for i in range(len(verses) - 1, -1, -1):
+                verse_parts = verses[i].split()
+                if len(verse_parts) >= 2 and verse_parts[0] == book_code:
+                    return i
+            return -1
+        
         start_ref_str = f"{self.start_ref['bookCode']} {self.start_ref['startChapter']}:{self.start_ref['startVerse']}"
         end_ref_str = f"{self.end_ref['bookCode']} {self.end_ref['endChapter']}:{self.end_ref['endVerse']}"
         
         start_index = find_index(start_ref_str)
-        end_index = find_index(end_ref_str)
-        
-        if start_index == -1 or end_index == -1:
+        if start_index == -1:
             return []
         
-        if self.show_line_numbers:
-            return [[i + 1, verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
-        else:
-            return [[verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]] for i in range(start_index, end_index + 1)]
+        end_index = find_index(end_ref_str)
+        
+        # If end reference doesn't exist, try fallback options
+        if end_index == -1:
+            # Try to find the last verse of the chapter
+            end_index = find_last_verse_in_chapter(self.end_ref['bookCode'], self.end_ref['endChapter'])
+            
+            # If chapter doesn't exist, try to find the last verse of the book
+            if end_index == -1:
+                end_index = find_last_verse_in_book(self.end_ref['bookCode'])
+            
+            # If book doesn't exist, return empty
+            if end_index == -1:
+                return []
+        
+        result = []
+        for i in range(start_index, end_index + 1):
+            # Skip if the versification line is blank
+            if verses[i].strip():  # Only include lines where versification is non-blank
+                if self.show_line_numbers:
+                    result.append([i + 1, verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]])
+                else:
+                    result.append([verses[i].replace(' ', '_').replace(':', '_'), bible_text[i]])
+        
+        return result
 
     def extract_verses_from_usfm(self):
         input_directory = self.bible_filename  # Assuming bible_filename is now a directory path for USFM files
@@ -481,15 +518,9 @@ class ScriptureReference:
 # [print(verse) for verse in scripture_ref]
        
 # Example usage with local eBible file:
-# scripture_ref = ScriptureReference(start_ref='song 1:1', bible_filename='source_texts/brazilian_portuguese_translation_5.txt', source_type='local_ebible')
+# scripture_ref = ScriptureReference(start_ref='rev 21:26', end_ref='rev 23:1', bible_filename='source_texts/brazilian_portuguese_translation_5.txt', source_type='local_ebible')
 # print("Verses from local eBible file:")
 # for verse in scripture_ref.verses:
-#     print(verse)
-
-# Example with line numbers:
-# scripture_ref_with_lines = ScriptureReference('1ki 5:4', bible_filename='brazilian_portuguese_translation_4_corrected.txt', source_type='local_ebible', show_line_numbers=True)
-# print("\nVerses from local eBible file with line numbers:")
-# for verse in scripture_ref_with_lines.verses:
 #     print(verse)
 
 # Example with absolute path on Windows:
