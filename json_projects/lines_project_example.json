@@ -1,0 +1,55 @@
+{
+  "languages": [
+    {
+      "native_name": "Português Brasileiro",
+      "english_name": "Brazilian Portuguese",
+      "iso639_3": "por",
+      "locale": "pt-BR",
+      "ui_ready": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "8K Frases Português Brasileiro",
+      "description": "Coleção de 8.000 frases em português brasileiro",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Frases 1-2",
+          "description": "Primeiras 2 frases",
+          "additional_tags": [
+            "módulo:1",
+            "iniciante"
+          ],
+          "line_ranges": [
+            [1, 2]
+          ]
+        },
+        {
+          "name": "Frases 3-4",
+          "description": "Frases 3 a 4",
+          "additional_tags": [
+            "módulo:2",
+            "iniciante"
+          ],
+          "line_ranges": [
+            [3, 4]
+          ]
+        },
+        {
+          "name": "Frases 5-6",
+          "description": "Frases 5 a 6",
+          "additional_tags": [
+            "módulo:3",
+            "intermediário"
+          ],
+          "line_ranges": [
+            [5, 6]
+          ]
+        }
+      ]
+    }
+  ]
+} 

@@ -1,4 +1,6 @@
 {
+  "content_type": "bible",
+  
   "project_files": [
     "json_projects/rom_pt-BR.json",
     "json_projects/1co_pt-BR.json",
