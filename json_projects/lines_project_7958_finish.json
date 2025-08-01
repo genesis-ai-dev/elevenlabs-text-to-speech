@@ -1,0 +1,204 @@
+{
+  "languages": [
+    {
+      "native_name": "Português Brasileiro",
+      "english_name": "Brazilian Portuguese",
+      "iso639_3": "por",
+      "locale": "pt-BR",
+      "ui_ready": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "Frases Português Brasileiro",
+      "description": "Coleção de 7,958 frases em português brasileiro",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Frases 6701-6800",
+          "description": "Frases 6701 a 6800",
+          "additional_tags": [
+            "módulo:68",
+            "grupo:7"
+          ],
+          "line_ranges": [
+            [
+              6701,
+              6800
+            ]
+          ]
+        },
+        {
+          "name": "Frases 6801-6900",
+          "description": "Frases 6801 a 6900",
+          "additional_tags": [
+            "módulo:69",
+            "grupo:7"
+          ],
+          "line_ranges": [
+            [
+              6801,
+              6900
+            ]
+          ]
+        },
+        {
+          "name": "Frases 6901-7000",
+          "description": "Frases 6901 a 7000",
+          "additional_tags": [
+            "módulo:70",
+            "grupo:7"
+          ],
+          "line_ranges": [
+            [
+              6901,
+              7000
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7001-7100",
+          "description": "Frases 7001 a 7100",
+          "additional_tags": [
+            "módulo:71",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7001,
+              7100
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7101-7200",
+          "description": "Frases 7101 a 7200",
+          "additional_tags": [
+            "módulo:72",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7101,
+              7200
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7201-7300",
+          "description": "Frases 7201 a 7300",
+          "additional_tags": [
+            "módulo:73",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7201,
+              7300
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7301-7400",
+          "description": "Frases 7301 a 7400",
+          "additional_tags": [
+            "módulo:74",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7301,
+              7400
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7401-7500",
+          "description": "Frases 7401 a 7500",
+          "additional_tags": [
+            "módulo:75",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7401,
+              7500
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7501-7600",
+          "description": "Frases 7501 a 7600",
+          "additional_tags": [
+            "módulo:76",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7501,
+              7600
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7601-7700",
+          "description": "Frases 7601 a 7700",
+          "additional_tags": [
+            "módulo:77",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7601,
+              7700
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7701-7800",
+          "description": "Frases 7701 a 7800",
+          "additional_tags": [
+            "módulo:78",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7701,
+              7800
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7801-7900",
+          "description": "Frases 7801 a 7900",
+          "additional_tags": [
+            "módulo:79",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7801,
+              7900
+            ]
+          ]
+        },
+        {
+          "name": "Frases 7901-7958",
+          "description": "Frases 7901 a 7958",
+          "additional_tags": [
+            "módulo:80",
+            "grupo:8"
+          ],
+          "line_ranges": [
+            [
+              7901,
+              7958
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

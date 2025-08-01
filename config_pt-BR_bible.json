@@ -1,30 +1,7 @@
 {
   "content_type": "bible",
   
-  "project_files": [
-    "json_projects/rom_pt-BR.json",
-    "json_projects/1co_pt-BR.json",
-    "json_projects/2co_pt-BR.json",
-    "json_projects/gal_pt-BR.json",
-    "json_projects/eph_pt-BR.json",
-    "json_projects/php_pt-BR.json",
-    "json_projects/col_pt-BR.json",
-    "json_projects/1th_pt-BR.json",
-    "json_projects/2th_pt-BR.json",
-    "json_projects/1ti_pt-BR.json",
-    "json_projects/2ti_pt-BR.json",
-    "json_projects/tit_pt-BR.json",
-    "json_projects/phm_pt-BR.json",
-    "json_projects/heb_pt-BR.json",
-    "json_projects/jas_pt-BR.json",
-    "json_projects/1pe_pt-BR.json",
-    "json_projects/2pe_pt-BR.json",
-    "json_projects/1jn_pt-BR.json",
-    "json_projects/2jn_pt-BR.json",
-    "json_projects/3jn_pt-BR.json",
-    "json_projects/jud_pt-BR.json",
-    "json_projects/rev_pt-BR.json"
-  ],
+  "project_file": "json_projects/missing_verses_pt-BR.json",
 
   "scripture_reference": {
     "bible_filename": "source_texts/brazilian_portuguese_translation_6.txt",

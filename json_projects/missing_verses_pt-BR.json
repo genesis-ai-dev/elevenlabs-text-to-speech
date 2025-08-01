@@ -1,0 +1,195 @@
+{
+  "projects": [
+    {
+      "name": "Bíblia",
+      "description": "",
+      "source_language_english_name": "Brazilian Portuguese",
+      "target_language_english_name": "Yanomami",
+      "private": false,
+      "quests": [
+        {
+          "name": "Gênesis Capítulo 31",
+          "description": "",
+          "additional_tags": [
+            "misión:31"
+          ],
+          "verse_ranges": [
+            [
+              "Gen 31:55",
+              "Gen 31:55"
+            ]
+          ]
+        },
+        {
+          "name": "Gênesis Capítulo 32",
+          "description": "",
+          "additional_tags": [
+            "misión:32"
+          ],
+          "verse_ranges": [
+            [
+              "Gen 32:1",
+              "Gen 32:32"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 8",
+          "description": "",
+          "additional_tags": [
+            "misión:58"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 8:1",
+              "Exo 8:32"
+            ]
+          ]
+        },
+        {
+          "name": "Êxodo Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:72"
+          ],
+          "verse_ranges": [
+            [
+              "Exo 22:1",
+              "Exo 22:31"
+            ]
+          ]
+        },
+        {
+          "name": "Levítico Capítulo 6",
+          "description": "",
+          "additional_tags": [
+            "misión:96"
+          ],
+          "verse_ranges": [
+            [
+              "Lev 6:1",
+              "Lev 6:30"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 16",
+          "description": "",
+          "additional_tags": [
+            "misión:133"
+          ],
+          "verse_ranges": [
+            [
+              "Num 16:36",
+              "Num 16:50"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 17",
+          "description": "",
+          "additional_tags": [
+            "misión:134"
+          ],
+          "verse_ranges": [
+            [
+              "Num 17:1",
+              "Num 17:13"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:146"
+          ],
+          "verse_ranges": [
+            [
+              "Num 29:40",
+              "Num 29:40"
+            ]
+          ]
+        },
+        {
+          "name": "Números Capítulo 30",
+          "description": "",
+          "additional_tags": [
+            "misión:147"
+          ],
+          "verse_ranges": [
+            [
+              "Num 30:1",
+              "Num 30:16"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 12",
+          "description": "",
+          "additional_tags": [
+            "misión:165"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 12:32",
+              "Deu 12:32"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 13",
+          "description": "",
+          "additional_tags": [
+            "misión:166"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 13:1",
+              "Deu 13:18"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 22",
+          "description": "",
+          "additional_tags": [
+            "misión:175"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 22:30",
+              "Deu 22:30"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 23",
+          "description": "",
+          "additional_tags": [
+            "misión:176"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 23:1",
+              "Deu 23:25"
+            ]
+          ]
+        },
+        {
+          "name": "Deuteronômio Capítulo 29",
+          "description": "",
+          "additional_tags": [
+            "misión:182"
+          ],
+          "verse_ranges": [
+            [
+              "Deu 29:1",
+              "Deu 29:29"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

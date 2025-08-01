@@ -143,14 +143,22 @@ class UnifiedContentProcessor:
             # Format asset name
             asset_name = self.content_handler.format_asset_name(reference, source_lang_name)
             
+            # Check if asset already exists
+            existing_asset = self.supabase.client.table('asset') \
+                .select('id') \
+                .eq('name', asset_name) \
+                .eq('source_language_id', source_lang_id) \
+                .execute()
+            
             # Create or get asset
             asset_id = self.supabase.upsert_asset(asset_name, source_lang_id)
             
-            # Record asset creation
-            self.session_recorder.add_record('assets', asset_id, {
-                'name': asset_name,
-                'source_language_id': source_lang_id
-            })
+            # Only record if it's a new asset
+            if not existing_asset.data:
+                self.session_recorder.add_record('assets', asset_id, {
+                    'name': asset_name,
+                    'source_language_id': source_lang_id
+                })
             
             # Store metadata
             item_metadata[reference] = {
@@ -269,56 +277,91 @@ class UnifiedContentProcessor:
             text = metadata['text']
             audio_id = metadata.get('audio_id')
             
+            # Check if content link exists
+            existing_content_link = self.supabase.client.table('asset_content_link') \
+                .select('id') \
+                .eq('asset_id', asset_id) \
+                .execute()
+            
             # Update content link
             self.supabase.upsert_asset_content_link(asset_id, text, audio_id)
             
-            # Record content link
-            self.session_recorder.add_record('asset_content_links', f"{asset_id}_content", {
-                'asset_id': asset_id,
-                'has_audio': bool(audio_id)
-            })
+            # Only record if it's a new content link
+            if not existing_content_link.data:
+                self.session_recorder.add_record('asset_content_links', f"{asset_id}_content", {
+                    'asset_id': asset_id,
+                    'has_audio': bool(audio_id)
+                })
+            
+            # Check if quest-asset link exists
+            existing_quest_asset_link = self.supabase.client.table('quest_asset_link') \
+                .select('quest_id') \
+                .eq('quest_id', quest_id) \
+                .eq('asset_id', asset_id) \
+                .execute()
             
             # Create quest-asset link
             self.supabase.upsert_quest_asset_link(quest_id, asset_id)
             
-            # Record quest-asset link
-            self.session_recorder.add_record('quest_asset_links', f"{quest_id}_{asset_id}", {
-                'quest_id': quest_id,
-                'asset_id': asset_id
-            })
+            # Only record if it's a new link
+            if not existing_quest_asset_link.data:
+                self.session_recorder.add_record('quest_asset_links', f"{quest_id}_{asset_id}", {
+                    'quest_id': quest_id,
+                    'asset_id': asset_id
+                })
             
             # Add tags
             tags = self.content_handler.get_tags(reference)
             for tag_name in tags:
+                # Check if tag already exists before creating
+                was_new_tag = tag_name not in tag_cache
                 tag_id = self.supabase.get_or_create_tag(tag_name, tag_cache)
                 
                 # Record tag creation if new
-                if tag_name not in tag_cache:
+                if was_new_tag:
                     self.session_recorder.add_record('tags', tag_id, {'name': tag_name})
+                
+                # Check if asset-tag link exists
+                existing_asset_tag_link = self.supabase.client.table('asset_tag_link') \
+                    .select('asset_id') \
+                    .eq('asset_id', asset_id) \
+                    .eq('tag_id', tag_id) \
+                    .execute()
                 
                 self.supabase.upsert_asset_tag_link(asset_id, tag_id)
                 
-                # Record asset-tag link
-                self.session_recorder.add_record('asset_tag_links', f"{asset_id}_{tag_id}", {
-                    'asset_id': asset_id,
-                    'tag_id': tag_id
-                })
+                # Only record if it's a new link
+                if not existing_asset_tag_link.data:
+                    self.session_recorder.add_record('asset_tag_links', f"{asset_id}_{tag_id}", {
+                        'asset_id': asset_id,
+                        'tag_id': tag_id
+                    })
         
         # Add quest-level tags
         for tag_name in quest.get('additional_tags', []):
+            # Check if tag already exists before creating
+            was_new_tag = tag_name not in tag_cache
             tag_id = self.supabase.get_or_create_tag(tag_name, tag_cache)
             
             # Record tag creation if new
-            if tag_name not in tag_cache:
+            if was_new_tag:
                 self.session_recorder.add_record('tags', tag_id, {'name': tag_name})
+            
+            # Check if quest-tag link exists
+            existing_quest_tag_link = self.supabase.client.table('quest_tag_link') \
+                .select('quest_id') \
+                .eq('quest_id', quest_id) \
+                .eq('tag_id', tag_id) \
+                .execute()
             
             self.supabase.upsert_quest_tag_link(quest_id, tag_id)
             
-            # Record quest-tag link
-            self.session_recorder.add_record('quest_tag_links', f"{quest_id}_{tag_id}", {
-                'quest_id': quest_id,
-                'tag_id': tag_id
-            })
+            # Only record if it's a new link
+            if not existing_quest_tag_link.data:
+                self.session_recorder.add_record('quest_tag_links', f"{quest_id}_{tag_id}", {
+                    'quest_id': quest_id,
+                    'tag_id': tag_id
+                })
     
     def process_quest(self, quest: Dict[str, Any], project_info: Dict[str, Any],
                      lang_map: Dict[str, str], tag_cache: Dict[str, str],
@@ -380,14 +423,18 @@ class UnifiedContentProcessor:
         # Process languages from project data if provided
         if 'languages' in project_data:
             for lang in project_data['languages']:
+                # Check if language already exists
+                existing_lang_id = self.supabase.get_language_by_name(lang['english_name'])
+                
                 lang_id = self.supabase.upsert_language(lang)
                 lang_map[lang['english_name']] = lang_id
                 
-                # Record language creation
-                self.session_recorder.add_record('languages', lang_id, {
-                    'english_name': lang['english_name'],
-                    'iso639_3': lang.get('iso639_3')
-                })
+                # Only record if it's a new language
+                if not existing_lang_id:
+                    self.session_recorder.add_record('languages', lang_id, {
+                        'english_name': lang['english_name'],
+                        'iso639_3': lang.get('iso639_3')
+                    })
         
         # Fetch any additional languages from DB
         for proj in project_data['projects']:
@@ -407,25 +454,44 @@ class UnifiedContentProcessor:
         # Process projects and quests
         tag_cache = {}
         for proj in project_data['projects']:
-            project_id = self.supabase.upsert_project(proj, lang_map)
-            print(f"\nProcessing project: {proj['name']}")
+            # Check if project already exists by name only
+            existing_project = self.supabase.client.table('project') \
+                .select('id') \
+                .eq('name', proj['name']) \
+                .execute()
             
-            # Record project creation
-            self.session_recorder.add_record('projects', project_id, {
-                'name': proj['name'],
-                'source_language_id': lang_map[proj['source_language_english_name']],
-                'target_language_id': lang_map[proj['target_language_english_name']]
-            })
+            project_id = self.supabase.upsert_project(proj, lang_map)
+            
+            if existing_project.data:
+                print(f"\nUsing existing project: {proj['name']} (ID: {project_id})")
+            else:
+                print(f"\nCreating new project: {proj['name']} (ID: {project_id})")
+                # Only record if it's a new project
+                self.session_recorder.add_record('projects', project_id, {
+                    'name': proj['name'],
+                    'source_language_id': lang_map[proj['source_language_english_name']],
+                    'target_language_id': lang_map[proj['target_language_english_name']]
+                })
             
             for quest in proj['quests']:
-                quest_id = self.supabase.upsert_quest(quest, project_id)
-                print(f"  Processing quest: {quest['name']}")
+                # Check if quest already exists
+                existing_quest = self.supabase.client.table('quest') \
+                    .select('id') \
+                    .eq('name', quest['name']) \
+                    .eq('project_id', project_id) \
+                    .execute()
                 
-                # Record quest creation
-                self.session_recorder.add_record('quests', quest_id, {
-                    'name': quest['name'],
-                    'project_id': project_id
-                })
+                quest_id = self.supabase.upsert_quest(quest, project_id)
+                
+                if existing_quest.data:
+                    print(f"  Using existing quest: {quest['name']} (ID: {quest_id})")
+                else:
+                    print(f"  Creating new quest: {quest['name']} (ID: {quest_id})")
+                    # Only record if it's a new quest
+                    self.session_recorder.add_record('quests', quest_id, {
+                        'name': quest['name'],
+                        'project_id': project_id
+                    })
                 
                 # Process content for this quest
                 self.process_quest(quest, proj, lang_map, tag_cache, project_id, quest_id)

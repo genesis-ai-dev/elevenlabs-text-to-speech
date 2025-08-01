@@ -51,12 +51,10 @@ class SupabaseHandler:
     
     def upsert_project(self, proj: Dict[str, Any], lang_map: Dict[str, str]) -> str:
         """Upsert a project and return its ID"""
-        # Check if project exists
+        # Check if project exists by name only
         resp = self.client.table('project') \
             .select('id') \
             .eq('name', proj['name']) \
-            .eq('source_language_id', lang_map[proj['source_language_english_name']]) \
-            .eq('target_language_id', lang_map[proj['target_language_english_name']]) \
             .execute()
         
         if resp.data:

@@ -4,3 +4,5 @@ __pycache__/
 generated_audio/
 session_records/
 /audio_files*
+*.m4a
+*.pyc

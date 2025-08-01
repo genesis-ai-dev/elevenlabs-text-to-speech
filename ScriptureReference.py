@@ -276,6 +276,9 @@ class ScriptureReference:
     
     def __init__(self, start_ref, end_ref=None, bible_filename='eng-engwmbb', source_type='ebible', versification='eng', show_line_numbers=False):
         self.start_ref = self.parse_scripture_reference(start_ref)
+        # If end_ref is provided and identical to start_ref, treat as single verse
+        if end_ref and end_ref == start_ref:
+            end_ref = None
         self.end_ref = self.parse_scripture_reference(end_ref) if end_ref else self.start_ref
         self.bible_filename = bible_filename
         self.source_type = source_type
@@ -518,7 +521,7 @@ class ScriptureReference:
 # [print(verse) for verse in scripture_ref]
        
 # Example usage with local eBible file:
-# scripture_ref = ScriptureReference(start_ref='rev 21:26', end_ref='rev 23:1', bible_filename='source_texts/brazilian_portuguese_translation_5.txt', source_type='local_ebible')
+# scripture_ref = ScriptureReference(start_ref='rev 21:19', end_ref='rev 21:19', bible_filename='source_texts/brazilian_portuguese_translation_6.txt', source_type='local_ebible')
 # print("Verses from local eBible file:")
 # for verse in scripture_ref.verses:
 #     print(verse)
