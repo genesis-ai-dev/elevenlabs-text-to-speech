@@ -19,7 +19,7 @@ import logging
 import time
 
 from ScriptureReference import ScriptureReference
-from supabase_upload_quests import (
+from unified_content_handlers.supabase_upload_quests import (
     get_supabase_client, 
     load_book_names,
     get_localized_book_name,
@@ -27,7 +27,7 @@ from supabase_upload_quests import (
     upsert_project,
     get_or_create_tag
 )
-from audio_handler import AudioHandler
+from unified_content_handlers.audio_handler import AudioHandler
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

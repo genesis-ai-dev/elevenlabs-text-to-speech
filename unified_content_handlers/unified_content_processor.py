@@ -13,9 +13,9 @@ import time
 from typing import Dict, List, Optional, Tuple, Any
 from datetime import datetime, timezone
 
-from content_handlers import ContentHandler, BibleContentHandler, LinesContentHandler
-from supabase_handler import SupabaseHandler
-from audio_handler import AudioHandler
+from unified_content_handlers import ContentHandler, BibleContentHandler, LinesContentHandler
+from unified_content_handlers.supabase_handler import SupabaseHandler
+from unified_content_handlers.audio_handler import AudioHandler
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -499,7 +499,7 @@ class UnifiedContentProcessor:
 
 def delete_session(record_file: str):
     """Delete all records from a session using the session record file"""
-    from supabase_handler import SupabaseHandler
+    from unified_content_handlers.supabase_handler import SupabaseHandler
     
     print(f"\nDeleting session from: {record_file}")
     

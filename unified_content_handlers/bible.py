@@ -7,7 +7,7 @@ Handles Bible verse content using ScriptureReference
 from typing import List, Tuple, Dict, Any
 from .base import ContentHandler
 from ScriptureReference import ScriptureReference
-from supabase_upload_quests import load_book_names, get_localized_book_name
+from unified_content_handlers.supabase_upload_quests import load_book_names, get_localized_book_name
 
 
 class BibleContentHandler(ContentHandler):
