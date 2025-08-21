@@ -1,0 +1,50 @@
+{
+  "languages": [
+    {
+      "native_name": "Tok Pisin",
+      "english_name": "Tok Pisin",
+      "iso639_3": "tpi",
+      "locale": "tpi-PG",
+      "ui_ready": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "English Sentences to Tok Pisin",
+      "description": "Collection of 7,958 English sentences to Tok Pisin",
+      "source_language_english_name": "English",
+      "target_language_english_name": "Tok Pisin",
+      "private": false,
+      "quests": [
+        {
+          "name": "Sentences 1-100",
+          "description": "Sentences 1 to 100",
+          "additional_tags": [
+            "module:1",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              1,
+              100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 101-200",
+          "description": "Sentences 101 to 200",
+          "additional_tags": [
+            "module:2",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              101,
+              200
+            ]
+          ]
+        }       
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1142 @@
+{
+  "languages": [
+    {
+      "native_name": "Tok Pisin",
+      "english_name": "Tok Pisin",
+      "iso639_3": "tpi",
+      "locale": "tpi-PG",
+      "ui_ready": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "English Sentences to Tok Pisin",
+      "description": "Collection of 7,958 English sentences to Tok Pisin",
+      "source_language_english_name": "English",
+      "target_language_english_name": "Tok Pisin",
+      "private": false,
+      "quests": [
+        {
+          "name": "Sentences 1-100",
+          "description": "Sentences 1 to 100",
+          "additional_tags": [
+            "module:1",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              1,
+              100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 101-200",
+          "description": "Sentences 101 to 200",
+          "additional_tags": [
+            "module:2",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              101,
+              200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 201-300",
+          "description": "Sentences 201 to 300",
+          "additional_tags": [
+            "module:3",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              201,
+              300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 301-400",
+          "description": "Sentences 301 to 400",
+          "additional_tags": [
+            "module:4",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              301,
+              400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 401-500",
+          "description": "Sentences 401 to 500",
+          "additional_tags": [
+            "module:5",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              401,
+              500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 501-600",
+          "description": "Sentences 501 to 600",
+          "additional_tags": [
+            "module:6",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              501,
+              600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 601-700",
+          "description": "Sentences 601 to 700",
+          "additional_tags": [
+            "module:7",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              601,
+              700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 701-800",
+          "description": "Sentences 701 to 800",
+          "additional_tags": [
+            "module:8",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              701,
+              800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 801-900",
+          "description": "Sentences 801 to 900",
+          "additional_tags": [
+            "module:9",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              801,
+              900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 901-1000",
+          "description": "Sentences 901 to 1000",
+          "additional_tags": [
+            "module:10",
+            "group:1"
+          ],
+          "line_ranges": [
+            [
+              901,
+              1000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1001-1100",
+          "description": "Sentences 1001 to 1100",
+          "additional_tags": [
+            "module:11",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1001,
+              1100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1101-1200",
+          "description": "Sentences 1101 to 1200",
+          "additional_tags": [
+            "module:12",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1101,
+              1200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1201-1300",
+          "description": "Sentences 1201 to 1300",
+          "additional_tags": [
+            "module:13",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1201,
+              1300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1301-1400",
+          "description": "Sentences 1301 to 1400",
+          "additional_tags": [
+            "module:14",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1301,
+              1400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1401-1500",
+          "description": "Sentences 1401 to 1500",
+          "additional_tags": [
+            "module:15",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1401,
+              1500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1501-1600",
+          "description": "Sentences 1501 to 1600",
+          "additional_tags": [
+            "module:16",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1501,
+              1600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1601-1700",
+          "description": "Sentences 1601 to 1700",
+          "additional_tags": [
+            "module:17",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1601,
+              1700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1701-1800",
+          "description": "Sentences 1701 to 1800",
+          "additional_tags": [
+            "module:18",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1701,
+              1800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1801-1900",
+          "description": "Sentences 1801 to 1900",
+          "additional_tags": [
+            "module:19",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1801,
+              1900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 1901-2000",
+          "description": "Sentences 1901 to 2000",
+          "additional_tags": [
+            "module:20",
+            "group:2"
+          ],
+          "line_ranges": [
+            [
+              1901,
+              2000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2001-2100",
+          "description": "Sentences 2001 to 2100",
+          "additional_tags": [
+            "module:21",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2001,
+              2100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2101-2200",
+          "description": "Sentences 2101 to 2200",
+          "additional_tags": [
+            "module:22",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2101,
+              2200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2201-2300",
+          "description": "Sentences 2201 to 2300",
+          "additional_tags": [
+            "module:23",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2201,
+              2300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2301-2400",
+          "description": "Sentences 2301 to 2400",
+          "additional_tags": [
+            "module:24",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2301,
+              2400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2401-2500",
+          "description": "Sentences 2401 to 2500",
+          "additional_tags": [
+            "module:25",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2401,
+              2500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2501-2600",
+          "description": "Sentences 2501 to 2600",
+          "additional_tags": [
+            "module:26",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2501,
+              2600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2601-2700",
+          "description": "Sentences 2601 to 2700",
+          "additional_tags": [
+            "module:27",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2601,
+              2700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2701-2800",
+          "description": "Sentences 2701 to 2800",
+          "additional_tags": [
+            "module:28",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2701,
+              2800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2801-2900",
+          "description": "Sentences 2801 to 2900",
+          "additional_tags": [
+            "module:29",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2801,
+              2900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 2901-3000",
+          "description": "Sentences 2901 to 3000",
+          "additional_tags": [
+            "module:30",
+            "group:3"
+          ],
+          "line_ranges": [
+            [
+              2901,
+              3000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3001-3100",
+          "description": "Sentences 3001 to 3100",
+          "additional_tags": [
+            "module:31",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3001,
+              3100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3101-3200",
+          "description": "Sentences 3101 to 3200",
+          "additional_tags": [
+            "module:32",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3101,
+              3200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3201-3300",
+          "description": "Sentences 3201 to 3300",
+          "additional_tags": [
+            "module:33",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3201,
+              3300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3301-3400",
+          "description": "Sentences 3301 to 3400",
+          "additional_tags": [
+            "module:34",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3301,
+              3400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3401-3500",
+          "description": "Sentences 3401 to 3500",
+          "additional_tags": [
+            "module:35",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3401,
+              3500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3501-3600",
+          "description": "Sentences 3501 to 3600",
+          "additional_tags": [
+            "module:36",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3501,
+              3600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3601-3700",
+          "description": "Sentences 3601 to 3700",
+          "additional_tags": [
+            "module:37",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3601,
+              3700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3701-3800",
+          "description": "Sentences 3701 to 3800",
+          "additional_tags": [
+            "module:38",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3701,
+              3800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3801-3900",
+          "description": "Sentences 3801 to 3900",
+          "additional_tags": [
+            "module:39",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3801,
+              3900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 3901-4000",
+          "description": "Sentences 3901 to 4000",
+          "additional_tags": [
+            "module:40",
+            "group:4"
+          ],
+          "line_ranges": [
+            [
+              3901,
+              4000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4001-4100",
+          "description": "Sentences 4001 to 4100",
+          "additional_tags": [
+            "module:41",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4001,
+              4100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4101-4200",
+          "description": "Sentences 4101 to 4200",
+          "additional_tags": [
+            "module:42",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4101,
+              4200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4201-4300",
+          "description": "Sentences 4201 to 4300",
+          "additional_tags": [
+            "module:43",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4201,
+              4300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4301-4400",
+          "description": "Sentences 4301 to 4400",
+          "additional_tags": [
+            "module:44",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4301,
+              4400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4401-4500",
+          "description": "Sentences 4401 to 4500",
+          "additional_tags": [
+            "module:45",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4401,
+              4500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4501-4600",
+          "description": "Sentences 4501 to 4600",
+          "additional_tags": [
+            "module:46",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4501,
+              4600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4601-4700",
+          "description": "Sentences 4601 to 4700",
+          "additional_tags": [
+            "module:47",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4601,
+              4700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4701-4800",
+          "description": "Sentences 4701 to 4800",
+          "additional_tags": [
+            "module:48",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4701,
+              4800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4801-4900",
+          "description": "Sentences 4801 to 4900",
+          "additional_tags": [
+            "module:49",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4801,
+              4900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 4901-5000",
+          "description": "Sentences 4901 to 5000",
+          "additional_tags": [
+            "module:50",
+            "group:5"
+          ],
+          "line_ranges": [
+            [
+              4901,
+              5000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5001-5100",
+          "description": "Sentences 5001 to 5100",
+          "additional_tags": [
+            "module:51",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5001,
+              5100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5101-5200",
+          "description": "Sentences 5101 to 5200",
+          "additional_tags": [
+            "module:52",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5101,
+              5200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5201-5300",
+          "description": "Sentences 5201 to 5300",
+          "additional_tags": [
+            "module:53",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5201,
+              5300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5301-5400",
+          "description": "Sentences 5301 to 5400",
+          "additional_tags": [
+            "module:54",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5301,
+              5400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5401-5500",
+          "description": "Sentences 5401 to 5500",
+          "additional_tags": [
+            "module:55",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5401,
+              5500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5501-5600",
+          "description": "Sentences 5501 to 5600",
+          "additional_tags": [
+            "module:56",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5501,
+              5600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5601-5700",
+          "description": "Sentences 5601 to 5700",
+          "additional_tags": [
+            "module:57",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5601,
+              5700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5701-5800",
+          "description": "Sentences 5701 to 5800",
+          "additional_tags": [
+            "module:58",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5701,
+              5800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5801-5900",
+          "description": "Sentences 5801 to 5900",
+          "additional_tags": [
+            "module:59",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5801,
+              5900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 5901-6000",
+          "description": "Sentences 5901 to 6000",
+          "additional_tags": [
+            "module:60",
+            "group:6"
+          ],
+          "line_ranges": [
+            [
+              5901,
+              6000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6001-6100",
+          "description": "Sentences 6001 to 6100",
+          "additional_tags": [
+            "module:61",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6001,
+              6100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6101-6200",
+          "description": "Sentences 6101 to 6200",
+          "additional_tags": [
+            "module:62",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6101,
+              6200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6201-6300",
+          "description": "Sentences 6201 to 6300",
+          "additional_tags": [
+            "module:63",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6201,
+              6300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6301-6400",
+          "description": "Sentences 6301 to 6400",
+          "additional_tags": [
+            "module:64",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6301,
+              6400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6401-6500",
+          "description": "Sentences 6401 to 6500",
+          "additional_tags": [
+            "module:65",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6401,
+              6500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6501-6600",
+          "description": "Sentences 6501 to 6600",
+          "additional_tags": [
+            "module:66",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6501,
+              6600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6601-6700",
+          "description": "Sentences 6601 to 6700",
+          "additional_tags": [
+            "module:67",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6601,
+              6700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6701-6800",
+          "description": "Sentences 6701 to 6800",
+          "additional_tags": [
+            "module:68",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6701,
+              6800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6801-6900",
+          "description": "Sentences 6801 to 6900",
+          "additional_tags": [
+            "module:69",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6801,
+              6900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 6901-7000",
+          "description": "Sentences 6901 to 7000",
+          "additional_tags": [
+            "module:70",
+            "group:7"
+          ],
+          "line_ranges": [
+            [
+              6901,
+              7000
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7001-7100",
+          "description": "Sentences 7001 to 7100",
+          "additional_tags": [
+            "module:71",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7001,
+              7100
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7101-7200",
+          "description": "Sentences 7101 to 7200",
+          "additional_tags": [
+            "module:72",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7101,
+              7200
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7201-7300",
+          "description": "Sentences 7201 to 7300",
+          "additional_tags": [
+            "module:73",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7201,
+              7300
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7301-7400",
+          "description": "Sentences 7301 to 7400",
+          "additional_tags": [
+            "module:74",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7301,
+              7400
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7401-7500",
+          "description": "Sentences 7401 to 7500",
+          "additional_tags": [
+            "module:75",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7401,
+              7500
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7501-7600",
+          "description": "Sentences 7501 to 7600",
+          "additional_tags": [
+            "module:76",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7501,
+              7600
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7601-7700",
+          "description": "Sentences 7601 to 7700",
+          "additional_tags": [
+            "module:77",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7601,
+              7700
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7701-7800",
+          "description": "Sentences 7701 to 7800",
+          "additional_tags": [
+            "module:78",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7701,
+              7800
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7801-7900",
+          "description": "Sentences 7801 to 7900",
+          "additional_tags": [
+            "module:79",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7801,
+              7900
+            ]
+          ]
+        },
+        {
+          "name": "Sentences 7901-7958",
+          "description": "Sentences 7901 to 7958",
+          "additional_tags": [
+            "module:80",
+            "group:8"
+          ],
+          "line_ranges": [
+            [
+              7901,
+              7958
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

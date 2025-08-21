@@ -1,0 +1,39 @@
+{
+  "content_type": "bible",
+  
+  "project_file": "unified_config_project_files/luk_tpi.json",
+
+  "scripture_reference": {
+    "bible_filename": "source_texts/ebible_tpi_Tok_Pisin.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  
+  "audio_generation": {
+    "provider": "huggingface",
+    "save_local": true,
+    "save_to_database": true,
+    "max_concurrent_requests": 10,
+    "requests_per_minute": 40,
+    
+    "huggingface": {
+      "model": "facebook/mms-tts-tpi"
+    }
+  },
+  
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "tpi-PG"
+  },
+  
+  "tag_labels": {
+    "book": "buk",
+    "chapter": "sapta",
+    "verse": "ves"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

@@ -1,0 +1,42 @@
+{
+  "content_type": "lines",
+  
+  "project_files": [
+    "unified_config_project_files/lines_project_7958_ind_tet.json"
+  ],
+  
+  "lines_reference": {
+    "source_file": "source_texts/8k_phrases_ind.txt",
+    "group_size": 0
+  },
+  
+  "audio_generation": {
+    "provider": "google",
+    "save_local": true,
+    "save_to_database": true,
+    "max_concurrent_requests": 7,
+    "requests_per_minute": 40,
+    "reuse_existing_audio": true,
+    
+    "google": {
+      "language_code": "id-ID",
+      "voice_name": "id-ID-Standard-C",
+      "ssml_gender": "MALE",
+      "speaking_rate": 0.9,
+      "pitch": -3.0,
+      "volume_gain_db": 0.0,
+      "audio_encoding": "MP3",
+      "final_format": "m4a"
+    }
+  },
+  
+  "tag_labels": {
+    "line": "kalimat",
+    "group": "kelompok"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

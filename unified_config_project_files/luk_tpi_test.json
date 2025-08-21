@@ -1,0 +1,42 @@
+{
+  "languages": [
+    {
+      "native_name": "Tok Pisin",
+      "english_name": "Tok Pisin",
+      "iso639_3": "tpi",
+      "locale": "tpi-PG",
+      "ui_ready": false
+    },
+    {
+      "native_name": "Manam",
+      "english_name": "Manam",
+      "iso639_3": "man",
+      "locale": "man-PG",
+      "ui_ready": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Buk bilong Luk",
+      "description": "Buk bilong Luk, tok Pisin to manam",
+      "source_language_english_name": "Tok Pisin",
+      "target_language_english_name": "Manam",
+      "private": false,
+      "quests": [
+        {
+          "name": "Luk sapta 1",
+          "description": "",
+          "additional_tags": [
+            "wok misin:1"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 1:1",
+              "Luk 1:40"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

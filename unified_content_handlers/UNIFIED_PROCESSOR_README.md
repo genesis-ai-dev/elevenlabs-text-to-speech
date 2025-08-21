@@ -6,7 +6,7 @@ A modular system for processing different types of content (Bible verses, line-b
 
 - **Multiple Content Types**: Supports Bible verses and line-based content
 - **Modular Architecture**: Clean separation of concerns with dedicated handlers
-- **Audio Generation**: Optional TTS using OpenAI or ElevenLabs
+- **Audio Generation**: Optional TTS using OpenAI, ElevenLabs, or Google Cloud TTS
 - **Concurrent Processing**: Efficient parallel audio generation
 - **Flexible Configuration**: JSON-based configuration for easy customization
 - **Session Recording**: Tracks all database operations for rollback capability
@@ -229,15 +229,115 @@ The system works with the following Supabase tables:
 
 ## Audio Generation
 
-Supports two providers:
-- **OpenAI**: Uses the TTS API with configurable voice and model
-- **ElevenLabs**: Uses the v3 API with multilingual support
+Supports four providers:
+- **OpenAI**: Uses the TTS API with configurable `voice` and `model`
+- **ElevenLabs**: Uses the v3 API with configurable `voice_id`
+- **Google Cloud TTS**: Uses Google Cloud Text-to-Speech with configurable `language_code`, `voice_name`, `ssml_gender`, `speaking_rate`, `pitch`, `volume_gain_db`, and `audio_encoding`
+- **Hugging Face (custom endpoint)**: Calls your Hugging Face Inference Endpoint (Custom task) which hosts a `handler.py` that returns base64 WAV for MMS TTS.
 
-Audio files are:
-- Generated concurrently for efficiency
-- Optionally saved locally in `generated_audio/`
-- Optionally uploaded to Supabase storage
-- Reused if matching audio already exists
+General options under `audio_generation`:
+- `provider`: `openai` | `elevenlabs` | `google`
+- `save_local`: Save generated m4a locally in `generated_audio/<project>/`
+- `save_to_database`: Upload to Supabase storage
+- `max_concurrent_requests`: Concurrency limiter across providers
+- `requests_per_minute`: Adaptive rate limiting
+- `reuse_existing_audio`: If true and `save_to_database` is true, reuse matching audio already in storage
+
+Provider-specific options:
+- `openai`:
+  - `voice` (e.g., `onyx`, `alloy`, ...)
+  - `model` (default `gpt-4o-mini-tts`)
+- `elevenlabs`:
+  - `voice_id` (required)
+- `google`:
+  - `language_code` (e.g., `en-US`, `id-ID`)
+  - `voice_name` (e.g., `en-US-Neural2-C`, optional)
+  - `ssml_gender` (`MALE` | `FEMALE` | `NEUTRAL`)
+  - `speaking_rate` (float, default 1.0)
+  - `pitch` (float semitones, default 0.0)
+  - `volume_gain_db` (float dB, default 0.0)
+  - `audio_encoding` (`MP3` | `OGG_OPUS` | `LINEAR16`)
+ - `huggingface`:
+  - Uses environment variables only (no extra JSON fields)
+  - Requires a Custom Inference Endpoint URL and Read token
+
+### Hugging Face setup
+
+1. Create a model repository with a `handler.py` that implements `EndpointHandler` and returns a JSON payload with `audio_base64` and `sampling_rate`. Also include a `requirements.txt` with dependencies. See: https://huggingface.co/docs/inference-endpoints/guides/custom_handler
+2. Deploy as an Inference Endpoint with Container Type: Default and Task: Custom. From the repo page, click “Deploy to Inference Endpoints” so the repository is pre-filled.
+3. Copy the Endpoint URL from the endpoint Overview.
+4. Set environment variables:
+
+```bash
+# Windows PowerShell (current session)
+$env:HF_TTS_ENDPOINT = "https://<your-endpoint>.endpoints.huggingface.cloud"
+$env:HF_TOKEN_READ = "hf_..."
+```
+
+or add to `.env` in project root:
+
+```env
+HF_TTS_ENDPOINT=https://<your-endpoint>.endpoints.huggingface.cloud
+HF_TOKEN_READ=hf_...
+```
+
+5. In your config JSON, set:
+
+```json
+"audio_generation": {
+  "provider": "huggingface",
+  "save_local": true,
+  "save_to_database": false
+}
+```
+
+This provider will POST `{ "inputs": "..." }` to `HF_TTS_ENDPOINT`, decode `audio_base64` WAV, and export `.m4a`.
+
+Authentication:
+- OpenAI: set `OPENAI_API_KEY`
+- ElevenLabs: set `ELEVENLABS_API_KEY`
+- Google: set `GOOGLE_APPLICATION_CREDENTIALS` to a service account JSON path or use ADC
+- Hugging Face: set `HF_TTS_ENDPOINT` and `HF_TOKEN_READ`
+
+### Google Cloud TTS Setup (Service Account JSON)
+
+1. Enable the API
+   - In the Google Cloud Console, select your project
+   - Go to “APIs & Services” → “Library”
+   - Search for “Text-to-Speech API” and click “Enable”
+
+2. Create a Service Account
+   - Go to “IAM & Admin” → “Service Accounts” → “Create service account”
+   - Provide a name (e.g., `tts-service`) and click “Create and continue”
+   - Grant a role with TTS permissions (e.g., “Cloud Text-to-Speech API User” or an appropriate role with least privilege)
+   - Click “Done”
+
+3. Create and download the key (JSON)
+   - Open the service account → “Keys” tab → “Add key” → “Create new key” → JSON → Download the file
+   - Store it somewhere secure (e.g., `C:\keys\gcp-tts.json` on Windows, `~/keys/gcp-tts.json` on macOS)
+
+4. Set the environment variable
+   - Windows (PowerShell):
+```powershell
+$env:GOOGLE_APPLICATION_CREDENTIALS = "C:\\keys\\gcp-tts.json"
+# Persist for future shells (requires new terminal):
+setx GOOGLE_APPLICATION_CREDENTIALS "C:\\keys\\gcp-tts.json"
+```
+   - macOS (zsh):
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS="$HOME/keys/gcp-tts.json"
+echo 'export GOOGLE_APPLICATION_CREDENTIALS="$HOME/keys/gcp-tts.json"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+5. Optional: Use Application Default Credentials (ADC) instead of a key file
+```bash
+gcloud auth application-default login
+```
+This will configure credentials for the current user on the machine; no JSON path is required.
+
+6. Quick test
+   - Run the sample at `general_helper_scripts/google_tts.py` after setting credentials. It should create `output_id.mp3`.
 
 ## Extending
 

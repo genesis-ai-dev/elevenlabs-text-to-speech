@@ -1,0 +1,36 @@
+{
+  "content_type": "lines",
+  
+  "project_files": [
+    "unified_config_project_files/lines_project_7958_eng_tpi.json"
+  ],
+  
+  "lines_reference": {
+    "source_file": "source_texts/8k_phrases_eng.txt",
+    "group_size": 0
+  },
+  
+  "audio_generation": {
+    "provider": "openai",
+    "save_local": true,
+    "save_to_database": true,
+    "max_concurrent_requests": 7,
+    "requests_per_minute": 40,
+    "reuse_existing_audio": true,
+    
+    "openai": {
+      "voice": "onyx",
+      "model": "gpt-4o-mini-tts"
+    }
+  },
+  
+  "tag_labels": {
+    "line": "sentence",
+    "group": "group"
+  },
+  
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  }
+} 

@@ -2,267 +2,333 @@
   "book_names": {
     "GEN": {
       "en": "Gen",
-      "pt-BR": "Gn"
+      "pt-BR": "Gn",
+      "tpi-PG": "Jenesis"
     },
     "EXO": {
       "en": "Exo",
-      "pt-BR": "Êx"
+      "pt-BR": "Êx",
+      "tpi-PG": "Kisim Bek"
     },
     "LEV": {
       "en": "Lev",
-      "pt-BR": "Lv"
+      "pt-BR": "Lv",
+      "tpi-PG": "Wok Pris"
     },
     "NUM": {
       "en": "Num",
-      "pt-BR": "Nm"
+      "pt-BR": "Nm",
+      "tpi-PG": "Namba"
     },
     "DEU": {
       "en": "Deu",
-      "pt-BR": "Dt"
+      "pt-BR": "Dt",
+      "tpi-PG": "Lo"
     },
     "JOS": {
       "en": "Jos",
-      "pt-BR": "Js"
+      "pt-BR": "Js",
+      "tpi-PG": "Josua"
     },
     "JDG": {
       "en": "Jdg",
-      "pt-BR": "Jz"
+      "pt-BR": "Jz",
+      "tpi-PG": "Hetman"
     },
     "RUT": {
       "en": "Rut",
-      "pt-BR": "Rt"
+      "pt-BR": "Rt",
+      "tpi-PG": "Rut"
     },
     "1SA": {
       "en": "1Sa",
-      "pt-BR": "1Sm"
+      "pt-BR": "1Sm",
+      "tpi-PG": "1 Samuel"
     },
     "2SA": {
       "en": "2Sa",
-      "pt-BR": "2Sm"
+      "pt-BR": "2Sm",
+      "tpi-PG": "2 Samuel"
     },
     "1KI": {
       "en": "1Ki",
-      "pt-BR": "1Rs"
+      "pt-BR": "1Rs",
+      "tpi-PG": "1 King"
     },
     "2KI": {
       "en": "2Ki",
-      "pt-BR": "2Rs"
+      "pt-BR": "2Rs",
+      "tpi-PG": "2 King"
     },
     "1CH": {
       "en": "1Ch",
-      "pt-BR": "1Cr"
+      "pt-BR": "1Cr",
+      "tpi-PG": "1 Stori"
     },
     "2CH": {
       "en": "2Ch",
-      "pt-BR": "2Cr"
+      "pt-BR": "2Cr",
+      "tpi-PG": "2 Stori"
     },
     "EZR": {
       "en": "Ezr",
-      "pt-BR": "Ed"
+      "pt-BR": "Ed",
+      "tpi-PG": "Esra"
     },
     "NEH": {
       "en": "Neh",
-      "pt-BR": "Ne"
+      "pt-BR": "Ne",
+      "tpi-PG": "Nehemia"
     },
     "EST": {
       "en": "Est",
-      "pt-BR": "Et"
+      "pt-BR": "Et",
+      "tpi-PG": "Esta"
     },
     "JOB": {
       "en": "Job",
-      "pt-BR": "Jó"
+      "pt-BR": "Jó",
+      "tpi-PG": "Jop"
     },
     "PSA": {
       "en": "Psa",
-      "pt-BR": "Sl"
+      "pt-BR": "Sl",
+      "tpi-PG": "Buk Song o Sam"
     },
     "PRO": {
       "en": "Pro",
-      "pt-BR": "Pv"
+      "pt-BR": "Pv",
+      "tpi-PG": "Gutpela Sindaun"
     },
     "ECC": {
       "en": "Ecc",
-      "pt-BR": "Ec"
+      "pt-BR": "Ec",
+      "tpi-PG": "Saveman"
     },
     "SNG": {
       "en": "Sng",
-      "pt-BR": "Ct"
+      "pt-BR": "Ct",
+      "tpi-PG": "Solomon"
     },
     "ISA": {
       "en": "Isa",
-      "pt-BR": "Is"
+      "pt-BR": "Is",
+      "tpi-PG": "Aisaia"
     },
     "JER": {
       "en": "Jer",
-      "pt-BR": "Jr"
+      "pt-BR": "Jr",
+      "tpi-PG": "Jeremaia"
     },
     "LAM": {
       "en": "Lam",
-      "pt-BR": "Lm"
+      "pt-BR": "Lm",
+      "tpi-PG": "Krai Jeremaia"
     },
     "EZK": {
       "en": "Ezk",
-      "pt-BR": "Ez"
+      "pt-BR": "Ez",
+      "tpi-PG": "Esekiel"
     },
     "DAN": {
       "en": "Dan",
-      "pt-BR": "Dn"
+      "pt-BR": "Dn",
+      "tpi-PG": "Daniel"
     },
     "HOS": {
       "en": "Hos",
-      "pt-BR": "Os"
+      "pt-BR": "Os",
+      "tpi-PG": "Hosea"
     },
     "JOL": {
       "en": "Jol",
-      "pt-BR": "Jl"
+      "pt-BR": "Jl",
+      "tpi-PG": "Joel"
     },
     "AMO": {
       "en": "Amo",
-      "pt-BR": "Am"
+      "pt-BR": "Am",
+      "tpi-PG": "Amos"
     },
     "OBA": {
       "en": "Oba",
-      "pt-BR": "Ob"
+      "pt-BR": "Ob",
+      "tpi-PG": "Obadia"
     },
     "JON": {
       "en": "Jon",
-      "pt-BR": "Jn"
+      "pt-BR": "Jn",
+      "tpi-PG": "Jona"
     },
     "MIC": {
       "en": "Mic",
-      "pt-BR": "Mq"
+      "pt-BR": "Mq",
+      "tpi-PG": "Maika"
     },
     "NAM": {
       "en": "Nah",
-      "pt-BR": "Na"
+      "pt-BR": "Na",
+      "tpi-PG": "Nahum"
     },
     "HAB": {
       "en": "Hab",
-      "pt-BR": "Hc"
+      "pt-BR": "Hc",
+      "tpi-PG": "Habakuk"
     },
     "ZEP": {
       "en": "Zep",
-      "pt-BR": "Sf"
+      "pt-BR": "Sf",
+      "tpi-PG": "Sefanaia"
     },
     "HAG": {
       "en": "Hag",
-      "pt-BR": "Ag"
+      "pt-BR": "Ag",
+      "tpi-PG": "Hagai"
     },
     "ZEC": {
       "en": "Zec",
-      "pt-BR": "Zc"
+      "pt-BR": "Zc",
+      "tpi-PG": "Sekaraia"
     },
     "MAL": {
       "en": "Mal",
-      "pt-BR": "Ml"
+      "pt-BR": "Ml",
+      "tpi-PG": "Malakai"
     },
     "MAT": {
       "en": "Mat",
-      "pt-BR": "Mt"
+      "pt-BR": "Mt",
+      "tpi-PG": "Matyu"
     },
     "MRK": {
       "en": "Mrk",
-      "pt-BR": "Mc"
+      "pt-BR": "Mc",
+      "tpi-PG": "Mak"
     },
     "LUK": {
       "en": "Luk",
-      "pt-BR": "Lc"
+      "pt-BR": "Lc",
+      "tpi-PG": "Luk"
     },
     "JHN": {
       "en": "Jhn",
-      "pt-BR": "Jo"
+      "pt-BR": "Jo",
+      "tpi-PG": "Jon"
     },
     "ACT": {
       "en": "Act",
-      "pt-BR": "At"
+      "pt-BR": "At",
+      "tpi-PG": "Aposel"
     },
     "ROM": {
       "en": "Rom",
-      "pt-BR": "Rm"
+      "pt-BR": "Rm",
+      "tpi-PG": "Rom"
     },
     "1CO": {
       "en": "1Co",
-      "pt-BR": "1Co"
+      "pt-BR": "1Co",
+      "tpi-PG": "1 Korin"
     },
     "2CO": {
       "en": "2Co",
-      "pt-BR": "2Co"
+      "pt-BR": "2Co",
+      "tpi-PG": "2 Korin"
     },
     "GAL": {
       "en": "Gal",
-      "pt-BR": "Gl"
+      "pt-BR": "Gl",
+      "tpi-PG": "Galesia"
     },
     "EPH": {
       "en": "Eph",
-      "pt-BR": "Ef"
+      "pt-BR": "Ef",
+      "tpi-PG": "Efesus"
     },
     "PHP": {
       "en": "Php",
-      "pt-BR": "Fp"
+      "pt-BR": "Fp",
+      "tpi-PG": "Filipai"
     },
     "COL": {
       "en": "Col",
-      "pt-BR": "Cl"
+      "pt-BR": "Cl",
+      "tpi-PG": "Kolosi"
     },
     "1TH": {
       "en": "1Th",
-      "pt-BR": "1Ts"
+      "pt-BR": "1Ts",
+      "tpi-PG": "1 Tesalonaika"
     },
     "2TH": {
       "en": "2Th",
-      "pt-BR": "2Ts"
+      "pt-BR": "2Ts",
+      "tpi-PG": "2 Tesalonaika"
     },
     "1TI": {
       "en": "1Ti",
-      "pt-BR": "1Tm"
+      "pt-BR": "1Tm",
+      "tpi-PG": "1 Timoti"
     },
     "2TI": {
       "en": "2Ti",
-      "pt-BR": "2Tm"
+      "pt-BR": "2Tm",
+      "tpi-PG": "2 Timoti"
     },
     "TIT": {
       "en": "Tit",
-      "pt-BR": "Tt"
+      "pt-BR": "Tt",
+      "tpi-PG": "Taitus"
     },
     "PHM": {
       "en": "Phm",
-      "pt-BR": "Fm"
+      "pt-BR": "Fm",
+      "tpi-PG": "Filemon"
     },
     "HEB": {
       "en": "Heb",
-      "pt-BR": "Hb"
+      "pt-BR": "Hb",
+      "tpi-PG": "Hibru"
     },
     "JAS": {
       "en": "Jas",
-      "pt-BR": "Tg"
+      "pt-BR": "Tg",
+      "tpi-PG": "Jems"
     },
     "1PE": {
       "en": "1Pe",
-      "pt-BR": "1Pe"
+      "pt-BR": "1Pe",
+      "tpi-PG": "1 Pita"
     },
     "2PE": {
       "en": "2Pe",
-      "pt-BR": "2Pe"
+      "pt-BR": "2Pe",
+      "tpi-PG": "2 Pita"
     },
     "1JN": {
       "en": "1Jn",
-      "pt-BR": "1Jo"
+      "pt-BR": "1Jo",
+      "tpi-PG": "1 Jon"
     },
     "2JN": {
       "en": "2Jn",
-      "pt-BR": "2Jo"
+      "pt-BR": "2Jo",
+      "tpi-PG": "2 Jon"
     },
     "3JN": {
       "en": "3Jn",
-      "pt-BR": "3Jo"
+      "pt-BR": "3Jo",
+      "tpi-PG": "3 Jon"
     },
     "JUD": {
       "en": "Jud",
-      "pt-BR": "Jd"
+      "pt-BR": "Jd",
+      "tpi-PG": "Jut"
     },
     "REV": {
       "en": "Rev",
-      "pt-BR": "Ap"
+      "pt-BR": "Ap",
+      "tpi-PG": "Kamapim Tok Hait Jon o Revelesen"
     }
   }
 } 

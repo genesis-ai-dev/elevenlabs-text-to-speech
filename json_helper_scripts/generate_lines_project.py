@@ -6,7 +6,7 @@ Generate a lines project file that splits lines into groups of 100
 import json
 import math
 
-def generate_lines_project(total_lines=7958, group_size=100, output_file="json_projects/lines_project_7958.json"):
+def generate_lines_project(total_lines=7958, group_size=100, output_file="unified_config_project_files/lines_project_7958_eng_tpi.json"):
     """Generate a project file with quests for every group_size lines"""
     
     # Calculate number of groups
@@ -16,19 +16,19 @@ def generate_lines_project(total_lines=7958, group_size=100, output_file="json_p
     project_data = {
         "languages": [
             {
-                "native_name": "Português Brasileiro",
-                "english_name": "Brazilian Portuguese",
-                "iso639_3": "por",
-                "locale": "pt-BR",
-                "ui_ready": True
+                "native_name": "Tok Pisin",
+                "english_name": "Tok Pisin",
+                "iso639_3": "tpi",
+                "locale": "tpi-PG",
+                "ui_ready": False
             }
         ],
         "projects": [
             {
-                "name": "Frases Português Brasileiro",
-                "description": f"Coleção de {total_lines:,} frases em português brasileiro",
-                "source_language_english_name": "Brazilian Portuguese",
-                "target_language_english_name": "Yanomami",
+                "name": "English Sentences to Tok Pisin",
+                "description": f"Collection of {total_lines:,} English sentences to Tok Pisin",
+                "source_language_english_name": "English",
+                "target_language_english_name": "Tok Pisin",
                 "private": False,
                 "quests": []
             }
@@ -42,11 +42,11 @@ def generate_lines_project(total_lines=7958, group_size=100, output_file="json_p
         
         
         quest = {
-            "name": f"Frases {start_line}-{end_line}",
-            "description": f"Frases {start_line} a {end_line}",
+            "name": f"Sentences {start_line}-{end_line}",
+            "description": f"Sentences {start_line} to {end_line}",
             "additional_tags": [
-                f"módulo:{i + 1}",
-                f"grupo:{(i // 10) + 1}"  # Super-groups of 10 modules
+                f"module:{i + 1}",
+                f"group:{(i // 10) + 1}"  # Super-groups of 10 modules
             ],
             "line_ranges": [
                 [start_line, end_line]

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 Audio Handler Module
-Supports both ElevenLabs and OpenAI text-to-speech generation with concurrency
+Supports ElevenLabs, OpenAI, and Google Cloud TTS generation with concurrency
 """
 
 import os
+import base64
 import io
 import asyncio
 import time
@@ -12,6 +13,7 @@ from typing import Optional, Union, List, Tuple, Dict
 from pydub import AudioSegment
 from elevenlabs import ElevenLabs
 from openai import AsyncOpenAI, OpenAI
+from google.cloud import texttospeech as gtts
 import aiohttp
 import backoff
 from asyncio import Semaphore
@@ -31,10 +33,12 @@ class AudioHandler:
         # Store provider-specific config
         self.elevenlabs_config = self.config.get('elevenlabs', {})
         self.openai_config = self.config.get('openai', {})
+        self.google_config = self.config.get('google', {})
         
         # Concurrency settings
         self.max_concurrent = self.config.get('max_concurrent_requests', 5)
-        self.semaphore = Semaphore(self.max_concurrent)
+        # Do not bind a semaphore to a loop at init; create per running loop
+        self._loop_semaphores: Dict[int, Semaphore] = {}
         
         # Rate limiting settings
         self.requests_per_minute = self.config.get('requests_per_minute', 60)
@@ -54,11 +58,36 @@ class AudioHandler:
                 raise RuntimeError("OPENAI_API_KEY not found in environment")
             self.openai_client = OpenAI(api_key=api_key)
             self.async_openai_client = AsyncOpenAI(api_key=api_key)
+        elif self.provider == 'google':
+            # Google Cloud TTS uses application default credentials or explicit service account file
+            credentials_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+            if credentials_path:
+                self.google_client = gtts.TextToSpeechClient.from_service_account_file(credentials_path)
+            else:
+                self.google_client = gtts.TextToSpeechClient()
+        elif self.provider == 'huggingface':
+            # Uses custom Inference Endpoint exposed via HF_TTS_ENDPOINT
+            self.hf_endpoint = os.getenv("HF_TTS_ENDPOINT")
+            self.hf_token = os.getenv("HF_TOKEN_READ")
+            if not self.hf_endpoint:
+                raise RuntimeError("HF_TTS_ENDPOINT not found in environment for Hugging Face provider")
+            if not self.hf_token:
+                raise RuntimeError("HF_TOKEN_READ not found in environment for Hugging Face provider")
         else:
             raise ValueError(f"Unsupported audio provider: {self.provider}")
+        
+        # Shared HTTP session for providers that use aiohttp (improves concurrency performance)
+        self._aiohttp_session: Optional[aiohttp.ClientSession] = None
+
+    async def _get_http_session(self) -> aiohttp.ClientSession:
+        """Get or create a shared aiohttp session"""
+        if self._aiohttp_session is None or self._aiohttp_session.closed:
+            connector = aiohttp.TCPConnector(limit=self.max_concurrent)
+            self._aiohttp_session = aiohttp.ClientSession(connector=connector)
+        return self._aiohttp_session
     
     async def _check_rate_limit(self):
-        """Check and enforce rate limiting"""
+        """Check and enforce rate limiting (adaptive)"""
         now = time.time()
         # Remove requests older than 1 minute
         self.request_times = [t for t in self.request_times if now - t < 60]
@@ -77,20 +106,35 @@ class AudioHandler:
         """Generate audio using the configured provider (sync wrapper)"""
         return asyncio.run(self.generate_audio_async(text, output_path))
     
+    def _get_semaphore_for_current_loop(self) -> Semaphore:
+        """Return a semaphore bound to the current event loop, creating if needed"""
+        loop = asyncio.get_running_loop()
+        key = id(loop)
+        sem = self._loop_semaphores.get(key)
+        if sem is None:
+            sem = Semaphore(self.max_concurrent)
+            self._loop_semaphores[key] = sem
+        return sem
+
     async def generate_audio_async(self, text: str, output_path: str) -> bool:
         """Generate audio using the configured provider (async)"""
-        async with self.semaphore:
+        sem = self._get_semaphore_for_current_loop()
+        async with sem:
             await self._check_rate_limit()
             
             if self.provider == 'elevenlabs':
                 return await self._generate_elevenlabs_async(text, output_path)
             elif self.provider == 'openai':
                 return await self._generate_openai_async(text, output_path)
+            elif self.provider == 'google':
+                return await self._generate_google_async(text, output_path)
+            elif self.provider == 'huggingface':
+                return await self._generate_huggingface_async(text, output_path)
             else:
                 raise ValueError(f"Unsupported audio provider: {self.provider}")
     
     async def generate_multiple_audio(self, items: List[Tuple[str, str]]) -> List[Tuple[str, bool]]:
-        """Generate multiple audio files concurrently
+        """Generate multiple audio files concurrently with proper task scheduling
         
         Args:
             items: List of tuples (text, output_path)
@@ -98,20 +142,23 @@ class AudioHandler:
         Returns:
             List of tuples (output_path, success)
         """
-        tasks = []
-        for text, output_path in items:
-            task = self.generate_audio_async(text, output_path)
-            tasks.append((output_path, task))
-        
-        results = []
-        for output_path, task in tasks:
+        async def run_one(text: str, output_path: str) -> Tuple[str, bool]:
             try:
-                success = await task
-                results.append((output_path, success))
+                success = await self.generate_audio_async(text, output_path)
+                return output_path, success
             except Exception as e:
                 logger.error(f"Error generating audio for {output_path}: {e}")
-                results.append((output_path, False))
-        
+                return output_path, False
+
+        tasks: List[asyncio.Task] = [
+            asyncio.create_task(run_one(text, output_path)) for text, output_path in items
+        ]
+
+        results: List[Tuple[str, bool]] = []
+        for fut in asyncio.as_completed(tasks):
+            output_path, success = await fut
+            results.append((output_path, success))
+
         return results
     
     def _generate_elevenlabs(self, text: str, output_path: str) -> bool:
@@ -147,8 +194,8 @@ class AudioHandler:
                 }
             }
             
-            async with aiohttp.ClientSession() as session:
-                async with session.post(url, json=data, headers=headers) as response:
+            session = await self._get_http_session()
+            async with session.post(url, json=data, headers=headers) as response:
                     if response.status == 429:
                         # Rate limit hit, wait and retry
                         retry_after = response.headers.get('retry-after', '60')
@@ -230,6 +277,155 @@ class AudioHandler:
             
         except Exception as e:
             logger.error(f"Error generating audio with OpenAI: {str(e)}")
+            return False
+
+    @backoff.on_exception(
+        backoff.expo,
+        Exception,
+        max_tries=3,
+        max_time=60
+    )
+    async def _generate_google_async(self, text: str, output_path: str) -> bool:
+        """Generate audio using Google Cloud Text-to-Speech (async wrapper using thread)"""
+        try:
+            # Prepare request parts from config with sensible defaults
+            language_code = self.google_config.get('language_code', 'en-US')
+            voice_name = self.google_config.get('voice_name')  # e.g., "en-US-Neural2-C"
+            ssml_gender_str = self.google_config.get('ssml_gender', 'NEUTRAL').upper()
+            speaking_rate = float(self.google_config.get('speaking_rate', 1.0))
+            pitch = float(self.google_config.get('pitch', 0.0))
+            volume_gain_db = float(self.google_config.get('volume_gain_db', 0.0))
+            audio_encoding_str = self.google_config.get('audio_encoding', 'MP3').upper()
+            final_format = (self.google_config.get('final_format') or 'm4a').lower()
+
+            # Map gender and encoding
+            gender_map = {
+                'MALE': gtts.SsmlVoiceGender.MALE,
+                'FEMALE': gtts.SsmlVoiceGender.FEMALE,
+                'NEUTRAL': gtts.SsmlVoiceGender.NEUTRAL,
+                'SSML_VOICE_GENDER_UNSPECIFIED': gtts.SsmlVoiceGender.SSML_VOICE_GENDER_UNSPECIFIED,
+            }
+            ssml_gender = gender_map.get(ssml_gender_str, gtts.SsmlVoiceGender.NEUTRAL)
+
+            encoding_map = {
+                'MP3': gtts.AudioEncoding.MP3,
+                'OGG_OPUS': gtts.AudioEncoding.OGG_OPUS,
+                'LINEAR16': gtts.AudioEncoding.LINEAR16,
+                'MULAW': gtts.AudioEncoding.MULAW,
+                'ALAW': gtts.AudioEncoding.ALAW,
+            }
+            # Allow users to specify M4A as a convenience: treat as final container, synthesize MP3
+            if audio_encoding_str in ('M4A', 'MP4', 'AAC') and not self.google_config.get('final_format'):
+                final_format = 'm4a'
+                audio_encoding_str = 'MP3'
+            audio_encoding = encoding_map.get(audio_encoding_str, gtts.AudioEncoding.MP3)
+
+            synthesis_input = gtts.SynthesisInput(text=text)
+
+            voice_params = gtts.VoiceSelectionParams(
+                language_code=language_code,
+                name=voice_name if voice_name else None,
+                ssml_gender=ssml_gender
+            )
+
+            audio_config = gtts.AudioConfig(
+                audio_encoding=audio_encoding,
+                speaking_rate=speaking_rate,
+                pitch=pitch,
+                volume_gain_db=volume_gain_db
+            )
+
+            def _synthesize_sync() -> bytes:
+                response = self.google_client.synthesize_speech(
+                    input=synthesis_input,
+                    voice=voice_params,
+                    audio_config=audio_config
+                )
+                return response.audio_content
+
+            audio_bytes: bytes = await asyncio.to_thread(_synthesize_sync)
+
+            # Decode according to encoding, then export in requested final format
+            if audio_encoding == gtts.AudioEncoding.MP3:
+                audio_segment = AudioSegment.from_mp3(io.BytesIO(audio_bytes))
+            elif audio_encoding == gtts.AudioEncoding.OGG_OPUS:
+                audio_segment = AudioSegment.from_file(io.BytesIO(audio_bytes), format="ogg")
+            elif audio_encoding == gtts.AudioEncoding.LINEAR16:
+                audio_segment = AudioSegment.from_wav(io.BytesIO(audio_bytes))
+            else:
+                # Fallback: try generic decode
+                audio_segment = AudioSegment.from_file(io.BytesIO(audio_bytes))
+
+            # Select final export format and extension
+            if final_format == 'm4a':
+                if not output_path.endswith('.m4a'):
+                    output_path = os.path.splitext(output_path)[0] + '.m4a'
+                audio_segment.export(output_path, format="mp4", codec="aac")
+            elif final_format == 'mp3':
+                if not output_path.endswith('.mp3'):
+                    output_path = os.path.splitext(output_path)[0] + '.mp3'
+                audio_segment.export(output_path, format="mp3")
+            elif final_format == 'wav':
+                if not output_path.endswith('.wav'):
+                    output_path = os.path.splitext(output_path)[0] + '.wav'
+                audio_segment.export(output_path, format="wav")
+            else:
+                # Default to m4a
+                if not output_path.endswith('.m4a'):
+                    output_path = os.path.splitext(output_path)[0] + '.m4a'
+                audio_segment.export(output_path, format="mp4", codec="aac")
+            logger.info(f"Audio saved successfully to {output_path}")
+            return True
+        except Exception as e:
+            logger.error(f"Error generating audio with Google TTS: {str(e)}")
+            return False
+
+    @backoff.on_exception(
+        backoff.expo,
+        (aiohttp.ClientError, Exception),
+        max_tries=3,
+        max_time=60
+    )
+    async def _generate_huggingface_async(self, text: str, output_path: str) -> bool:
+        """Generate audio using a custom Hugging Face Inference Endpoint.
+
+        The endpoint is expected to accept JSON {"inputs": str} and return
+        {"audio_base64": str, "sampling_rate": int}.
+        """
+        try:
+            session = await self._get_http_session()
+            headers = {
+                "Authorization": f"Bearer {self.hf_token}",
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+            }
+            payload = {"inputs": text}
+            async with session.post(self.hf_endpoint, json=payload, headers=headers) as response:
+                if response.status == 429:
+                    retry_after = response.headers.get('retry-after', '60')
+                    wait_time = int(retry_after)
+                    logger.warning(f"Hugging Face rate limit hit, waiting {wait_time} seconds")
+                    await asyncio.sleep(wait_time)
+                    raise aiohttp.ClientError("Rate limit hit, retrying...")
+                response.raise_for_status()
+                data = await response.json()
+
+            audio_b64 = data.get("audio_base64") if isinstance(data, dict) else None
+            if not audio_b64:
+                raise ValueError("Hugging Face endpoint returned no 'audio_base64'")
+
+            wav_bytes = base64.b64decode(audio_b64)
+            audio_segment = AudioSegment.from_file(io.BytesIO(wav_bytes), format="wav")
+
+            # Ensure output path has .m4a extension
+            if not output_path.endswith('.m4a'):
+                output_path = os.path.splitext(output_path)[0] + '.m4a'
+
+            audio_segment.export(output_path, format="mp4", codec="aac")
+            logger.info(f"Audio saved successfully to {output_path}")
+            return True
+        except Exception as e:
+            logger.error(f"Error generating audio with Hugging Face endpoint: {str(e)}")
             return False
     
     def get_provider_name(self) -> str:

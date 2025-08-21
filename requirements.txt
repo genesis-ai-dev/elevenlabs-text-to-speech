@@ -12,3 +12,7 @@ asyncio
 
 # Additional utilities
 tenacity  # Alternative retry library (optional) 
+matplotlib
+google-cloud-texttospeech
+requests
+huggingface_hub

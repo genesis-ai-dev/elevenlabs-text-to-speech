@@ -37,8 +37,14 @@ class LinesContentHandler(ContentHandler):
         """Get lines for a quest based on line ranges"""
         items = []
         
+        # Determine ranges: if none provided, process entire file line-by-line
+        ranges = quest_config.get('line_ranges')
+        if not ranges:
+            # Whole file, 1-indexed
+            ranges = [(1, len(self.lines))]
+        
         # Process line ranges
-        for start_line, end_line in quest_config.get('line_ranges', []):
+        for start_line, end_line in ranges:
             # Convert to 0-based indexing
             start_idx = start_line - 1
             end_idx = end_line  # end_line is inclusive, so no -1

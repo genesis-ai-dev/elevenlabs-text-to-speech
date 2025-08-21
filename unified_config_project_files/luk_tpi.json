@@ -1,0 +1,341 @@
+{
+  "languages": [
+    {
+      "native_name": "Tok Pisin",
+      "english_name": "Tok Pisin",
+      "iso639_3": "tpi",
+      "locale": "tpi-PG",
+      "ui_ready": false
+    },
+    {
+      "native_name": "Manam",
+      "english_name": "Manam",
+      "iso639_3": "man",
+      "locale": "man-PG",
+      "ui_ready": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Buk bilong Luk",
+      "description": "Buk bilong Luk, tok Pisin to manam",
+      "source_language_english_name": "Tok Pisin",
+      "target_language_english_name": "Manam",
+      "private": false,
+      "quests": [
+        {
+          "name": "Luk sapta 1",
+          "description": "",
+          "additional_tags": [
+            "wok misin:1"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 1:1",
+              "Luk 1:80"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 2",
+          "description": "",
+          "additional_tags": [
+            "wok misin:2"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 2:1",
+              "Luk 2:52"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 3",
+          "description": "",
+          "additional_tags": [
+            "wok misin:3"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 3:1",
+              "Luk 3:38"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 4",
+          "description": "",
+          "additional_tags": [
+            "wok misin:4"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 4:1",
+              "Luk 4:44"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 5",
+          "description": "",
+          "additional_tags": [
+            "wok misin:5"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 5:1",
+              "Luk 5:39"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 6",
+          "description": "",
+          "additional_tags": [
+            "wok misin:6"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 6:1",
+              "Luk 6:49"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 7",
+          "description": "",
+          "additional_tags": [
+            "wok misin:7"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 7:1",
+              "Luk 7:50"
+            ]
+          ]
+        },
+        {
+            "name": "Luk sapta 8",
+          "description": "",
+          "additional_tags": [
+            "wok misin:8"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 8:1",
+              "Luk 8:56"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 9",
+          "description": "",
+          "additional_tags": [
+            "wok misin:9"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 9:1",
+              "Luk 9:62"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 10",
+          "description": "",
+          "additional_tags": [
+            "wok misin:10"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 10:1",
+              "Luk 10:42"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 11",
+          "description": "",
+          "additional_tags": [
+            "wok misin:11"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 11:1",
+              "Luk 11:54"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 12",
+          "description": "",
+          "additional_tags": [
+            "wok misin:12"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 12:1",
+              "Luk 12:59"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 13",
+          "description": "",
+          "additional_tags": [
+            "wok misin:13"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 13:1",
+              "Luk 13:35"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 14",
+          "description": "",
+          "additional_tags": [
+            "wok misin:14"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 14:1",
+              "Luk 14:35"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 15",
+          "description": "",
+          "additional_tags": [
+            "wok misin:15"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 15:1",
+              "Luk 15:32"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 16",
+          "description": "",
+          "additional_tags": [
+            "wok misin:16"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 16:1",
+              "Luk 16:31"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 17",
+          "description": "",
+          "additional_tags": [
+            "wok misin:17"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 17:1",
+              "Luk 17:37"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 18",
+          "description": "",
+          "additional_tags": [
+            "wok misin:18"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 18:1",
+              "Luk 18:43"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 19",
+          "description": "",
+          "additional_tags": [
+            "wok misin:19"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 19:1",
+              "Luk 19:48"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 20",
+          "description": "",
+          "additional_tags": [
+            "wok misin:20"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 20:1",
+              "Luk 20:47"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 21",
+          "description": "",
+          "additional_tags": [
+            "wok misin:21"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 21:1",
+              "Luk 21:38"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 22",
+          "description": "",
+          "additional_tags": [
+            "wok misin:22"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 22:1",
+              "Luk 22:71"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 23",
+          "description": "",
+          "additional_tags": [
+            "wok misin:23"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 23:1",
+              "Luk 23:56"
+            ]
+          ]
+        },
+        {
+          "name": "Luk sapta 24",
+          "description": "",
+          "additional_tags": [
+            "wok misin:24"
+          ],
+          "verse_ranges": [
+            [
+              "Luk 24:1",
+              "Luk 24:53"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

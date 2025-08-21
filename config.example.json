@@ -1,4 +1,53 @@
 {
+  "content_type": "bible",
+  "project_files": [
+    "json_projects/rom_pt-BR.json"
+  ],
+  "scripture_reference": {
+    "bible_filename": "source_texts/brazilian_portuguese_translation_6.txt",
+    "source_type": "local_ebible",
+    "versification": "eng"
+  },
+  "storage": {
+    "bucket_name": "assets",
+    "content_folder": "content"
+  },
+  "audio_generation": {
+    "provider": "openai",
+    "save_local": false,
+    "save_to_database": true,
+    "max_concurrent_requests": 10,
+    "requests_per_minute": 40,
+    "reuse_existing_audio": true,
+    "openai": {
+      "voice": "onyx",
+      "model": "gpt-4o-mini-tts"
+    },
+    "elevenlabs": {
+      "voice_id": "<YOUR_ELEVENLABS_VOICE_ID>"
+    },
+    "google": {
+      "language_code": "id-ID",
+      "voice_name": "id-ID-Standard-C",
+      "ssml_gender": "NEUTRAL",
+      "speaking_rate": 0.9,
+      "pitch": -3.0,
+      "volume_gain_db": 0.0,
+      "audio_encoding": "MP3"
+    }
+  },
+  "book_abbreviations": {
+    "use_localized": true,
+    "language": "pt-BR"
+  },
+  "tag_labels": {
+    "book": "livro",
+    "chapter": "capítulo",
+    "verse": "versículo"
+  }
+}
+
+{
   // Option 1: Single project file (backward compatible)
   "project_file": "json_projects/gen_pt-BR.json",
   

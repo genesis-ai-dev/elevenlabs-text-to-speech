@@ -1,0 +1,942 @@
+1CH 1:1 Adam, Set, Enos,
+1CH 1:2 Kenan, Mahalalel, Jared
+1CH 1:3 Enok, Metusalem, Lamtek.
+1CH 1:4 Ol pikinini bilong Noa: Sem, Ham, na Jafet.
+1CH 1:5 Ol pikinini bilong Jafet: Gomer, Magog, Madai, Javan, Tubal, Mesek, na Tiras.
+1CH 1:6 Ol pikinini bilong Gomer: Ashkenaz, Riphath, na Togarmah.
+1CH 1:7 Na ol pikinini bilong Javan: Elishah, Tarshish, ol Kittites, na ol Rodanites.
+1CH 1:8 Ol pikinini bilong Ham: Kus, Mizraim, Put, na Kanaan.
+1CH 1:9 Ol pikinini bilong Kush: Seba, Havilah, Sabta, Raamah, na Sabteca. Ol pikinini bilong Raamah: Sheba na Dedan.
+1CH 1:10 Kus em papa bilong Nimrod, husat i stat long kamap man strongpela long graun.
+1CH 1:11 Mizraim em papa bilong Ludait, Anamait, Lehabait, Naphtuhit, na ol desenden bilong en i kamap ol narapela tribe.
+1CH 1:12 Ol Pathrusites, ol Kasluites (husat i kam bek long ol Filistia), na ol Kafitorites.
+1CH 1:13 Na Kanaan em papa bilong Sidon, pikinini bilong en i kam first, na bilong Hiti.
+1CH 1:14 Ol Jebusi, ol Amori, ol Girgasiti,
+1CH 1:15 Ol Hiviti, Ol Arkaiti, Ol Siniti,
+1CH 1:16 Ol Arvadi, ol Zemari, na ol Hamati.
+1CH 1:17 Ol pikinini bilong Shem: Elam, Asshur, Arphaxad, Lud, na Aram. Ol pikinini bilong Aram: Uz, Hul, Gether, na Meshech.
+1CH 1:18 Arpaksad em papa bilong Selah, na Selah em papa bilong Heber.
+1CH 1:19 Tu ol pikinini i kamap long Eber: Wan i kolim Peleg, bikos long taim bilong em, erth i go daun long hap, na brata bilong em i kolim Joktan.
+1CH 1:20 Na Joktan em papa bilong Almodad, Sheleph, Hazarmaveth, Jerah,
+1CH 1:21 Hadoram, Uzal, Diklah, ol i stap long lis bilong nem bilong manmeri na ples.
+1CH 1:22 Obal, Abimael, Siba, nem bilong ol ples na man i stap long Nem bilong Bibel.
+1CH 1:23 Ofira, Havila, na Jobab. Olgeta dispela i bin pikinini bilong Joktan.
+1CH 1:24 Na long ol i kam bek gen from Sem, Arpaksad, Selah
+1CH 1:25 Iba, Pelek, Ru, ol i stap long lis bilong nem bilong Baibel.
+1CH 1:26 Serug, Nahor, Terah, ol i stap long lis bilong nem bilong Biblikal nem na lain.
+1CH 1:27 Na Abram, em i mak olsem, Abraham.
+1CH 1:28 Ol pikinini bilong Abraham em i Isaac na Ishmael.
+1CH 1:29 Dispela em i storia bilong ol: Nebaioth em i pikanini namba wan bilong Ishmael, na bihain Kedar, Adbeel, Mibsam.
+1CH 1:30 Mishma, Dumah, Massa, Hadad, Tema, ol nem bilong ples na manmeri bilong Baibol, em i go olsem: Mishma, Dumah, Massa, Hadad, Tema.
+1CH 1:31 Jetur, Naphish, na Kedemah. Ol i stap pikinini bilong Ishmael.
+1CH 1:32 Ol pikinini i kam long Keturah, meri bilong servis bilong Abraham: Zimran, Jokshan, Medan, Midian, Ishbak, na Shuah. Ol pikinini bilong Jokshan: Sheba na Dedan.
+1CH 1:33 Ol pikinini bilong Midian: Epha, Efer, Hanok, Abida, na Eldaah. Ol dispela i go we: ol i bikpela pikinini bilong Keturah.
+1CH 1:34 Abram em papa bilong Isak. Pikinini bilong Isak: Esau na Israel.
+1CH 1:35 Ol pikinini bilong Esau: Eliphaz, Reuel, Jeush, Jalam, na Korah.
+1CH 1:36 Ol pikinini bilong Eliphaz: Teman, Omar, Zepho, Gatam, na Kenaz; na long taim bilong Timna, Amalek.
+1CH 1:37 Ol pikinini bilong Reuel: Nahath, Zerah, Shammah, na Mizzah.
+1CH 1:38 Ol pikinini bilong Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, na Dishan.
+1CH 1:39 Ol pikinini bilong Lotan: Hori na Homam. Timna em sis bilong Lotan.
+1CH 1:40 Ol pikinini bilong Shobal: Alvan, Manahath, Ebal, Shepho, na Onam. Ol pikinini bilong Zibeon: Aiah na Anah.
+1CH 1:41 Pikinini bilong Anah: Dishon. Ol pikinini bilong Dishon: Hemdan, Eshban, Ithran, na Cheran.
+1CH 1:42 Ol pikinini bilong Ezer: Bilhan, Zaavan, na Akan. Ol pikinini bilong Dishan: Uz na Aran.
+1CH 1:43 Kings i bin stap na rulim kantri Edom bifora eni king i kam rulim ol Israelites: Bela man bilong Beor. Taun bilong em inap nem Dinhabah.
+1CH 1:44 Taim Bela i dai pinis, Jobab sussa Zerah i kam bihain long en, i bos long hap blong en, long Bozrah.
+1CH 1:45 Taim Jobab i dai pinis, Husam long kantri bilong Temanait i kam bihain long em.
+1CH 1:46 Taim Husham i dai pinis, Hadad man bilong Bedad, i winim Midian long kantri bilong Moab, i bos long hap bilong en. Na nem bilong taun bilong en em Avith.
+1CH 1:47 Taim Hadad i dai pinis, Samlah from Masrekah i kam bihain long em na i bos.
+1CH 1:48 Taim Samlah i dai pinis, Shaul from Rehoboth long Euphrates i kam bihain long em, na i bos long ples bilong en.
+1CH 1:49 Taim Shaul i dai, Baal-hanan pikinini bilong Achbor i kam bos long hap bilong en.
+1CH 1:50 Taim Baal-hanan i dai pinis, Hadad i bos long hap bilong en. Taun bilong em inap nem Pau, na meri bilong en i kolim Mehetabel, pikinini meri bilong Matred, pikinini meri bilong Me-zahab.
+1CH 1:51 Na Hadad i dai pinis. Nau ol bikpela man bilong Edom i stap: Timna, Alvah, Jetheth,
+1CH 1:52 Oholibamah, Elah, Pinon, ol i stap long lis bilong nem.
+1CH 1:53 Kenaz, Teman, Mibzar, ol i stap long lis bilong nem.
+1CH 1:54 Magdiel, na Iram. Ol i bikpela bos bilong Edom ol i stap.
+1CH 2:1 Ol i stap long pikinini bilong Isrel: Ruben, Simeon, Levi, Juta, Isakar, Sebulon
+1CH 2:2 Dan, Joseph, Benjamin, Naphtali, Gad, na Asher.
+1CH 2:3 Ol pikinini bilong Juda: Er, Onan, na Shelah. Ol i kamap long en bikos Bath-shua kanaka bilong Kanaan. Er, pikinini bilong papa bilong Juda, em i bin mekim ol samting nogut long ai bilong LORD, na LORD i biruaim em, na kilim em.
+1CH 2:4 Tamar, dota meri bilong Judah, i karim bebé long em, ol i kolim Perez na Zerah. Judah i gat faiv pikinini olgeta.
+1CH 2:5 Ol pikinini bilong Perez: Hezron na Hamul.
+1CH 2:6 Ol pikinini bilong Zerah: Zimri, Ethan, Heman, Calcol, na Dara—em i gat faiv olgeta.
+1CH 2:7 Susa bilong Karmi: Akara, we i bringim hamarim bel hat long Israel long bilakim ban long samting bilong dediket.
+1CH 2:8 Pikinini bilong Ethan: Azaria.
+1CH 2:9 Ol pikinini i kam long Hezron: Jerahmeel, Ram, na Caleb.
+1CH 2:10 Ram em i papa bilong Amminadab, na Amminadab em i papa bilong Nahshon, wanpela lidaman bilong ol desenden bilong Yuda.
+1CH 2:11 Nahshon em papa bilong Salmon, na Salmon em papa bilong Boaz.
+1CH 2:12 Boaz em papa bilong Obed, na Obed em papa bilong Jesse.
+1CH 2:13 Jesi em papa bilong Eliab, em bikpela pikinini bilong en, Abinadab i kam bihain long sekend, Shimea i kam tripa.
+1CH 2:14 Nethanel foa, Raddai faif,
+1CH 2:15 Ozem ikis, na Daved sevendi.
+1CH 2:16 Susa meri bilong ol i Zeruiah na Abigail. Na tripela man bilong Zeruiah i Abishai, Joab, na Asahel.
+1CH 2:17 Abigail em mama bilong Amasa, em papa bilong em Jether relisen bilong Ishmaelite.
+1CH 2:18 Kaleb man bilong Hezron i gat ol pikinini long wes meri Azubah na long Jerioth. Dispela ol i stap bilong Azubah: Jesher, Shobab, na Ardon.
+1CH 2:19 Taim Azuba i dai, Kalebu i marit Ephrata, na Ephrata i karim bebi long em Hur.
+1CH 2:20 Hur i papa bilong Uri, na Uri i papa bilong Bezalel.
+1CH 2:21 Hezron i go na kisim meri bilong Machir, papa bilong Gilead. Em i stap sixty yia olsem, na em i marit wantaim meri, meri i karim bek long em, na i banis Segub.
+1CH 2:22 Segub em papa bilong Jair, em i gat twenty-three towns long lan bilong Gilead.
+1CH 2:23 Bareket, Geshur na Aram i kisim Havvoth-jair, longsides Kenath na vilij 60 i karai bilong en. Ol dispela i pikinini bilong Machir, papa bilong Gilead.
+1CH 2:24 Hezron i dai pinis long Kalebu-Efrata, meri bilong em Abijah i karim bek na bambekim Ashhur, papa bilong Tekoa.
+1CH 2:25 Ol pikinini bilong Jerahmeel, pikinini namba wan bilong Hezron: Ram, pikinini namba wan bilong em, Bunah, Oren, Ozem, na Ahijah.
+1CH 2:26 Jerahmeel i gat anpela meri yet, nem bilong em Atarah, em i mama bilong Onam.
+1CH 2:27 Ol pikinini bilong Ram, pikinini namba wan bilong Jerahmeel: Maaz, Jamin, na Eker.
+1CH 2:28 Ol pikinini bilong Onam: Shammai na Jada. Ol pikinini bilong Shammai: Nadab na Abishur.
+1CH 2:29 Meri bilong Abishur i gat nem Abihail, na meri i karim bek long em Ahban na Molid.
+1CH 2:30 Ol pikinini bilong Nadab: Seled na Appaim. Seled i dai na em i no go het long ol pikinini.
+1CH 2:31 Pikinini bilong Appaim: Ishi. Pikinini bilong Ishi: Sheshan. Pikinini bilong Sheshan: Ahlai.
+1CH 2:32 Ol pikinini bilong Jada, brata bilong Shammai, em i Jether na Jonathan. Jether i dai na i no karim pikinini.
+1CH 2:33 Ol pikinini bilong Jonathan: Peleth na Zaza. Dispela i kam long ol desenden bilong Jerahmeel.
+1CH 2:34 Sheshan i no go het pikinini man, na tasol hap meri; bai em i gat wanpela sarve garas bilong Egip we nem bilong em Jarha.
+1CH 2:35 Sheshan i givim bel meri bilong en long wokman bilong en, Jarha, na meri bilong en i karim bek gen Attai.
+1CH 2:36 Attai em papa bilong Natan, Natan em papa bilong Zabad,
+1CH 2:37 Zabad i papa bilong Ephlal, na Ephlal i papa bilong Obed,
+1CH 2:38 Obed em papa bilong Jehu, Jehu em papa bilong Azariah,
+1CH 2:39 Azaria o papa bilong Helez, Helez em papa bilong Elasah,
+1CH 2:40 Elas em papa bilong Sismai, Sismai em papa bilong Salum
+1CH 2:41 Shalum em papa bilong Jekamiah, na Jekamiah em papa bilong Elishama.
+1CH 2:42 Ol pikinini bilong Caleb, brata bilong Jerahmeel: Mesha em i namba wan pikinini, em i papa bilong Ziph, na Mareshah em i namba tu pikinini, em i papa bilong Hebron.
+1CH 2:43 Ol pikinini bilong Hebron: Korah, Tappuah, Rekem, na Shema.
+1CH 2:44 Shema em papa bilong Raham, na Raham em papa bilong Jorkeam, na Rekem em papa bilong Shammai.
+1CH 2:45 Sut bilong Shammai em i Maon, na Maon em papa bilong Bet-sur.
+1CH 2:46 Caleb i gat meri bun tupela, nem bilong wan em Ephah, na em i mama bilong Haran, Moza, na Gazez. Haran i papa bilong Gazez.
+1CH 2:47 Ol pikinini bilong Jahdai: Regem, Jotham, Geshan, Pelet, Ephah, na Shaaph.
+1CH 2:48 Kaleb meri blong em, Maakaa, em mama bilong Sheba na Tirhana.
+1CH 2:49 Em i mama tu bilong Siap, papa bilong Madimana, na bilong Seva, papa bilong Makabena na Gibe. Dauti bilong Kalep em i Akasa.
+1CH 2:50 Ol descentan bilong Caleb oli stap. Pikinini bilong Hur, em i papa bilong Ephrathah: Shobal em i papa bilong Kiriath-jearim.
+1CH 2:51 Salma papa bilong Betlehem, na Hareph papa bilong Bet-Gader.
+1CH 2:52 Ol desenden bilong Shobal, papa bilong Kiriath-jearim, em i gat: Haroeh, hap halftaim bilong Manahathites.
+1CH 2:53 Na ol klans bilong Kiriath-jearim – Ol Ithrite, Ol Puthite, Ol Shumathite, na Ol Mishraite. Ol i kam bek long dispela, na ol Zorathite na Eshtaolite i kam apo long ol.
+1CH 2:54 Ol desenden bilong Salma: Betlehem, ol Netofati, Atrot-bet-joab, hap tok bilong ol Manahati, na ol Zoriti,
+1CH 2:55 Na ol clan bilong ol skraba i stap long Jabez – ol Tirathites, Shimeathites, na Sucathites. Dispela i ol Kenites i kam long Hammath, papa bilong haus bilong Rechab.
+1CH 3:1 Ol pikinini bilong Daudi i kamap long em Hebon: Nambawan pikinini em i Amnon, mama bilong em Ahinoam bilong Jezri; nambatu em i Daniel, mama bilong em Abigal bilong Kamel.
+1CH 3:2 Na trista em i Absalom, sampela pikinini bilong Maacah, mana meri bilong King Talmai long hap Geshur; na foa em i Adonijah, sampela pikinini bilong Haggith;
+1CH 3:3 Namba five em i Shephatiah long Abital; na namba six em i Ithream long meri bilong en Eglah.
+1CH 3:4 Sikis pikinini man i kam long Daud long Hebron, ples we em i painim bos seven yia na sikis mun. Na Daud i bos long Jerusalem thirty-three yia.
+1CH 3:5 Na dispela ol pikinini i kamap long em long Jerusalem: Shimea, Shobab, Natan, na Solomon. Dispela fourpela i kamap long em olsem wain meri Bathsheba, Pikinini meri bilong Ammiel.
+1CH 3:6 Olsa pikinini bilong Daud em i gat Ibhar, Elishua, Eliphelet.
+1CH 3:7 Nogah, Nepheg, Japhia, ol i stap long nem bilong Bikpela Buk.
+1CH 3:8 Elishama, Eliada, na Eliphelet—nain bilong ol.
+1CH 3:9 Ol i stap, ol pikinini bilong Davide, apa long ol pikinini em i gat long ol meri em i bin givim em. Na Tamar em i susa bilong ol.
+1CH 3:10 Pikinini bilong Solomon em i Rehoboam, Abijah em i pikinini bilong em, Asa em i pikinini bilong em, Jehoshaphat em i pikinini bilong em.
+1CH 3:11 Joram pikinini bilong en, Ahaziah pikinini bilong en, Joash pikinini bilong en,
+1CH 3:12 Amaziah pikinini bilong en, Azariah pikinini bilong en, Jotham pikinini bilong en,
+1CH 3:13 Ahaz i pikinini bilong en, Hezekiah i pikinini bilong en, Manasseh i pikinini bilong en,
+1CH 3:14 Amon pikinini bilong en, na Josiah pikinini bilong en.
+1CH 3:15 Ol pikinini bilong Josiah: Johanan em i bikpela pikinini, Jehoiakim em i namba tu, Zedekiah em i namba tri, na Shallum em i namba fo.
+1CH 3:16 Ol i kam bihain long Jehoiakim: Jeconiah pikinini bilong em, na Zedekiah.
+1CH 3:17 Ol desenden bilong Jeconiah, man i go long hap, i stap insait long hap: Shealtiel em i pikinini bilong em.
+1CH 3:18 Malikiram, Pedaiah, Shenazara, Jekamaya, Hoshama, na Nedabia.
+1CH 3:19 Ol pikinini bilong Pedaiah: Zerubbabel na Shimei. Ol pikinini bilong Zerubbabel: Meshullam na Hananiah, na susa bilong ol i go Shelomith,
+1CH 3:20 Na faifa narapela: Hasubuah, Ohel, Berekia, Hasadia, na Jusab-Hesed.
+1CH 3:21 Olegta desenden bilong Hananiah: Pelatiah, Jeshaiah, na ol pikinini man bilong Rephaiah, bilong Arnan, bilong Obadiah, na bilong Shecaniah.
+1CH 3:22 Sik Descendant bilong Shecaniah em i Shemaiah na ol pikinini bilong em: Hattush, Igal, Bariah, Neariah, na Shaphat.
+1CH 3:23 Ol pikinini bilong Neariah: Elioenai, Hizkiah, na Azrikam – ol i go tripela tasol.
+1CH 3:24 Ol pikinini bilong Elioenai: Hodavia, Eliasib, Pelaia, Akkub, Johanan, Delaia, na Anani—seven olgeta.
+1CH 4:1 Ol desenden bilong Yuda: Perez, Hezron, Kami, Hur, na Shobal.
+1CH 4:2 Reaiah pikinini bilong Shobal em i papa bilong Jahath, na Jahath em i papa bilong Ahumai na Lahad. Ol dispela clan bilong Zorathites ol i stap.
+1CH 4:3 Ol pikinini bilong Etam em i Jezreel, Ishma, na Idbash, na susa bilong ol i kolim Hazzelelponi.
+1CH 4:4 Penuel em papa bilong Gedor, na Ezer em papa bilong Hushah. Ol dispela i kam bilong Hur, bikpela pikinini bilong Efrata, papa bilong Betlehem.
+1CH 4:5 Ashhur papa bilong Tekoa em i gat tu meri, Helah na Naarah.
+1CH 4:6 Naarah i karim bekim em Ahuzam, Hefer, Temeni, na Haahashtari. Ol i stap long famili bilong Naarah, ol desenden bilong em.
+1CH 4:7 Ol pikinini bilong Helah em i ol Zereth, Zohar, Ethnan
+1CH 4:8 Na Koz, em papa bilong ol, papa bilong Anub na Zobebah, na bilong ol klana bilong Aharhel, pikinini bilong Harum.
+1CH 4:9 Nau Jabez i moa gat respek long ol brata bilong en. Mama bilong em i givim em dispela nem, Jabez, olsem, "Bikos mi karim em long pain."
+1CH 4:10 Na Jabez i kalim i go long God bilong Israel, “Mi laik yu givim mi bles na kirapim kauntri bilong mi! Han bilong yu i kam wantaim mi na bekim ol samting nogut long mi, na mi kamap fri long pain.” Na God i givim askim bilong Jabez.
+1CH 4:11 Chelub brata bilong Shuhah em i papa bilong Mehir, na Mehir em i papa bilong Eshton.
+1CH 4:12 Eshton em i papa bilong Bet-Rafa, Paseah, na Tehina, papa bilong Ir-Nahas. Ol man hia i stap long Reka.
+1CH 4:13 Ol pikinini bilong Kenaz: Othniel na Seraiah. Ol pikinini bilong Othniel: Hathath na Meonothai.
+1CH 4:14 Meonothai em i papa bilong Ophrah, na Seraiah em i papa bilong Joab, papa bilong ol manmeri i stap long Ge-harashim, ol i kisim nem Ge-harashim bikos ol manmeri bilong en i wokman.
+1CH 4:15 Ol pikinini bilong Caleb, mak bilong Jephunneh: Iru, Elah, na Naam. Pikinini bilong Elah: Kenaz.
+1CH 4:16 Ol pikinini bilong Jehallelel: Ziph, Ziphah, Tiria, na Asarel.
+1CH 4:17 Ol pikinini bilong Ezrah: Jeter, Mered, Efer, na Jalon. Na Meret meri Bithiah i karim bek na bornim Miriam, Shammai, na Ishbah papa bilong Eshtemoa.
+1CH 4:18 Ol pikinini bilong Pikaro meri Bithiah em i stap. Mered i kisim meri Judea, na meri Judea i karim bel na bam bikim Jered papa bilong Gedor, Heber papa bilong Soco, na Jekuthiel papa bilong Zanoah.
+1CH 4:19 Ol pikinini bilong meri Hodiah, susa bilong Naham, em i ol papa bilong Keilah man Garmite na bilong Eshtemoa man Maacathite.
+1CH 4:20 Ol pikinini bilong Shimon: Amnon, Rinnah, Ben-hanan, na Tilon. Ol desenden bilong Ishi: Zoheth na Ben-zoheth.
+1CH 4:21 Ol pikinini bilong Shelah, papa bilong Yuda: Er papa bilong Lekah, Laadah papa bilong Maresha na ol clans bilong wokman i save mekim laplap long Bet-ashbea.
+1CH 4:22 Jokim, ol man bilong Cozeba, na Joash na Saraph, ol i bin gavman long Moab na Jashubi-lehem. (Dispela nem i kam bek long taim bifo raun.)
+1CH 4:23 Ol pottama ol i stap long Netaim na Gederah, na ol i wokim pot long servismet bilong king.
+1CH 4:24 Ol desenden bilong Simeon: Nemuel, Jamin, Jarib, Zerah, na Shaul.
+1CH 4:25 Ol pikinini bilong Shaul: Salum, Mibsam, na Mishma.
+1CH 4:26 Ol pikinini bilong Mishma: Hammuel, Zaccur, na Shimei.
+1CH 4:27 Shimei i gat sikisipela pikinini man na sixpela pikinini meri, tasol bratas bilong em i no gat planti pikinini, nau klam bilong ol i no kamap planti olsem pikinini bilong Yuda.
+1CH 4:28 Ol i stap long Beersheba, Moladah, Hazar-shual, ol nem bilong ples.
+1CH 4:29 Bilaha, Ezem, Tolad
+1CH 4:30 Betuel, Homah, Siklag,
+1CH 4:31 Bet-Markabot, Hazar-Susim, Bet-Biri, na Saaraim. Dispela ol i stap olsem taun bilong ol, long taim bilong yia bilong ol, tasol i stop long tain bilong King Daud.
+1CH 4:32 Na vilij ol i stap long Etam, Ain, Rimmon, Tochen, na Ashan – taun faiv.
+1CH 4:33 Na olgeta vilij long ailan bilong ol, long wei Baal i go, em i ples ol i stap, na ol i save mekim buk long ol famili bilong ol.
+1CH 4:34 Meshobab, Jamelek, Josah pikinini bilong Amasia,
+1CH 4:35 Joel, Jehu pikinini bilong Joshibiah (Joshibiah em pikinini bilong Seraiah, Seraiah em pikinini bilong Asiel)
+1CH 4:36 Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, ol i stap long lis bilong nem bilong Jiwipela.
+1CH 4:37 Na Ziza pikinini bilong Shiphi, (Shiphi em pikinini bilong Allon, Allon em pikinini bilong Jedaiah, Jedaiah em pikinini bilong Shimri, Shimri em pikinini bilong Shemaiah).
+1CH 4:38 Ol man husat i kolim nem, ol i bikpela husat i lidim ol lain bilong ol. Ol pikanini bilong ol i kamap planti.
+1CH 4:39 Ol i go wokabaut, go long entris bilong Gedor, long sait bilong east bilong vali, ol i lukim gras bilong ka bilong ol bulmakau.
+1CH 4:40 Ol i finim gras na kuk i gutpela, na plaes i lap, stil, na pes; sampela man Hamiti bifo ol i stap hap.
+1CH 4:41 Ol dispela i raitim nem bilong ol, kam long taim bilong Hezekia king bilong Yuda. Waria i go bekim ol Hamiti na ol Meuniti long haus bilong ol, na ol i makim ol pipel bilong dei i go daun, na inap long taim nau tasol. Aneh dispela, ol i stat long ples bilong ol, bikos gras bilong animap i planti, na ol animap bilong ol i save kaikai.
+1CH 4:42 Na kamap na five hundred Simeonites ol i go bek long Pelatiah, Neariah, Rephaiah, na Uzziel, ol pikinini bilong Ishi, i go long Maunt Seir.
+1CH 4:43 Na kilim ol i stap na pasim ol Amalekitis ol i ranawe na saveman, na ol i stap yet na klostu long tude.
+1CH 5:1 Ol i stap long ples Reuben, pikinini bilong bipo bilong Israel. Tasol, em i no inap long rait bilong en bikos Reuben i bagarap bed bilong papa bilong en. Rait bilong en i go long pikinini Joseph, na em i no count olsem long rait bilong bipo.
+1CH 5:2 Na Judah i winim ol brata bilong en, na wanpela bikman i kamap long em, tasol rait bilong birith i bilong Yosep.
+1CH 5:3 Ol pikinini bilong Reuben, pikinini namba wan bilong Israel: Hanoch, Pallu, Hezron, na Carmi.
+1CH 5:4 Ol desenden bilong Joel: Shemaiah i pikinini bilong em, Gog i pikinini bilong em, Shimei i pikinini bilong em.
+1CH 5:5 Mika i pikinimo Reaya i pikinimo Baal i pikinimo
+1CH 5:6 Na Beerah i pikinini bilong en, whim Tiglath-pileser king bilong Asiria i kisim i go long ples bilong banis. Beerah em i bikpela man bilong ol Reuben.
+1CH 5:7 Ol wantok bilong en na ol lain i stap long ol clan, ol i rakim nam na storii bilong ol: Jeiel big man, Zechariah, long stori bilong ol.
+1CH 5:8 Na Bela Pikinini bilong Azaz, azaz em pikinini bilong Shema, shema em pikinini bilong Joel. Ol i stap kamap long Aroer, longwe go long Nebo na Baal-meon.
+1CH 5:9 Tudei ol i go daunim hap bilong solwara na stap longwe na rausim hap bilong kantri i go daun, ol i kamap klostu long Riv Euphrates, bikos ol kus kus bilong ol i kamap planti long kantri bilong Gilead.
+1CH 5:10 Long taim bilong Saul, ol i go stap fight gen ol Hagrites, na ol Hagrites i bin los, na ol i stap long han bilong ol, na ol i go stap long haus bilong ol Hagrites long hap bilong Gilead long sindaun solwara.
+1CH 5:11 Ol desenden bilong Gad i stap besait long ol Reubenites long lan bilong Bashan, inap long Salecah.
+1CH 5:12 Joel em i bikpela, Shapham em i namba tu, na bihain long dispela Jaanai na Shaphat, ol i stap long Bashan.
+1CH 5:13 Ol brata bilong ol long famili, em i Michael, Meshullam, Sheba, Jorai, Jacan, Zia, na Eber – seven olgeta.
+1CH 5:14 Ol pikinini bilong Abihail, mak bilong Huri, Jaroah, Gilead, Michael, Jeshishai, Jahdo, na Buz.
+1CH 5:15 Ahi pikinini bilong Abdiel, em i pikinini bilong Guni, em i bikpela man bilong ol famili.
+1CH 5:16 Ol i stap long Gilead, long Bashan na vilij long em, na long olgeta hap graun bilong Sharon.
+1CH 5:17 Ol i kamap long namba bilong ol disciplem long taim bilong Jotam king bilong Yuda na Jeroboam king bilong Israel.
+1CH 5:18 Ol Reubenites, ol Gadites, na hap-tribe bilong Manasseh i gat 44,760 man bilong wok strong – ol man bilong kaisim gutpela samting, ol i karim skild na sord, ol i sho bow, na ol i lernim pinis long pait.
+1CH 5:19 Ol i wokim bikpela fait long ol Hagrait, olsem long Jetur, Naphish, na Nodab.
+1CH 5:20 Na ol i kirap long God long taim bilong faet, ol i halivim ol gen long han bilong ol, na Hagrites na ol fren bilong ol, ol i givim i go long han bilong ol. Na bikos ol i putim trast bilong ol long God, Em i ansa ol praer bilong ol.
+1CH 5:21 Ol i kisim ol animol bilong Ol Hagrites - 50,000 kemel, 250,000 sip, na 2,000 donki. Ol i kisim tu olsem prisen 100,000 man meri.
+1CH 5:22 Na olgetting i go daun na i dai, bikos dispela bikpela faet i bilong God, na ol i stap long graun, tasol i stop long taim bilong tanim exile.
+1CH 5:23 Nau ol pipol bilong hap tribe bilong Manasseh i gat planti. Ol i stap long graun from Bashan kas long Baal-hermon, em i Senir, mauntain em i Maunt Hermon.
+1CH 5:24 Dispela i bikpela man bilong ples bilong ol: Efer, Ishi, Eliel, Azriel, Jeremia, Hodavia, na Jahdiel. Ol i man strong na kuraj, ol man bikpela na welkam, na bikpela man bilong ples bilong ol.
+1CH 5:25 Bare ol i no tru long God bilong tumbuna ol, na ol i mekim poro na sindaun wantaim kina god bilong ples ol, wel God i bin kilim bifo ol.
+1CH 5:26 God bilong Israel i wokim spirit bilong Pul king bilong Asiria, em i Tiglath-pileser king bilong Asiria, i kamap strong olsem na kisim Reubenites, Gadites, na hap-tribe bilong Manase i go long we bilong dei. Na i bringim ol long Halah, Habor, Hara, na wara bilong Gozan, na ol i stap yet nau.
+1CH 6:1 Ol pikinini bilong Levi: Gershon, Kohath, na Merari.
+1CH 6:2 Ol pikinini bilong Kohath: Amram, Izhar, Hebron, na Uzziel.
+1CH 6:3 Ol pikinini bilong Amram: Aron, Moses, na Miriam. Ol man bilong Aron: Nadab, Abihu, Eleazar, na Ithamar.
+1CH 6:4 Eleazar em papa bilong Phinehas, Phinehas em papa bilong Abishua,
+1CH 6:5 Abishua em papa bilong Bukki, Bukki em papa bilong Uzzi,
+1CH 6:6 Uzzi em papa bilong Zerahiah, Zerahiah em papa bilong Meraioth,
+1CH 6:7 Meraioth em i papa bilong Amariah, Amariah em i papa bilong Ahitub.
+1CH 6:8 Ahitub em papa bilong Zadok, Zadok em papa bilong Ahimaaz,
+1CH 6:9 Ahimaaz em papa bilong Azariah, Azariah em papa bilong Johanan
+1CH 6:10 Johanan em papa bilong Azariah, i servim olsem priester long tempel we Solomon i bilonim long Jerusalem.
+1CH 6:11 Azariah em papa bilong Amariah, Amariah em papa bilong Ahitub.
+1CH 6:12 Ahitub em papa bilong Zadok, na Zadok em papa bilong Shallum.
+1CH 6:13 Shallum em papa bilong Hilkiah, Hilkiah em papa bilong Azariah
+1CH 6:14 Azaria em i papa bilong Seraiah, na Seraiah em i papa bilong Jehozadak.
+1CH 6:15 Jehosadak i go long bikim prisen wen GOD bilong yapela i salim Yuda na Yerusalem i go long kantri ejen long han bilong Nabukadnesa.
+1CH 6:16 Ol pikinini bilong Levi: Gersom, Kohat, na Merari.
+1CH 6:17 Dispela em i nem bilong pikinini man bilong Gershom: Libni na Shimei.
+1CH 6:18 Ol pikinini bilong Kohath: Amram, Izhar, Hebron, na Uzziel.
+1CH 6:19 Ol pikinini bilong Merari: Mahli na Mushi. Dispela ol clan bilong Levait i skulim namel long papa bilong ol.
+1CH 6:20 Bilong Gershom: Libni pikinini bilong em, Jahath pikinini bilong em, Zimmah pikinini bilong em.
+1CH 6:21 Joah i bikim pikinini Iddo, Iddo i bikim pikinini Zerah, Zerah i bikim pikinini Jeatherai.
+1CH 6:22 Ol desenden bilong Kohath: Amminadab pikinini bilong em, Korah pikinini bilong em, Assir pikinini bilong em.
+1CH 6:23 Elkanah i pikinim Ebiasaph, Ebiasaph i pikinim Assir
+1CH 6:24 Tahath i bikim pikinini, na Uriel i bikim pikinini bilong Tahath, Uzziah i bikim pikinini bilong Uriel, na Shaul i bikim pikinini bilong Uzziah.
+1CH 6:25 Ol desenden bilong Elkanah: Amasai, Ahimoth
+1CH 6:26 Elkanah i pikinim Zophai, Zophai i pikinim Nahath
+1CH 6:27 Eliab i pikinimo bilong en, em i Jeroham, na Jeroham i pikinimo bilong en, em i Elkanah.
+1CH 6:28 Ol pikinini bilong Samuwel: Yoel em i pikinini namba wan bilong en, na Abiya em i pikinini namba tu bilong en.
+1CH 6:29 Ol desenden bilong Merari: Mahli, Libni pikinini bilong em, Shimei pikinini bilong em, Uzzah pikinini bilong em.
+1CH 6:30 Shimea pikinini bilong em, Haggiah pikinini bilong em, na Asaiah pikinini bilong em.
+1CH 6:31 Ol man hedi, Daud i putim ol long kontol long musik long haus bilong Jehovah bihaen ark ibin stopim i go dasol.
+1CH 6:32 Ol i sarvis long sang bifor tabenakol, Haus Bilong Miting, until Solomona, King Solomona, bilden haus bilong Jehovah long Jerusalem. Na ol i wokim wok bilong ol according long lo bilong ol.
+1CH 6:33 Ol man husat i servim, longlong wanpela tasol na ol pikinini bilong ol, long ol Kohati: Eman man i sing, pikinini bilong Joel, pikinini bilong Samuel,
+1CH 6:34 Pikinini bilong Elkanah, pikinini bilong Jeroham, pikinini bilong Eliel, pikinini bilong Toah
+1CH 6:35 Pikinini bilong Zuph, pikinini bilong Elkanah, pikinini bilong Mahath, pikinini bilong Amasai,
+1CH 6:36 Pikinini bilong Elkanah, pikinini bilong Joel, pikinini bilong Azariah, pikinini bilong Zephaniah,
+1CH 6:37 Pikinini bilong Tahath, pikinini bilong Assir, pikinini bilong Ebiasaph, pikinini bilong Korah,
+1CH 6:38 Pikinini bilong Izhar, pikinini bilong Kohath, pikinini bilong Levi, pikinini bilong Israel.
+1CH 6:39 Brata bilong Heman i kolim Asaph, em i wok long han raite bilong em: Asaph, pikinini bilong Berechiah, pikinini bilong Shimea,
+1CH 6:40 Pikinini bilong Michael, pikinini bilong Baaseiah, pikinini bilong Malchijah,
+1CH 6:41 Pikinini bilong Ethni, pikinini bilong Zerah, pikinini bilong Adaiah,
+1CH 6:42 Pikinini bilong Ethan, pikinini bilong Zimmah, pikinini bilong Shimei,
+1CH 6:43 Pikinini bilong Jahath, pikinini bilong Gershom, pikinini bilong Levi.
+1CH 6:44 Long hap left, ol brata bilong ol, ol pikinini bilong Merari: Etan pikinini bilong Kisi, pikinini bilong Abdi, pikinini bilong Maluku.
+1CH 6:45 Pikinini bilong Hashabiah, pikinini bilong Amaziah, pikinini bilong Hilkiah,
+1CH 6:46 Pikinini bilong Amzi, pikinini bilong Bani, pikinini bilong Shemer, ol i stap long rod bilong famili.
+1CH 6:47 Pikinini bilong Mahli, pikinini bilong Mushi, pikinini bilong Merari, pikinini bilong Levi.
+1CH 6:48 Ol Levit bilong yumi i gat wok long tabenakl, haus bilong God, na ol i wokim ol kain servos bilong em.
+1CH 6:49 Barene Aaron na ol pikinini bilong en i wokim olgeta wok bilong Ples Bilong Holiholi Namba Wan. Ol i bringim ofing long alta bilong ofing bung na long alta bilong smel bung, ol i mekim pekimpais long Israel, olsem Moses i sarvan bilong God i givim tok bilong wokim.
+1CH 6:50 Ol desenden bilong Aaron: Eleazar pikinini bilong em, Finehas pikinini bilong em, Abishua pikinini bilong em.
+1CH 6:51 Bukki i pikinini bilong en, Uzzi i pikinini bilong Bukki, Zerahiah i pikinini bilong Uzzi,
+1CH 6:52 Meraioth pikinini bilong en, Amariah pikinini bilong en, Ahitub pikinini bilong en,
+1CH 6:53 Zadok i pikinim, na Ahimaaz i pikinim.
+1CH 6:54 Dispela olgeta ili tanim i kam long ol desenden bilong Aron, long Klana bilong Kohat, long ples bilong ol, bikos ka em i go daun long ol.
+1CH 6:55 Ol i givim Hebron long lan bilong Yuda, wantaim graun bilong animal we olgeta animal i stap.
+1CH 6:56 Bai graun na vilij long sait bilong siti i go long Kaleb, man bilong Jefune.
+1CH 6:57 Na ol desendent bilong Aron i givim Hebron, wanpela taun bilong refuj, Libnah, Jattir, Eshtemoa,
+1CH 6:58 Hilen, Debir
+1CH 6:59 Asan, Juta, na Bet-Semes, wantaim ol gras bilong animal bilong ol.
+1CH 6:60 Na long tripe bilong Benjimin, ol i givim ol Gibeon, Geba, Alemeth, na Anathoth, wantaun long graun bilong ol pu. Ol i kaunim sipotin na ol get thirteen ples long olgeta famili bilong ol.
+1CH 6:61 Long ol narapela Kohati, tenpela towns i kamap long draibosim long hap-tribe bilong Manase.
+1CH 6:62 Ol Gershomites i gat ples long ol taun thirteen, long wei bilong ol clan bilong ol, stat long ol tribe Isakara, Asa, Nafatali, na Manase, long hap Bilong Basan.
+1CH 6:63 Ol Merarites i gitim mosim olsem famili bilong ol, na long klab bilong Ruben, Gad, na Sebulon, ol i gat twelv taun.
+1CH 6:64 Na Isrelaiti i givim long Levaiti siti na graun bilong animal ol.
+1CH 6:65 Ol i kamapim ol siti we yumi tok nau long wei bilong het, na oli kam long ol traibe bilong Yuda, Simeon, na Benjamin.
+1CH 6:66 Na sampela klan bilong Kohati ol i gat sais long trai bilong Efrayim olsem graun bilong ol.
+1CH 6:67 Ol i givim Sikem, taun bilong sikir pem, wantaim gras bilong ol, long kantri hap bilong Efraim, na Geza.
+1CH 6:68 Jokimeam, Bet-Horon
+1CH 6:69 Aijalon, na Gath-rimmon, wantaim olgeta nem bilong ples na graun bilong ol.
+1CH 6:70 Na long hap taun bilong Manase, ol klan i go bek gen long Kohati igo inap i kamapim Aner na Bileam, watpo long wane olgeta gras bilong ol.
+1CH 6:71 Ol Gershomites i kamapim ol dispela: Long klain bilong hap-tribe bilong Manase, ol i givim Golan long Bashan olsem, wantaim Ashtaroth, na graun bilong ol pu.
+1CH 6:72 Long klab long traibe bilong Isakar ol i givim Kedes, Daberath,
+1CH 6:73 Ramoth, na Anem, wantaim ol gras bilong ol.
+1CH 6:74 Long traib blong Esar ol i givim ol Masal, Abdon,
+1CH 6:75 Hukok na Rehob, wantaim graun bilong ol.
+1CH 6:76 Na long tripe bilong Naphtali, ol i givim Kedesh long Galili, Hammon, na Kiriathaim, wantaem graun bilong ol puak.
+1CH 6:77 Ol Merarites, nupela hap bilong Ol Levites, i kamapim pinis: long tribe bilong Zebulun ol i givim ol Rimmono na Tabor, wantaim gras bilong animals bilong ol.
+1CH 6:78 Long klab bilong Ruben, bikosi na win solwara bilong Jordan, namel long sait bilong Jeriko, ol i givim Bezer olsem ples long bus, Jahzah.
+1CH 6:79 Kedemoth, na Mephaath, wantaim graun bilong ol poro.
+1CH 6:80 Long tribe bilong Gad, ol i givim ol Ramoth long Gilead, Mahanaim,
+1CH 6:81 Hesbon, na Jaza, wantaim graun bilong ol poro.
+1CH 7:1 Ol pikinini bilong Isakar: Tola, Puah, Jasub, na Simron — foa olgeta.
+1CH 7:2 Ol pikinini bilong Tola: Uzi, Refaya, Jeriyel, Jahmay, Ibsam, na Semuel, ol bikpela man bilong ol famili. Long taim bilong Davide, 22,600 desenden bilong Tola i kamap long stori bilong ol famili olsem ol strongpela man bilong fait.
+1CH 7:3 Susa bilong Uzzi: Izrahiah. Ol pikinini bilong Izrahiah: Mikaol, Obadia, Joel, na Isia. Olfaiv bilong ol i bikpela.
+1CH 7:4 Ol i kam wantaim ol, na ol i klinim namel bilong ol, na ol i gat 36,000 man i go lait long feit, bikos ol i gat planti meri na pikinini.
+1CH 7:5 Ol brata bilong ol famili Isakar, ol man strongpela i gat kura, i gat 87,000, ol i skrivim namel long stori bilong ol.
+1CH 7:6 Ol tripela sun bilong Benjimin: Bela, Becher, na Jediael.
+1CH 7:7 Ol pikinini bilong Bela: Ezbon, Uzzi, Uzziel, Jerimoth, na Iri, ol hed bilong ol famili – limpela tasol. Na i gat 22,034 ol man strong na gutpela i kamap long stori bilong ol tumbuna bilong ol.
+1CH 7:8 Ol pikinini bilong Becher i go we: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, na Alemeth; ol dispela i pikinini bilong Becher.
+1CH 7:9 Stori bilong ol ancestor ol i rakim long hed bilong ol bikpela man bilong ol famili – 20,200 strongpela man bilong fait.
+1CH 7:10 Susa bilong Jediael i Bilhan. Ol susa bilong Bilhan em i Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, na Ahishahar.
+1CH 7:11 Ol pikinini bilong Jediael, ol hap bilong ol papa bilong ol famili, na ol man strongpela i gat kura, ol i gat 17,200 man redi long faet.
+1CH 7:12 Ol Shuppites na ol Huppites em i kam bes long Ir, na ol Hushites em i kam bes long Aher.
+1CH 7:13 Ol pikinini bilong Naphtali: Jahziel, Guni, Jezer, na Shallum – ol desendan bilong Bilhah.
+1CH 7:14 Ol desenden bilong Manase: Long hap bilong Aramain meri pasal Asriel, olsem na Machir papa bilong Gilead.
+1CH 7:15 Machir i kisim meri long hap bilong Huppites na Shuppites. Nem bilong susa bilong em i Maacah. Naraken bilong em i kolim Zelophehad, na em i gat pikinini meri tasol.
+1CH 7:16 Meri bilong Machir, Maaka, i karim bek, na em i kamap, na em i givim nem Peresh long em. Braza bilong em i kolim Sheresh, na ol pikinini bilong em i kolim Ulam na Rekem.
+1CH 7:17 Susa bilong Ulam i kolim Bedan. Ol i stap long ol pikinini bilong Gilead, susa bilong Makir, susa bilong Manase.
+1CH 7:18 Susa meri bilong em, Hamaoleketh, i karim bebi long tripela man: Isod, Abiesa, na Mala.
+1CH 7:19 Na dispela i go ol pikinini bilong Shemida: Ahian, Shechem, Likhi, na Aniam.
+1CH 7:20 Ol desenden bilong Efrem: Sutela, Bered i pikinini bilong em, Taath i pikinini bilong em, Eleadah i pikinini bilong em, Taath i pikinini bilong em.
+1CH 7:21 Zabad i pikinim, na Shuthelah i pikinim. Ezer na Elead i kilim olsem na pipol bilong Gath, bikos ol i go daun lo steal ol animal bilong ol.
+1CH 7:22 Tambu bilong ol Ephraim i bin kisim sor long taim olsem, na wantok bilong em ol i kam bekim em long kaikai bilong sori.
+1CH 7:23 Na em i go sip gen long meri bilong em, na meri i kamap susu na i karim bebi man, na i banisim bebi man. Na tupela i givim nem bilong bebi man olsem Beriah, wantaim ol i sikisim long dispela pikinini, bikos ol i tingim olgeta kain sikisim i kamap long hus bilong em.
+1CH 7:24 Daughter bilong em i Sheerah, we em i bin mekim Beth-horon lo na Beth-horon hap, olsem na Uzzen-sheerah.
+1CH 7:25 Olsem na, Rephah em i pikinini bilong en, Resheph em i pikinini bilong en, Telah em i pikinini bilong en, Tahan em i pikinini bilong en.
+1CH 7:26 Ladan i pikinim, Ammihud i pikinim, Elishama i pikinim.
+1CH 7:27 Nun i papa, na Josaia i pikinim.
+1CH 7:28 Olgeta ples ol i stap na ol vilij bilong ol, ikamapim Bethel na vilij bilong em, Naaran long sindaun bilong sun, Gezer na vilij bilong en long wes, na Shechem na vilij bilong em, inap long Ayyah na vilij bilong en.
+1CH 7:29 Long border bilong Manase i gat Bet-Sian, Taanak, Megido, na Dor, wantaim vilij ol i stap. Ol desenden bilong Josep, pikinini bilong Israel, ol i stap long dispela taun ol.
+1CH 7:30 Ol pikinini bilong Asher: Imnah, Ishvah, Ishvi, Beriah, na susa bilong ol Serah.
+1CH 7:31 Ol pikinini bilong Beriah: Heber, na Malchiel, em i papa bilong Birzaith.
+1CH 7:32 Heber em papa bilong Japhlet, Shomer, na Hotham, na bilong susa ol yet, Shua.
+1CH 7:33 Ol pikinini bilong Jaflet: Pasak, Bimhal, na Asvath. Dispela i ol pikinini bilong Jaflet.
+1CH 7:34 Ol pikinini bilong Shemer: Ahi, Rohgah, Hubbah, na Aram.
+1CH 7:35 Ol pikinini bilong brata Helem: Zofa, Imna, Seles, na Amal.
+1CH 7:36 Ol pikinini bilong Zofa: Suah, Harnefa, Suwal, Beri, Imra,
+1CH 7:37 Bezer, Hod, Shama, Shilsha, Ithran, na Beera.
+1CH 7:38 Ol pikinini bilong Jeter: Jefune, Pispa, na Ara.
+1CH 7:39 Ol pikinini bilong Ulla: Arah, Hanniel, na Rizia.
+1CH 7:40 Ol desenden bilong Esara, hed bilong ol famili bilong ol, man i gat strong na i gat kuraj, bikpela man i kam ap long ol lida, nembris bilong ol man i fit long fait, i kamap 26,000, ol i rekodim long buk bilong stori bilong ol.
+1CH 8:1 Benjamin em papa bilong Bela, pikinini bilong en i kam first; Ashbel em pikinini namba tu, Aharah em namba tri.
+1CH 8:2 Noha na namba foa, na Rafa na namba faiv.
+1CH 8:3 Ol pikinini bilong Bela: Addar, Gera, Abihud
+1CH 8:4 Abishua, Naaman, Ahoah
+1CH 8:5 Gera, Shephuphan, na Huram.
+1CH 8:6 Ol desenden bilong Ehud, olsem hap bilong ol papa bilong family ol i stap long Geba, ol i go long Manahath na kisim penalti.
+1CH 8:7 Naaman, Ahijah, na Gera, ol i kisim ol i go long hel, em i papa bilong Uzza na Ahihud.
+1CH 8:8 Shaharaim i gat pikinini man long kantri bilong Moab bihaen em i lusim meri bilong en, Hushim na Baara.
+1CH 8:9 Ol pikinini bilong em long meri bilong en Hodesh: Jobab, Zibia, Mesha, Malcam,
+1CH 8:10 Jeuz, Sachia, na Mirmah. Em i pikinini bilong em, ol Bikpela man bilong ol famili.
+1CH 8:11 Na em i gat pikinini man tu long Hushim: Abitub na Elpaal.
+1CH 8:12 Ol pikinini bilong Elpaal: Eba, Misam, Semed (ol i bin mekim Ono na Lod wantaim vilij bilong en)
+1CH 8:13 Na Beriah na Shema (ol hed bilong hap bilong papa na mama bilong ol manmeri bilong taun Aijalon, na ol i drivim aut ol manmeri bilong taun Gath).
+1CH 8:14 Ahio, Shashak, Jeremoth, ol i stap long lis bilong nem.
+1CH 8:15 Zebadia, Arad, Edera,
+1CH 8:16 Mikaol, Ishpah, na Joha ol i bikpela pikinini bilong Beriah.
+1CH 8:17 Zebadia, Mesulam, Hiski, Heba, ol i stap long lis bilong nem bilong Baibol.
+1CH 8:18 Ishmerai, Izliah, na Jobab i stap bilong ol pikinini Elpaal.
+1CH 8:19 Jakim, Sikri, Sabdi, ol i stap long lis bilong nem bilong Jiwipela.
+1CH 8:20 Elienai, Zillethai, Eliel, ol i stap long lis bilong nem bilong Jiwipela.
+1CH 8:21 Adaiah, Beraiah, na Shimrath i stap ol pikinini bilong Shimei.
+1CH 8:22 Aispen, Eba, Eliel, nem bilong ol man i stap long Nem bilong Bikpela Buk.
+1CH 8:23 Abdon, Zikri, Hanani, ol i stap long lis bilong nem propa.
+1CH 8:24 Hanania, Elam, Anthothijah
+1CH 8:25 Iphdeiah, na Penuel i stap ol pikinini bilong Shashak.
+1CH 8:26 Shamsherai, Shehariah, Athaliah, ol i stap long lis bilong nem bilong Jui.
+1CH 8:27 Jaareshiah, Elijah, na Zichri i stap ol pikinini bilong Jeroham.
+1CH 8:28 Olgeta dispela i bikpela hap bilong papa na mama, olsem ol i kam long stori bilong tumbuna, na ol i stap long Jerusalema.
+1CH 8:29 Jeiel papa bilong Gibeon i stap long Gibeon, meri bilong em nem Maacah.
+1CH 8:30 Na Abdon em i pikinini namba wan bilong en, na bihain ol i go, Zur, Kish, Baal, Nadab,
+1CH 8:31 Gedor, Aho, Seza, ol i kam long lis blo nem.
+1CH 8:32 Na Mikloth, em papa bilong Shimeah. Ol i stap wantaim ol famili bilong ol long Jerusalem.
+1CH 8:33 Ner em papa bilong Kish, Kish em papa bilong Saul, na Saul em papa bilong Jonathan, Malchishua, Abinadab, na Esh-baal.
+1CH 8:34 Susa bilong Jonathan: Merib-baal, na Merib-baal em papa bilong Micah.
+1CH 8:35 Ol pikinini bilong Mika: Piton, Melek, Tarea, na Ahaz.
+1CH 8:36 Ahaz em papa bilong Jehoaddah, Jehoaddah em papa bilong Alemeth, Azmaveth, na Zimri, na Zimri em papa bilong Moza.
+1CH 8:37 Moza em papa bilong Binea. Raphah em pikinini bilong em, Eleasah em pikinini bilong em, na Azel em pikinini bilong em.
+1CH 8:38 Azel i gat sikis pikinini, na dispela em i nem bilong ol: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, na Hanan. Ol dispela i pikinini bilong Azel.
+1CH 8:39 Ol pikinini bilong brata Eshek: Ulam em i pikinini namba wan, Jeush em i namba tu, na Eliphelet em i namba tri.
+1CH 8:40 Ol pikinini bilong Ulam i gat strongpela man, ol man husait i save shot bilong banar, na ol i gat planti pikinini na ol bikpela – 150 olgeta. Ol dispela i bin kam bek long Benjamin.
+1CH 9:1 Ol Israel i rakim ol stap long stori bilong ol famili, ol i raitim long Buk Bilong King bilong Israel. Tasol Yuda i go long Babylon na i no inap kom bek bikos ol i no obedi.
+1CH 9:2 Nau ol Israel, pris, Levi, na wokman bilong templa em i go bek long ples bilong ol first long taun bilong ol.
+1CH 9:3 Ol desenden bilong Yuda, Benjamin, Efraim, na Manase, ol i stap long Yerusalem.
+1CH 9:4 Uthai pikinini bilong Ammihud, mak bilong Omri, mak bilong Imri, mak bilong Bani, wanpela desendent bilong Perez pikinini bilong Judah.
+1CH 9:5 Bilong ol Shilonites: Asaiah bikpela boron na ol pikinini bilong en.
+1CH 9:6 Long ol Zerahites: Jeuel na 690 wantok bilong em.
+1CH 9:7 Long ol Benjamins: Sallu pikinini bilong Meshullam, pikinini bilong Hodavia, pikinini bilong Hassenuah;
+1CH 9:8 Ibneiah pikinini bilong Jeroham; Elah pikinini bilong Uzzi, pikinini bilong Michri; Meshullam pikinini bilong Shephatiah, pikinini bilong Reuel, pikinini bilong Ibnijah;
+1CH 9:9 Na 956 ol arafelo bilong ol olsem ol i kam long famili bilong ol. Ol bikpela man bilong ol ibin papa bilong ol, na olgeta man hia i bikpela man bilong ol famili bilong ol.
+1CH 9:10 Long ol priest: Jedaiah, Jehoiarib, na Jachin;
+1CH 9:11 Azaria, pikinini bilong Hilkia, pikinini bilong Mesulam, pikinini bilong Sadok, pikinini bilong Meraioth, pikinini bilong Ahitub, big man bos bilong haus lotu bilong God;
+1CH 9:12 Adaiah pikinini bilong Jeroham, aitken bilong Pashhur, aitken bilong Malchijah; Maasai pikinini bilong Adiel, aitken bilong Jahzerah, aitken bilong Meshullam, aitken bilong Meshillemith, aitken bilong Immer;
+1CH 9:13 Na 1,760 long ol famili bilong ol, ol bikpela hed bilong ol famili, ol man strong bilong wok bilong sabis long haus bilong God.
+1CH 9:14 Long ol Levites: Semaia, pikinini bilong Hasab, pikinini bilong Azrikaem, pikinini bilong Hasabia, wanpela desenden bilong Merari;
+1CH 9:15 Bakbakkar, Heresh, Galal, na Mattaniah pikinini bilong Mika, pikinini bilong Zichri, pikinini bilong Asaph;
+1CH 9:16 Obadia sun i go long Shemaia, sun bilong Galal, sun bilong Jedutun; na Berekia sun i go long Asa, sun bilong Elkana, ol i stap long vilij bilong Netofati.
+1CH 9:17 Ol i bin gardia bilong gat: Shallum, Akkub, Talmon, Ahiman, na ol wantok bilong ol. Shallum em i bikpela bos bilong ol;
+1CH 9:18 Em i bin stap bembe long plaits bilong gate bilong King long sait bilong east. Ol i bin kiapa bilong gate long hap bilong Levaita.
+1CH 9:19 Shalum sapan bilong Kore, sapan bilong Ebiasaph, sapan bilong Korah, na ol kinsman bilong em long clan bilong Korahites i kamapim wok bilong klem ol mak bilong Tent bilong Papa, olsem ol papa bilong ol i wok long kisim karem en long haus bilong Papa bilong olgeta.
+1CH 9:20 Long taim bipo Phinehas sut bilong Eleazar em i bin bos bilong ol man i lukaut gate, na LORD i stap wantaim em.
+1CH 9:21 Zekaria, pikinini bilong Mesilemia, em i bekim gate man long entris bilong Tent blong Miting.
+1CH 9:22 Ol i pikinim bilong kamap gatekipa long paus bilong haus em 212. Ol i skrivim nem na kona long famili stori long viles ol i stap. Davide na Samuel man bilong si i appointim ol long wok bilong trast.
+1CH 9:23 Olsem na ol desenden ol i go long ol, yu mas paitim gate bilong haus bilong LORD - haus we ol i kolim Haus bilong Ten.
+1CH 9:24 Ol gatman i stap yet long ol four sait: solwara, san, nort, na saut.
+1CH 9:25 Wantoks bilong ol i kam long ples bilong ol long taim tasol, oli wok wantaim ol long wik saisen de.
+1CH 9:26 Buat ol fou hed gatpisa, ol Levait, ol i kisim trast long rum na haus bilong mani long haus bilong God.
+1CH 9:27 Ol i spen nait klostu long haus bilong God, wantaim ol i gat respon long wapim em, na ol i opim em bembe long moning.
+1CH 9:28 Ol i stap long hap bilong samting bilong wosip, ol i usim long kaunim, wanem samting bilong wosip ibin bringim i kam o ibin kisim i go.
+1CH 9:29 Ol i kamap long leda long ol samting bilong haus lotu na narapela samting, olsem flour gutpela, wain, oil, masalai, na spais.
+1CH 9:30 Na sampela pikinini bilong pastors i mixim smel.
+1CH 9:31 Wanpela man Levait i go bikim nem bilong em Mattithiah, em i pikinini namba wan bilong Shallum Korahit, na em i kisim wok long mekim bret.
+1CH 9:32 Nambis ol brata bilong Kohat long ol i save mekim rot bilong bred bilong sho long everi Sabat.
+1CH 9:33 Ol i bin pila musik, ol bikpela hed bilong famili Levai, ol i stap insait long rum bilong tempel na ol i fri long wok narak, bilong ol i bin wok long dei na nait.
+1CH 9:34 Olgeta dispela i bikman long famili bilong Levit, ol i bikman long stori bilong ol tumbuna, na ol i stap long Jerusalem.
+1CH 9:35 Jeiel papa bilong Gibeon i stap long Gibeon. Meri bilong em, nem bilong em Maacah.
+1CH 9:36 Abdon em i pikinini namba wan bilong en, na bihain ol i go, Zur, Kish, Baal, Ner, Nadab.
+1CH 9:37 Gedor, Aio, Secharia, na Miklos.
+1CH 9:38 Mikloth em papa bilong Shimeam. Ol i stap wantaim ol famili bilong ol long Jerusalem.
+1CH 9:39 Ner em papa bilong Kish, Kish em papa bilong Saul, na Saul em papa bilong Jonathan, Malchishua, Abinadab, na Esh-baal.
+1CH 9:40 Susa bilong Jonatan: Merib-baal, em i papa bilong Mikah.
+1CH 9:41 Ol pikinini bilong Mika: Piton, Melek, Tahrea, na Ahaz.
+1CH 9:42 Ahaz i papa bilong Jarah; Jarah i papa bilong Alemeth, Azmaveth, na Zimri; na Zimri i papa bilong Moza.
+1CH 9:43 Moza em papa bilong Binea. Rephaiah em pikinini bilong em, Elasah em pikinini bilong em, na Azel em pikinini bilong em.
+1CH 9:44 Na Azel i gat sikis pikinini, na dispela em nam bilong ol: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, na Hanan. Dispela i pikinini bilong Azel.
+1CH 10:1 Nau Filistia i go antap long Israel, na ol man bilong Israel i ranawe bikos bilong ol, na planti i pundaikai pinis long Maunt Gilboa.
+1CH 10:2 Filistia i go beklong ol longtaim Saul na ol pikinini bilong em, na ol i kilim Jonathan, Abinadab, na Malchishua, ol pikinini bilong Saul.
+1CH 10:3 Taim bilong fait i kam strong long Saul, asa archa i go pasim em na i givim em suk.
+1CH 10:4 Na Saul i tok long yuwara bilong en, "Kam bek long suw na katim mi, o ol man ol i no katim skin bilong ol bai kam na painim mi!" Be yuwara bilong en i bin poret na i no laik mekim. Na Saul i kisim suw bilong en na i pakim long en.
+1CH 10:5 Taim harenta bilong em i si olsem Saul i dai pinis, na em tu i kilim yet long sop bilong em, na em i dai.
+1CH 10:6 Na Saul i dai pinis wantaim long ol samting tresen na pikinini bilong em, olgeta long hap bilong en.
+1CH 10:7 Wanpela taim ol Israelait i lukim long vali, ol i si army i ranawe, na Saul na ol pikinini bilong em i dai pinis, ol i lusim ol taun bilong ol na ronewe. Na Filistia i kam na tekeva ol taun bilong ol.
+1CH 10:8 Bai nau long de, taim Philistia i kam na rausim ol bodi i dai pinis, ol i lukim Saul na ol pikinini bilong em i pundaun long Maunt Gilboa.
+1CH 10:9 Ol i bin kirapim Saul, ol i bin katim hed bilong en, ol i bin kisim armor bilong en, na ol i bin sendim messenga long ol ples bilong Filistia oli autim stori inside haus bilong spirit ol i bilipim na long ol pipel.
+1CH 10:10 Ol i putim armor bilong en i go insait long haus lotu bilong ol debdeb bilong ol, na ol i kisim hed bilong en i hangim i go daun insait long haus lotu bilong Dagon.
+1CH 10:11 Taim ol pipol bilong Jabesh-Gilead harim olsem Philistia i mekim long Saul,
+1CH 10:12 Ol man bilong strong igo na kisim bek ol bodi bilong Saul na ol pikinini bilong en, na bringim ol i go long Jabesh. Na ol planti bon bilong ol long diwai bilong strong long Jabesh, na ol fasting seven de.
+1CH 10:13 Saul i dai pinis long olgetting bilong en klostu long Jehovah, bekos em i no bihainim ol wod bilong Jehovah, na em i go bekim tok long meri bilong spirit bilong dei.
+1CH 10:14 Na em i no askim Bikpela, Papa bilong olgeta, long dispela ting. Olsem Bikpela i kilim em, na givim ples bilong king i go long David, Pikinini bilong Jesee, man bilong God.
+1CH 11:1 Ol Isrel i kam tugeta long Daved long Hebon na ol i tok, “Mipela i kam, blut na bodi bilong yu yet.”
+1CH 11:2 Even long taim bipo wail em Saul i bin king, yu bin bringim Israel i go na kam bek gen. Na LORD, Bikpela God bilong yu, tok olsem, ‘Yu yet kam shepherdim piple bilong yu Israel, na yu yet kam bosim ol long taim.’”
+1CH 11:3 Olgeta bikpela man bilong Israel i kam bek long king long Hebron, na David i mekim pinis wok bilong agrikmen wantaim ol long ai bilong LORD. Na ol i givim em olio, na mekim em king bilong Israel, olsem LORD i tok tru long mul bilong Samuel.
+1CH 11:4 Daud na ol Israel i go bek long Yerusalem, em i Yebus, wampela hap ol Yebusi i stap long en.
+1CH 11:5 Ol pipol bilong Jebus i tokim Davide, "Yu no inap go insait long hap." Tasol, Davide i kamapim forteks bilong Saion, em i Siti bilong Davide.
+1CH 11:6 Daavid i tok olsem, “Husat i go nau long paitim Jebusi, em bai kamap komanda bikman.” Na Joab, pikinini bilong Zeruiah, i go antap rast, na em i kamap komanda bikman.
+1CH 11:7 Na Davide i go stap long diki bubung; olsem na em i kolim Siti bilong Davide.
+1CH 11:8 Em wokim i go apo long siti, stat long terris i stap suportim olgeta na rait long banis wall, wail Joab i bringim bek gen ol narapela hap bilong siti.
+1CH 11:9 Na Daud i kamap bikpela moa yet, Bikpela Masalai bilong ol ples i stap wantaim em.
+1CH 11:10 Nau dispela i ol bif ples bilong ol strongpela man bilong David, ol i stap wantaim ol Israel, na ol i kirapim na ol i strongim kingdom bilong en, olsem ol wod bilong LORD long Israel.
+1CH 11:11 Dispela em i lis bilong strongpela man bilong Dauid: Jashobeam son bilong Hachmoni em i bos bilong ofisa; em i usim spia bilong en i go long tri hundred man, olsem em i kilim ol wanpela taim.
+1CH 11:12 Nambawan long komanda em i Eleazar, pikinini bilong Dodo Ahohite, wanpela i go long ol thri man bilong pawa.
+1CH 11:13 Em i stap wantaim Dauid long Pas-dammim, taim Filistia i kam yumi i go aut long ples ia long harim bikpela. Long ples we i gat graun i fulap long bari, soljaman i ranawe long Filistia.
+1CH 11:14 Na Eleaza na Davide ol i stap yet long mit blo ples, ol i bin defendim em. Ol i bin kilim daun Filistia, na Bikpela i bin bringim bikpela win.
+1CH 11:15 Tri bilong ol bikpela man 30 i go daun long David, long rok bilong gua Adullam, wail grup bilong Filisti na katim kam long Vali bilong Rephaim.
+1CH 11:16 Long dispela taim Dauid i stap long ples strongim, na grup bilong Philistine i stap long Betlehem.
+1CH 11:17 Daud i laikim strong wara na tok, "O, mipela i ken kisim wara long wel besain gat bilong Betlehem, bai mipela i givim mi drink!"
+1CH 11:18 Ol i go antap long ka pilistain, ol drawim wara long wel bung bilong Bethlehem gate, na bringim i bek long Davidson. Tasol em i refus long drinkim; insed, em pilim wara i go antap long LORD, olsem wok bilong lotu na sakrifis.
+1CH 11:19 Nogat long mi, God bilong mi, long me dringim blod bilong ol man ya! Ol i bringim em long risk bilong laip, ol putim laip bilong ol long risk. David i refus long dringim, bikos ol i kamap long ol putim laip bilong ol long risk. Em ol nem bilong tripela strongpela man, na dispela i stap olsem stori bilong ol.
+1CH 11:20 Nau Abishai, brata bilong Joab, em i bikpela long Ol Tri, na em i kisim spia bilong en na ibin liftim i go long tri hanred man, na i kilim ol, na ol i save nem bilong en toktok wantaim long Ol Tri.
+1CH 11:21 Em i gat dupela hanor long en long hap bilong ol Tri, na em i kamap komanda bilong ol, tasol em i no inkludim long ol Tri.
+1CH 11:22 Na Benaiah sussa bilong Jehoiada em i man strong na gutpela, em i man olsem bilong planti wok strong, na em i kilim tu paitman bilong Moab. Em i go daun insait hole long de bile igo daun na kilim lion.
+1CH 11:23 Na em i kilim wanpela Egyptian, man bilong bikpela sampela, ai five kubiti long. Egyptian i gat spia olsem bem bilong wuver long han bilong em, tasol Benaiah i go bekim em wantaim klub, i pikim spia bilong em na kisim long han bilong em, na i kilim Egyptian wantaim spia bilong em yet.
+1CH 11:24 Dispela i bikpela wok bilong Benaiah, pikinini bilong Jehoiada, em i gat nem wantaim tripela man strong.
+1CH 11:25 Em i man bilong het long ol Teti, tasol em i no kamap wanpela long ol Tripol. Na Daud i apoinim em long gavman bilong en.
+1CH 11:26 Nau ol i go na ol man bilong pawa: Asahel brata bilong Joab, Elhanan pikinini bilong Dodo bilong Betlehem.
+1CH 11:27 Shammoth man bilong Haror, Helez man bilong Pelon,
+1CH 11:28 Ira sussa bilong Ikkesh, man bilong Tekoa, Abiezer man bilong Anathoth,
+1CH 11:29 Sibbekai man Hushati, Ilai man Ahoiti,
+1CH 11:30 Maharai bilong Netofa, Heled Pikinini bilong Baanah bilong Netofa
+1CH 11:31 Ithai man bilong Ribai long hap bilong Gibea bilong Benjamait, Benaiah man bilong Piraton
+1CH 11:32 Hurai long raon bilong Gaash, Abiel man bilong Arbathite,
+1CH 11:33 Azmaveth man bilong Baharum, Eliahba man bilong Shaalbon,
+1CH 11:34 Ol pikinini bilong Hashem man Gizonite, Jonathan pikinini bilong Shagee man Hararite,
+1CH 11:35 Ahiam pikinini bilong Sachar man Harari, Eliphal pikinini bilong Ur
+1CH 11:36 Hepfa man bilong Mecherat, Ahija man bilong Pelon,
+1CH 11:37 Hezro bilong Kamelita, Naarai sussa bilong Ezbai,
+1CH 11:38 Joel brata bilong Nathan, Mibhar pikinini bilong Hagri,
+1CH 11:39 Zelek bilong Ol Ammon, Naharai bilong Ol Beeroth, man i kisim skitu bilong Joab, Pikinini bilong Zeruiah,
+1CH 11:40 Aira man Ithrait, Gareb man Ithrait,
+1CH 11:41 Uria bilong Hiti, Zabad su bilong Ahlai
+1CH 11:42 Adina pikinini bilong Shiza Rubenaiti, bikpela leda bilong ol Rubenaiti, na ol thirty i kam wantaim em,
+1CH 11:43 Hanan pikinini bilong Maacah, Joshaphat man Mithnite
+1CH 11:44 Uzia man bilong Ashterati, Sama na Jeiel ol pikinini bilong Hotam man bilong Aroeri,
+1CH 11:45 Jediael pikinini bilong Shimri na brata bilong em Joha man Tizite,
+1CH 11:46 Eliel bilong Ol Mahavite, Jeribai na Joshaviah, ol pikinini bilong Elnaam, Ithmah bilong Ol Moab
+1CH 11:47 Eliel, Obed na Jaasiel man bilong Mezoba.
+1CH 12:1 Nau ol man i go kam long David long Ziklag, wail em i stap yet long ples banis long wei bilong presens bilong Saul pikinini bilong Kish, na ol i stap long ol man strong i helpim em long fight.
+1CH 12:2 Ol banarang man i save sutim banarang, na ol i usim han dirait na han kisim tu, ol i sutim ston na ol i puskat banarang; na ol i wantok bilong Saul, ol i kam long ol pipol bilong tribe Benjamin.
+1CH 12:3 Ahiezer em i bikpela man, na Joash, ol i pikinini bilong Shemaah man Gibeat; Jeziel na Pelet, ol i pikinini bilong Azmaveth; Beracah; Jehu man Anathot;
+1CH 12:4 Ishmaiah bilong Gibeon, em i man strong tumas, wanpela long Ol Thirty, na em i bic head bilong Ol Thirty; Jeremiah, Jahaziel, Johanan, na Jozabad bilong Gederath;
+1CH 12:5 Eluzai, Jerimot, Bealia, Shemaria, na Shefatia Haruphiti;
+1CH 12:6 Elkanah, Ishaya, Azarel, Joezer, na Jashobeam, ol i bikpela man bilong Korahait;
+1CH 12:7 Na Joelah na Zebadia, ol pikinini bilong Jeroham long Gedor.
+1CH 12:8 Ol Gadits i go bek long David long ples strong bilong en long bus. Ol man strong na gutpela, ol i trai long fait, na ol i save usim skild na spia. Olgeta pes bilong ol i olsem pes bilong lion, na ol i faast olsem gazel long maunten.
+1CH 12:9 Ezer bikpela, Obadiah i kam bihain long em, Eliab i kam namba tri.
+1CH 12:10 Mishmannah namba foa, Jeremia namba fai,
+1CH 12:11 Attai em i go sipis, Eliel em i go sevén
+1CH 12:12 Johanan namba et, Elzabad namba nain,
+1CH 12:13 Jeremia i kam da namba ten, na Makabena i kam da namba eleven.
+1CH 12:14 Ol Gaditi em i bikpela komanda long ples bilong army, na liklik man tasol em i ken fight gen hundred, na bikpela man em i ken fight gen thousand.
+1CH 12:15 Ol i go pas long Jordan long mun tasol, wanem taim em i kamap strong tru na i spillim ovasa olgeta bank bilong wara, na ol i ranawe ol pipel long vali, long east na west.
+1CH 12:16 Ol narapela Benjamini na ol man pipel long Judah i kam kus ol David long ples strong bilong en.
+1CH 12:17 Na Davit i go bek gen long mipela, olsem: "Yu kam long me na mipela i stap long pisin, bai helpim mi, haret bilong mi bai i stap wantaim yu; be yu kam long betrayim mi long enemy bilong mi, wankain han bilong mipela i free long strong, God bilong tumbuna bilong yumi em i lukim na jijim yu."
+1CH 12:18 Na Spirit i kam ana long Amasai, bikpela bilong ol Teti, na em i tok: “Yumi stap wantaim yu, O Davide! Yumi stap wantaim yu, O Pikinini bilong Jesse! Pece, pece long yu, na pece long ol i helpim yu, bikos Bikpela i helpim yu.” Na Davide i kisim ol na wokim ol i stap long hap bilong ol kapten bilong army.
+1CH 12:19 Ol manmeri long Manasi i go bek long Daved wanpela taim em i go wantaim Filistia na fight gen Saul. (Ol i no helpim Filistia bikos pitoa bilong ol Filistia i tokpeek na rausim Daved, ol i tok, "em bai kosim hed bilong yumi if em i go bek long bos bilong em Saul.")
+1CH 12:20 Taim Dauid i go long Ziklag, ol man meri husat i bilong Manase, ol i bin lusim na joiim em: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, na Zillethai, bikpela chiefs bilong tausen long Manase.
+1CH 12:21 Ol i helpim David gen raider, bikos ol i stret ol man nau, strong na gutpela, na ol i kapten long ples bilong armi.
+1CH 12:22 Long dispela taim, ol man i kam long David dei bihain dei i go halivim em, na em i gat planti solja olsem solja bilong God.
+1CH 12:23 Nau ol dispela man i go wail long pait, ol i kam klostu long Dauid long Hebron, na ol i mekim kingdom bilong Saul i kam bek long em, olgeda samting i go wel long tok bilong LORD:
+1CH 12:24 Long hap bilong Yuda: 6,800 solja i gat wapen, bek na spia.
+1CH 12:25 Long Saimon: ol man strongpela i gat kuraj, 7,100, ol i redi long faet.
+1CH 12:26 Long hap bilong Lebi: Fopora thousand sikis hundred
+1CH 12:27 Inklusiv Jehoiada, bikman bilong haus bilong Aron, wantaim 3,700 man,
+1CH 12:28 Na Zadok, wanpela strongpela yongman bilong kamap strong, wantaim 22 bikpela leda nau bilong em famili.
+1CH 12:29 Long hap bilong Benjamin, ol brata na susa bilong Saul, 3000, ol i stap yet namel long haus bilong Saul inap long taim bilong em.
+1CH 12:30 Long hap bilong Efrem: 20,800 man i gat strong na kuraj, ol i famus long ples bilong ol yet.
+1CH 12:31 Long hap-tribe bilong Manase, 18,000 i kam anketa long nem tasol, ol i kam bekim Dauid king.
+1CH 12:32 Long Isaka, ol man i save tok nimu long taim na ol i save tok long wei Israel mas mekim: 200 biceman wantaim ol brata bilong ol, i kamdaun olsem.
+1CH 12:33 Long Zebulun, fifty thousand i kamap strong long servis, ol i train long fait wantaim ol kain kain wep na armas bilong faight, na ol i birua wantaim wan porpose long David.
+1CH 12:34 Long hap bilong Naftali, i kam wantaim thousand (1,000) ofisa komanda, skild na spia i go wantaim ol, 37,000 man.
+1CH 12:35 Long Dan: 28,600 i redi long pait.
+1CH 12:36 Long hap bilong Asa: 40,000 i kamap strong long sarvis, ol i redi long fait.
+1CH 12:37 Na long eastern sait bilong Jordan, ol Reuben, Gad, na hap-tribe bilong Manasseh, 120,000 i kamapim na ol i gat wel olgeta kain weapon bilong tait.
+1CH 12:38 Ol man i go long war, ol i redi long fait, ol i kam long Hebron, na ol i desis strong long mekim David king bilong Israel. Na ol Israel olketa i wan mangana long mekim David king bilong ol.
+1CH 12:39 Ol i spen tripela de na wel, na ol i kaikai na dring wantsail long David, bikos ol famili bilong ol i tokaut moni bilong ol.
+1CH 12:40 Na ol nabarna i kam longwe olsem Isaka, Sebulon, na Naphtali, ol i bringim ka long donki, kemel, mol, na okson – planti ka flauer, keik figa na keik reisin, wain na oil, okson na sheep. Ol i gat hamamas long Israel.
+1CH 13:1 Na David i tokautim wantaim ol lida bilong en, ol kapten bilong hundred na bilong thousand.
+1CH 13:2 Na em i tokim assembli bilong Israel, "I luk gut long yu, na em i bilong LORD God bilong yumi, mipela salim wod long ol ples, long ol brata bilong mipela i stap long ol hap bilong kantri Israel, na pris na Levait long ol taun na graun bilong ol, ili ol i kam jionim mipela.
+1CH 13:3 Mipela bai bringim bek bokis bilong God bilong mipela, long bikos mipela i no askim em long taim bilong Saul.
+1CH 13:4 Na bikos dispela tok em i luk olsem em i rit long ol pipel, assembli bilong ol pipel i givim tokaut i wanbel long en.
+1CH 13:5 Na Davidson em i kam kanu long olgeta Israel, stat long River Shihor long Egypt na go long Lebo-hamath, long bringim bikos bilong God from Kiriath-jearim.
+1CH 13:6 Daavid na olgeta Israel i go ap long Baalah bilong Yuda, em i Kiriath-jearim, i kam bek long bringim ark bilong GOD we em i sibob long cherubim, em i ark bilong GOD we ol man i kolim long nem bilong Em.
+1CH 13:7 Ol i kisim bek bilong God na ol i karim i go long kar bilong nupela, statim long haus bilong Abinadab, na Uza na Ahio i laitim kar.
+1CH 13:8 Daavid na ol Pipol Israel ol i selebre bifor God wantaim olgeta strong bilong ol, ol i sing na usim hap, laip, tamberin, simbal, na trampet.
+1CH 13:9 Tupela i kam long ples bilong kilim graas bilong Saidon, Uza em i stretim han na kisim bokis bilong Gad, bikos ol bulmakau i slip.
+1CH 13:10 Na anga bilong Jehovah i biruai long Uza, na i kilim em bikos em i putim han bilong en long bokis bilong bondari. Na em i dai pinis klostu long ai bilong God.
+1CH 13:11 Na Daudi i masal ai bikos LORD i kirap strong against Uza, na em i givim nem bilong hap ples ya we ol i kolim Perez-Uza, stap yet namba.
+1CH 13:12 Long dispela de David i bikim frik long God na em tanim askim, "Mipela inap kam bekim bilum bilong God long me olgeta?"
+1CH 13:13 Em i no mosim ark wantaim em i go long Siti bilong David, tasol em i kisim i go klostu long haus bilong Obed-edom Gittite.
+1CH 13:14 Na Bokis Bilong God i stap wantaim famili bilong Obed-edom long haus bilong en tri mun, na LORD i givim blesing long husat i bilong en na evri samting i bin belonget long en.
+1CH 14:1 Nau Hiram king bilong Tairo sendim mesijen i go long David, wantaim timber bilong seda, wokman bilong ston, na karpenta, ol i mekim haus bikpela long en.
+1CH 14:2 Na David i save olsem LORD i makim em king bilong Israel, na i lifim aup kingdom bilong em longpela, bilong mekim gudpela nem bilong em, long stap bilong piple Israel.
+1CH 14:3 Na Davide i kisim meri plenti long Jerusalem, na i kamap papa bilong plenti pikinini man na pikinini meri.
+1CH 14:4 Dispela nem bilong pikinini i kamap long em i stap long Jerusalem: Shamuwa, Shobab, Natan, Solomon.
+1CH 14:5 Aibara, Erisua, Elpet,
+1CH 14:6 Nogah, Nefek, Jafia,
+1CH 14:7 Elishama, Beeliada, na Eliphelet.
+1CH 14:8 Taim Philistia harim tok long Daud, ol i go lukim em; Daud i save long dispela, na em i go bekim ol.
+1CH 14:9 Nau Filistia i kam, na ol i save raun long Valeli bilong Rephaim.
+1CH 14:10 Na Dafid i askim God olsem, "Mi bai go apo long Filistia? Yu bai givim ol i go long mi?" "Go," LORD i tok olsem, "tasol mi bai givim ol i go long yu."
+1CH 14:11 Na Daud na ol man bilong em i go antap long Baal-perazim, na em i winim Filipin olgets, na em i tok, "Olsem wara i kam antap strong, God i kamaut strong long enemy bilong me long han bilong mi." Na hivina ol i kallim ples ia Baal-perazim.
+1CH 14:12 Long hap em, Filistia i lusim olem god bilong ol, na Daud i tokim ol man i kisim na kaikai long paia.
+1CH 14:13 Genaga yet Filistia i kam raunim laurabada.
+1CH 14:14 Na Daved i tok save gen long God, na God i bek gen long em, "Yu no ken go behaind ol, tasol yu wokabaut ol i go raun ol, na kilim ol long fron bilong diwai balsam.
+1CH 14:15 Olsem yu harim soun bilong i go wanwan long tup bilong diwai balsem, yu go long pati bikos God i go bifo yu ol na kamelim ka long ples bilong Filisitia.
+1CH 14:16 Na Daved i mekim olsem God i bin tokim, na ol i kilim sampela solja bilong Filistia, stat long Gibeon kaensel long Geza.
+1CH 14:17 Na fem bilong David i go aut long olgeta graun, na LORD i mekim ol ples i bikimais long em.
+1CH 15:1 Dauid i bikim haus bilong en i go olsem na em i prepa ples bilong ark bilong God long Siti bilong Davit, na em i putim tent bilong ark bilong God.
+1CH 15:2 Na David i tok olsem, "Nogat wanpela man i ken karim bokis bilong GOD, tasol Levaita inap karim, bikos GOD i chusim ol long karim bokis bilong em, na servis bihain long em foreva."
+1CH 15:3 Na Daved i bikim olgeta Israel i kam bihain long Jerusalem, ili karim ark bilong Lod i go antap long ples we em i prepa.
+1CH 15:4 Na em i kam na igatim ol desenden bilong Aron na ol Levai:
+1CH 15:5 Long ol ples bilong Kohathi, Uriel em i bikpela man, na 120 long ol brata na susa bilong em.
+1CH 15:6 Long ol Merarait, Asaiah bikpela man, na 220 blong brata na susa bilong em;
+1CH 15:7 Long ol Gershomaites, Joel bikpela man na 130 blong brata na susa bilong em;
+1CH 15:8 Long ol Elizafanait, Semaia bikpela man na 200 long famili bilong em;
+1CH 15:9 Long ol Hebronit, Eliel bikpela na 80 bilong brata na susa i kam.
+1CH 15:10 Na long ol Uzzielit pipol, Amminadab bikpela man, wantaim 112 blo brata na susa bilong em.
+1CH 15:11 Daavid i kam bekim pries Zadok na Abiatar na Levait Uriel, Asaiah, Joel, Shemaiah, Eliel, na Amminadab.
+1CH 15:12 Na em i tokim ol long stret, "Yu olgeta i stap long hevi bilong famili Levai. Yu na brata bilong yu mas puripim yuself, nau yu ken kisim bek bilong Lod, God bilong Israel, i go long ples we mi prepareim i stap."
+1CH 15:13 Em i bikos yu Levit i no stap wantaim mipela long taim past, nau Papa God i kirap strong long bel na i bekim mipela. Bikos mipela i no konsalt em long wok bilong kastom.
+1CH 15:14 Na ol priist na Levait i stap strong long Spirit, ol i kamapim yet long karim i go antap Ark bilong LORD, God bilong Israel.
+1CH 15:15 Na Ol Levait i kisim bek arka bilong God long ol ska bilong ol, wantaim na rop bilong karim em, olsem Mosis i givim tok strongim tok bilong LORD.
+1CH 15:16 Daud i tokim ol bikpela man Levai long appointim brata na kusin bilong ol olsem singinga, kirapim voys bilong ol long hap, laip, na simbal, wantaim instrument musik, long singautim voz bilong ol wantaim hamonika.
+1CH 15:17 Ol Levit i kamapim Heman man bilong Joel; long brata bilong em, Asaph man bilong Berechiah; long brata bilong ol Merari, Ethan man bilong Kushaiah;
+1CH 15:18 Na wantaim ol brata bilong ol i kam bihain long renk: Sekaria, Jaasiel, Semiramot, Jehiel, Uni, Eliab, Benaia, Maasia, Matitia, Elifelehu, Mikneia, na ol wokman bilong gat Obed-Edom na Jeiel.
+1CH 15:19 Ol musishian Heman, Asaph, na Ethan igo, ol i mas skulim simbal long bronz.
+1CH 15:20 Zekaria, Aziel, Semiramot, Jehiel, Unni, Eliab, Maasia, na Benaia ol i save playa hap long stap bilong Alamot.
+1CH 15:21 Na Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, na Azaziah i save lidim song bilong musik wantaim pilip bilong singsing olsem Sheminith i tok.
+1CH 15:22 Chenaniah hap boss bilong Levait, em i bikpela man i save diriectim singsing, wantaim em i gat saves bilong singsing i go het.
+1CH 15:23 Berekiya na Elkana i go ken olsem kipman bilong arka.
+1CH 15:24 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, na Eliezer—ol pris—i go blohim trampet bifor ark bilong God. Obed-edom na Jehiah tu i kam lukautim ark.
+1CH 15:25 Dauid, oda bilong Israel, na bikpela bos bilong tausend i go wailis long hapines long kisim bek bilong kaen agriement bilong LORD from haus bilong Obed-Edom.
+1CH 15:26 Na bikos God i helpim Levit ol i karim bokis bilong kaen covenant bilong LORD, ol i kilim sewn bulmakau na sewn ram.
+1CH 15:27 Nau Daud i kaikai klia long "linen namba wan", olsem na ol "Levai" husat i karim ark, na ol singaut, na Chenaniah, man i save dirisa musik bilong ol singaut. Daud i kaikai "epod linen" tu.
+1CH 15:28 Ol Israel i bringim bek i go ap ark bilong kaen kot bilong LORD wantaim sangsing, wantaim sauninim bilong ram na trambol, na wantaim simbal na muvik bilong hap na lair.
+1CH 15:29 Wanpela taim bokis bilong kaunsil bilong LORD i go insait long taun bilong David, Michal, gel bilong Saul, i lukim daun from windo, na i lukim King David i dansi na halivim, na em i biruaim em long hap bilong en.
+1CH 16:1 Ol i kisim bek bilong God na ol i karim i go insait long haus tambu we David i wokim. Na ol i givim ofing bung wantaim ofing peis bifo God.
+1CH 16:2 Olsem em i pinis long sakrifais ofa bilong bakim na peis ofing, em i givim bekim long ol pipol long nem bilong LORD.
+1CH 16:3 Em i givim long ol man na meri bilong Israel, ol i kamap long bau bilong bret, kek bilong det, na kek bilong reisin.
+1CH 16:4 Daudi i kam long apoinim Levai olsem minista bilong lotu i go sarve bifoa ark bilong LORD, long celabret, long givim sankyu, na long pris long LORD, God bilong Israel.
+1CH 16:5 Asaph em i bikpela, Zechariah em i namba tu, olsem na Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, na Jeiel. Ol i mas pilai harps na lyres long taim bilong lotu, tasol Asaph em i kilim simbal.
+1CH 16:6 Na pris Benaiah na Jahaziel i blowim trambol olsem taim bilong ol bifo ark bilong kovenan bilong God.
+1CH 16:7 Long dispela de Daud bungim long Asap na brata bilong en i givim dispela sang bilong hamamas long Papa God:
+1CH 16:8 Givim sanksem long LORD; kisim nem bilong Em i go; tusim ol samting em i mekim long ol narapela kantri.
+1CH 16:9 Singim sang bilong preis long em, singim sang long em; tok aut long olgeta wondas bilong em.
+1CH 16:10 Praise long long bilong Nem Holy bilong Em; hart bilong ol man i go hap long soim LORD.
+1CH 16:11 Sukim ap long LORD na strong bilong em; olsem yu sukim pes bilong em oltaim.
+1CH 16:12 Rimemba ol samting nogut na ol samting bikpela i bin mekim, ol samting em i tru, na ol jugment i bin givim.
+1CH 16:13 O pikinini bilong servant belong Him Israel, o soks bilong Jakob, ol pipol we Hem i pikinim.
+1CH 16:14 Em i Lord God bilong yumi; jujement bilong em i go ol abaot long graun.
+1CH 16:15 Rimemba covenant bilong em oltaim, wod bilong en i givim planti long tausend generesen.
+1CH 16:16 Ilipin em i mekim wantaim Abraham, na oth em i givim long Isaac.
+1CH 16:17 Em i konfirmim olsem wanpela laen long Jacob, long Israel olsem wanpela kovenan we i no pinis.
+1CH 16:18 Mi bai givim yu làn bilòng Kanaan olsem porojon bilòng inhitanens bilòng yu.
+1CH 16:19 Taim ol i stap liklik tasol, liklik tru ol i stap, na ol i stap olsem man bus long kantri.
+1CH 16:20 Ol i wail long ol narapela kantri, na ol i go long wan kingdm ikam long narapela kingdm.
+1CH 16:21 Em i no lusim man i bagarapim ol; Em i strongim bic man long moninga bilong ol:
+1CH 16:22 Yu no ken tikim ol man meri we Yumi bin anointim! Yu no ken givim kros long profet bilong Mipela!
+1CH 16:23 Singim song long Jehovah, olgeta graun. Presem save blong em dei bihain dei.
+1CH 16:24 Kisim na tokim ol i go long hevi bilong Em, Ol samting nais em i mekim, long ol narapela kantri, long ol pipol olgeta.
+1CH 16:25 Bikpela i go longwe LORD, em i bikpela long praise; em i mas i save pipel wetim ol kina god igo.
+1CH 16:26 Ol god bilong ol nesen i ol samting we no save, tasol Bikpela LORD em i mekim heven.
+1CH 16:27 Glamour na powa i stap bifor im; strong na hamamas i fillim ples bilong en.
+1CH 16:28 O yutupela papa graun bilong olgeta nesen, givim glor na strong long LORD.
+1CH 16:29 Givim glory long namel bilong Lod; kisim ofing na kam bung long en. Wosipim Lod long bikpela holiness bilong en.
+1CH 16:30 Olgeta graun, kukim i dai bifo Em. Wol i stap strong, em ino inap birua.
+1CH 16:31 Heven i amamas, na graun i sangale. Ol pipol bai tok long kantri, ‘LORD em i bos!’
+1CH 16:32 Kisim solwara i singaut, na olgeta samting i stap inside, let gras bilong ples i amamas, na olgeta samting i stap long en.
+1CH 16:33 Diwai bilong bus i singim song bilong hamamas long Bikpela, wantaim em i kam long jajim graun.
+1CH 16:34 Givim sanksem long LORD, em i gutpela; lovinkari ba em i stap oltaim.
+1CH 16:35 Kirap strong, Bikpela God bilong savesen, kisim yumi na kam bek long yumi fromwe nen, dat yumi ken givim sankyu long nem bilong yu we i holy, dat yumi ken proud long tok ples bilong yu.
+1CH 16:36 Blesim i go long LORD, God bilong Israel, long taim bipo na long taim i kam. Na ol pipol i tok, “Amen!” na “Praisim LORD!”
+1CH 16:37 Na Dauid lftim Asaph na brata bilong em stap we bifoa ark bilong kaovenan bilong LORD, olsem wokim minista i stap long hap olsem we bilong de bek.
+1CH 16:38 Long ol Obed-edom na ol famili bilong em, ikamau 68 man. Obed-edom pikinini bilong Jeduthun, na Hosah, ol i mas skulim daon long lukautim gate.
+1CH 16:39 Na Davide lusim Zadok priast na ol priast arere bilong em stap bifor tabenakel bilong Lod long ples hait bilong Gibeon
+1CH 16:40 Oli mas presente sacrifice bai fafir long altan bilong sacrifice bai fafir, long moning na apinun, olsem olgeta samting i write long Lo bilong LORD, we em i bin givim instruction long Israel oli mas mekim.
+1CH 16:41 Wantaim ol i bin: Heman, Jeduthun, na ol arapela ol i bin chusim na tukim nem bilong ol yet long givim sankyu long LORD, bikos “lovingselo bilong em i stap foreva.”
+1CH 16:42 Heman na Jeduthun i bin stap wantaim ol trumpet na simbal long musik, na intrumens bilong sang bilong God. Na sipsip bilong Jeduthun i bin stap klostu long gate.
+1CH 16:43 Ol pipel i go daun nau long ples bilong ol, na David i kam bek long haus bilong en i givim blesing long hus hold bilong en.
+1CH 17:1 Long taim David i go insait long haus bilong em, em i tokim Nathan man bilong spikim wod bilong God, “Mi stap hir, mi stap insait long haus bik bilong timbir cedar, tasol bokis bilong kaovenant bilong Masalai i stap aninit long kanu.”
+1CH 17:2 Na Natani i tokim bek long Davide, “Wokim ol samting we i stap inside haret bilong yu, bikos Bikpela i stap wantaim yu.”
+1CH 17:3 Bai nait i go stap, tok bilong God i kam long Natan, olsem:
+1CH 17:4 Go na tokim wokman David dispela em i tok olsem: Yu no nem bilong mekim haus bilong me stap, dispela em i tok olsem, LORD bilong yumiyami i tok olsem.
+1CH 17:5 Mi no stap long haus from dei mi kisim Pipol Israel i kamap out long Egip until dispela de, but mi go long ol tent na long ol ples stap.
+1CH 17:6 Long olgeta ples we i go wantaim ol Pipol Israel, mi ever askim nakom bikman we mi apointrim long luka aut ol pipol bilong mi, ‘Why haven’t yu buildim mipela haus bilong seda?’
+1CH 17:7 Nau olsem, yu mas tokim servent bilong mi David dispela em i tok bilong LORD bilong ol ples i go: Mi bin karim yu long ples gras, long bihainim ol sheep, olsem yu inap bosim ol pipel bilong mi Israel.
+1CH 17:8 Mi bin go wantaim yu long olgeta hap yu go, na mi bin kilim ol eni bilong yu i go bifo yu. Nau mi bai mekim nem bilong yu olsem nem bilong ol bikpela man long kantri.
+1CH 17:9 Mi bai givim ples long Pipol bilong mi Israel, na bai plantim ol, ol bai stap long ples bilong ol yet, na inap no gat trabel moa. Pikinini bilong nogutpas bai bagarapim ol olsem oli bin mekim long taim bilong bipo.
+1CH 17:10 Na ol i mekim sinse long de mi bin appointim jujes olsem ombud long piple Israel bilong Mi. Na mi bai kamdaunim ol enemy bilong yu yet. Na mi yet tokim yu, LORD bai mekim haus bilong yu.
+1CH 17:11 Wën dei bilong yu kamap i go dae, na yu go klostu wantaim papamama bilong yu, mi bai kirapim wanpela pikinini bilong yu, husat i kam long gen bilong yu, na mi bai strongim kingdom bilong em.
+1CH 17:12 Em bai kirapimhaus bilong Mi, na Mi bai plantim trohn bilong en oltaim.
+1CH 17:13 Bai mi bai stap papa bilong em, na em bai stap pikinini bilong mi. Na mi no go inap tekewe givim em lav bilong mi long em olsem mi bin tekewe lav bilong mi long man bifo.
+1CH 17:14 Mipela bai putim em i go apo long Haus bilong mi na Kingdom bilong mi,-na tron bilong em bai strongim oltaim.
+1CH 17:15 Na Natan i tokim Daud olgeta wod bilong dispela bikpela sien.
+1CH 17:16 King Davi i go insait, i sindaun bifor LORD, na i tokim LORD, “Mi husat, oh LORD God, na husa bilong mi, dat yumu bringim mi kam long hap ini?
+1CH 17:17 Na olsem nau i pikinini tu long ai bilong yu, o God, Yu tok long abus bilong taim i kam bilong haus bilong servant blo yu, na yu lukim mi olsem man bilong bikpela namel, o Bikpela God.
+1CH 17:18 Dauid i mas tok hap, olsem na, long servim sampela man, long givim em respek? Wantaim yu save yu yet servant, Dauid, wokman bilong yu.
+1CH 17:19 Papa God, long servist bilong yu, olgeta long haret bilong yu yet, yu mekim dispela bikpela wok, na yu showim olgeta bikpela strong bilong yu.
+1CH 17:20 O Lo, nogat wan lain olsem yu, na nogat god bels long kantri aiggen bikos yu tasol i God, olgeta samting mipela harim wantaim yutupela ip bilong mipela.
+1CH 17:21 Na husat olsem piple Israel bilong yu - nesen wanpela long graun em God i go aut na redim olsem piple bilong en i kam? Yu mekim nem bilong yu i go pas long hevi na gret wondas, long dri Gim ol nesen aotside long piple bilong yu, ol i yu bin redim long Egip.
+1CH 17:22 Yu, LORDE, bin mekim piple Israel bilong yu olsem propa bilong yu foreva, na yu, LORDE, kamap na yu bicom God bilong ol.
+1CH 17:23 Na nau, O GOD, wod yu tokim long servant bilong yu, hambak na haus bilong en, i kamap strong oltaim. Wokim olsem yu promis.
+1CH 17:24 Na nem bilong yu bai i kamap strong na i go inap long taim olgeta, wannem oli tok, 'LORD bilong ol ples we i gat armi, God bilong Israel, em i God bilong Israel.' Na maus bilong servant yu David bai i stap i go bek long yu.
+1CH 17:25 Long yu, God bilong mipela, yu trai showim ol samting long servant bilong yu, olsem yu bai mekim haus bilong em, olsem haus bilong papa na ol descendants. Na em trai kisim hart long bihainim praer long yu.
+1CH 17:26 Na nau, o Lo, yu kam bek God! Yu promisim dispela gudpasin long servanu bilong yu.
+1CH 17:27 Nau Yu bin kamapim belsi long haus bilong wokman Yu, na em i go inap stap oltaim long moning bilong Yu. Bikos Yu, Papa, yu bin givim belsi, na em bai belsi oltaim.
+1CH 18:1 Olgeta taim igo pinis, Daudi winim Philistia, em bungim ol, na em kisim Gath na vilij long han bilong ol Philistia.
+1CH 18:2 Dauid winim Moabiti, na ol i kam daun na i go antap long en, na brinigim gif long em.
+1CH 18:3 Olsem long olsem Hamati, Davidsoni tu i winim King Hadadeza bilong Zoba, hu i go bek long setim pawa bilong em long song Euphrates.
+1CH 18:4 Daud i kisim bek gen: em i kisim wan tusen kar, seven tusen draiva bilong kar, na twenty tusen soldia i go long graun, na em i bugum olgeta hors, so na em i skelim hap hundred tasol, na em i usim ol long kar.
+1CH 18:5 Taim Aramen long Damaskas i kam halivim King Hadadezer long Zobah, Daud i kilim twenti-tu tusen man.
+1CH 18:6 Na em i putim solida grasim long Aram bilong Damaskas, na Arameans i bihainim David, na ol i bringim gif long em. Na LORD i givim win long David we ol i go.
+1CH 18:7 Na Daud i kisim skild bilong gol i go bilong ofisa bilong Hadadeza na i bringim i go long Yerusalem.
+1CH 18:8 Na long Tibhath na Cun, tauns bilong Hadadeza, Daudi i kisim planti brom, na we bilong Solomona i wokim Solwara Brom, pila, na sampela narapela samting bilong brom.
+1CH 18:9 Taim King Tou bilong Hamath harim olsem David winim pinis olgeta solja bilong Hadadezer king bilong Zobah,
+1CH 18:10 Em sendim pikinini bilong em, Hadoram, go bekim King Davide, na blessim em long pait na winim Hadadeza, ol i bin go long war wantaim Tou. Hadoram brings ol samting olsem kain bilong gold, silva, na bronze.
+1CH 18:11 Na King Davit i dediketim ol dispela silva na gołd long Jehovah, ol i kisim bek long olgeta nesen ol - Edom, Moab, Amonait, Filistia, na Amalekit.
+1CH 18:12 Na em i go yet, Abishai pikinini bilong Zeruiah i kilim eighteen thousand Pipol bilong Edom long Valley bilong Sol.
+1CH 18:13 Em putim solida mana long Edom, na olgeta Edomites i bin stap aninit long David. Na Sabaot i wokim David winim we bilong en i go.
+1CH 18:14 Na thus David i bos bilong yutupela Israel, na i givim justis na streitim ol samting gut long ol pipel bilong en.
+1CH 18:15 Joab pikinini bilong Zeruiah em i bin kapten long hap bilong army; Jehoshaphat pikinini bilong Ahilud em i bin man bilong skrivim stori;
+1CH 18:16 Zadok Pikinini bilong Ahitub na Ahimelech pikinini bilong Abiathar i bin pris; Shavsha em i bin skrivimana;
+1CH 18:17 Benaiah sambai bilong Jehoiada i bin bos long ol Cherethites na Pelethites; na sosol bilong David i bin bikpela ofisal long sait bilong king.
+1CH 19:1 Olgeta taim igo pinis, Nahash papa bilong kantri Ammonites i dai na i go bek, na pikinini bilong em i kam bihain long em.
+1CH 19:2 Na Daud i tok, "Mi bai mekim gutpela long Hanun sangelpela bilong Nahas, long ol i kam bek long papa bilong em, em trai mekim gutpela long mi." Na Daud i sendim misisini igo wokim toksaving long Papa bilong Hanun. Tasol wanpela taim wokman bilong Daud i go kasal long Amunait na wokim toksaving long en,
+1CH 19:3 Prinsis bilong Ammonait pipol i tokim Hanun, “Bikos Daudi i sendim man i kam givim yu ka, yu tinke em i mekim respek long papa bilong yu? Nogat, wokman bilong em i kam bekim yu long lukim gras bilong yumi, lukim i gut, na tata i go daun?”
+1CH 19:4 Na Hanun kisim servant bilong David, ol kisim razo katim barb bilong ol olsem sahin bilong shame, katim klot bilong ol long hip, na ol sendim ol i go.
+1CH 19:5 Wanpela i kam na toktok long David, em baim pesman igo mitim ol, ol i skulim pinis olgeta. King i tokim ol, “Bai yumi stap i go long Jeriko, na bifo yumi i kisim bek gras bilong yumi, na tainen yumi kam bek.”
+1CH 19:6 Taim Ammonait i save ol i kamapim stink long Davi, Hanun na Ammonait i sendim ain thousand talents silva bilong bipo long birua kareta na horsman long Aram-naharaim, Aram-maacah, na Zobah.
+1CH 19:7 Ol birua long ol yet, na ol i kisim 32,000 kar, na king bilong Maacah wantaim ol soza bilong en i kam na kamped namba Medeba, wail Ammonites i kam aut long ol ples bilong ol, na ol i go aut long faet.
+1CH 19:8 Long hem harim tok dispela, Daud i sendim Joab na ol solja bilong man ol i strong.
+1CH 19:9 Ammonites i go aut na ol i tanim yet long fait namba wan bung bilong siti, wail king na queen i kam stap wait long bus bilong gras bilong kantry.
+1CH 19:10 Taim Joab i lukim lain bilong fait bipo em na bihain em, em i piksim ol man nogut tru bilong Isrel na ol i sanap i go long Aramia.
+1CH 19:11 Na em putim narapela solja i go aninit long han bilong brata Abishai, we em i paitim ol i go kasal long Ammon.
+1CH 19:12 Sip Aramia ol i strong tumas long me, yu bai kam na halivim mi. Na sip Amonait ol i strong tumas long yu, mi bai kam na halivim yu.
+1CH 19:13 I stap strong na mipela faitim stout long ol pipol bilong yumi na long ples bilong lotu bilong yumi. Mai Bikpela wokim ol guten zing long ai bilong em.
+1CH 19:14 Na Joab wantaim soljas i go ap long fight Aramia, na Aramia i ranawe bekim em.
+1CH 19:15 Ol Ammoniti i lukim ol Aramia i ranawe, na ol tu i ranawe bifor Abisai, brata bilong Joab, na ol i go insait long siti. Na Joab i go bek gen long Jiusalema.
+1CH 19:16 Taim Arami pipo i lukim ol i bin kilim ol yet, ol i sendim man bung wantaim bilong bringim moa Arami pipo long bikos bilong Yufratis, wantaim na Shofak komanda bilong armi bilong Hadadeza i lidim ol.
+1CH 19:17 Taim ol i ripotim stori ia long Daud, na em yet i kamas bilong Isrel olgeta, em i go pas Jordan, em i go inap long Aramia, na ol i sanap strong long fait wantaim ol. Taim Daud i sanap strong long fait wantaim ol, ol i faitim em.
+1CH 19:18 Ol Aramen i ranawe long Israel, na Daudi i kilim seven thousand long ol draiva bilong chariot na forty thousand long ol soldia i go long graun. Na em i kilim Shophach tu, em i bigman bilong armi bilong ol.
+1CH 19:19 Taim ol i kam tokim olsem Hadadezer igat bikhet long ol, ol i wokim pis long Daavid na i bin go daun long en, ol Arameans nogat laik helpim Ammonits gen.
+1CH 20:1 Long taim spring i kam, taim ol kingly bung wantaim go aut long wok bilong war, Yoab i karim aut ol solja na ol i bagarapim kantri bilong Ammonit. Ol i go kas Rabbah na i kukim em, tasol Daudi i stap yet long Jerusalem. Na Yoab i atakim Rabbah na i daunim em.
+1CH 20:2 Na David i kisim krown na i putim long hed bilong en, em i kamap long wan talen bilong gol, na i kam long ston bilong valiu. Na David i kisim planti spoils bilong enimi long taun, na i bringim i go.
+1CH 20:3 Daud i kisim ol pipol i kam na givim wok long ol: ol i usim saksak, pik long airop, na akisi. Na Daud i wokim sampela olsem long ol taun bilong Ammon. Na bai Daud wantaim ol solja bilong en i go bek gen long Jerusalem.
+1CH 20:4 Olsem taim igo pinis, bikpela faet bilong war i kamap long Pilistia long Geza. Long hap tam, Sibbekai Husati i kilim Sipai, wanpela descendent bilong Refaim, na Pilistia oli bin dai, oli no ina save harim tok.
+1CH 20:5 Gen tu, gen wanpela pait i kam long ol Filistia, na Elhanan, pikinini bilong Jair, i kilim Lahmi, brata bilong Goliath, man bilong Gat, na hambak bilong spear blong em olsem hambak bilong wumana weaver.
+1CH 20:6 Na i gat narapela gen bikpela fait long Gat, na i gat man bilong hevi namel, em i gat sikis finga long ol han bilong en, na sikis toe long ol lek bilong en - olgeta twenty-four. Em tu i kam bek long Rapha, ol i bilong hevi namel.
+1CH 20:7 Na wán em i laikim ol i Angell long Isrel, Jonatan pikinini bilong brata bilong Davide Shimei i kilim em.
+1CH 20:8 Ol desenden bilong Rafa long Gat ol i pundaun pinis long han bilong Daved na wokmanmeri bilong em.
+1CH 21:1 Na Satana i kamap bek gen long Israel na i provokim Davide long kisim namba bilong ol pipol long Israel.
+1CH 21:2 Na Davide i tok olsem long Joab na komanda bilong soljia, “Go na kauntim ol Israelites long Beersheba go long Dan, kisim ripot na bringim i kam long me, bilong me save namba blong ol.”
+1CH 21:3 Mipela i harim Lord bai kamapim planti ol soldiers bilong en hundred taim moa. Papa bilong yu king, ol i no ol wokman bilong papa bilong yu tasol? Bilong wanem papa bilong yu laik mekim dispela? Bilong wanem em bai bringim bagarap long Israel?
+1CH 21:4 Nem mind, tok bilong king i winim Joab. So Joab i go na i wokabaut long ol lakan long graun bilong Isreael, na bai i kam bek gen long Jiusalem.
+1CH 21:5 Na Joab i kam tokim Davide long namba bilong ol soldier olgeta. Long ol Israel, ikam wantaim olgeta, ol i gat 1,100,000 man i bamim sua, na long Judah tu, ol i gat 470,000.
+1CH 21:6 Bare Joab i no inkludim Levi na Benjamin long ol numbusen, bikos tok bilong king em i bagarap tru long em.
+1CH 21:7 Koman yet i kamap olsem bikhet long ai bilong God, na em i kilim Israel.
+1CH 21:8 Na Davidson i tokim God olsem, "Mi go longwe na mi kamakai vakai long dispela wok. Nau mi bai yu yet long tekewe iniquiti bilong mi, for mi wokim ol samting long namba wan folly."
+1CH 21:9 Na Lord i givim instrukshun long Gad, man bilong David we em i luk i go bikos.
+1CH 21:10 “Go na tokim Davit, dispela em i tok bilong LORD: ‘Mi givim yu tri pilihan. Baim wanpela bilong ol, na mi wokim i kam bek long yu.’”
+1CH 21:11 Gad i go na toktok long David, "Dispela em i tok bilong LORD: 'Yu mas pikimuna'"
+1CH 21:12 Bipo tripela yia bilong hangre, tripela mun em bai yu go daun long han bilong eni, ol i kam behainim na katim yupela wantaim sord, o tripela de bilong sord bilong LORD—de bilong sik long graun, na eit bilong LORD i go na bagarapim olgeta hap bilong Israel.’ Nau ole, tingim gutpela we bai mi tokim bek long Em hu mekirim mi.”
+1CH 21:13 Daud i tokim Gad, "Mi birua nogut tru. Lemi go daun long han bilong LORD, bikos merci bilongen i gat planti; tasol no givim mi go daun long han bilong ol man."
+1CH 21:14 Na Bikpela i kirapim sik long ol, na seventy thousand man bilong Israel i dai pinis.
+1CH 21:15 Na God i sendim enjel kam distroi Jerusalem, tasol olsem enjel i wok long mekim dispela, LORD i lukim na i sori long hevi bilong calamity, na em i tokim enjel husat i kirapim ol pipol, “I nap! Kamdaun han bilong yu nau!” Olsem taim em i go, enjel bilong LORD i stanap beside plaun bilong winim kuk bilong Ornan Jebusait.
+1CH 21:16 Wanpela taim David i lukautim igo, na em i siangal long angel bilong Jehovah i stap long bikpela hap graun na hap heven, wantaim sord i stret long han bilong en, i pilakai yet long Jerusalema, David na ol birua yet i birua yet, ol i go daun yet, kaliko blak ol i wapim.
+1CH 21:17 Na Daud i tokim God, “Nau ai mi yet i givim oda long kauntim ol pipol? Mi yet, mi bin sin na wokim ol samting nogut. Tasol ol sip bilong mipela, ol i mekim wanem? O LORD God bilong mi, leg God yu yet, bihainim mi na haus bilong papa bilong mi, tasol no givim disela plak bai istap long pipol bilong yu.”
+1CH 21:18 Enjel bilong LORD i tokim Gad long tokim Davit long go ap na bikim alta long pilai bilong winim buk bilong Ornan Jebusait, olsem LORD i laik.
+1CH 21:19 Na Daud i go ap long toktok Gad i tok long nem bilong Jehovah.
+1CH 21:20 Na Ornan em i stap kukim waet, em i tornarong na lukim enjel; na fourpela pikinini bilong em i hidim yet.
+1CH 21:21 Daud i kam bek long Ornan, na Ornan i lukim na i si Daud, na em i lusim ples bilong en pinisim ka na i katim gris long graun bifo Daud.
+1CH 21:22 Na David i tokim Ornan olsem, "Givim mi dispela ples we yumai i kamdaun i stap, na mi bai mekim wankain altar long LORD. Sellok impas long mi long prais i kamap tru, na dispela bikpela sik long ol manmeri bai i stap, na i no go bek."
+1CH 21:23 Ornan i tokim David, “Papa bilong yu king bai karim bek ol samting i luk gut long en. Mipela bai givim oksen bilong ofa burntem, wesen bilong mipela i wokim daun graas bilong timber, na wheat bilong ofa grain – mipela bai givim everything.”
+1CH 21:24 “Nogat,” King Davide i bekim tok, “Mi laik pei prais olgeta, bikos mi no ken kisim bilong yu na givim long LORD, na mi no ken ofa saklis olsem samting we nogat kos bilong mi.”
+1CH 21:25 Na Davide peim Ornan siksandan sikel bilong gol long ples.
+1CH 21:26 Na em i go bek gen, na em i bikim wanpela altar long Jehovah, na em i bringim ofring bilong bun na ofring bilong peis. Em i kolim namel long Jehovah, na Jehovah i ansa em wantaim faia kom dawn from heven long altar bilong ofring bilong bun.
+1CH 21:27 Bikpela i tokim enjel, na enjel i putim sop bilong en bak long sip.
+1CH 21:28 Long taim ia, wennem David i lukim LORD i givim ansa long em long ples bilong wasim kunai bilong Ornan bilong Jebusait, na em i bringim sakrifis long hap ia.
+1CH 21:29 Haus lotu bilong LORD, Mosis i mekim long bus, na sten bilong ofa i go daun, ol i stap yet long ples hait bilong Gibeon.
+1CH 21:30 Daubid inabe i no go pasim for asking longlong bilong God, bikos em i bin poret long sowrd bilong ein bilong LORD.
+1CH 22:1 Na Davidson i tok, "Haus bilong God LORD bai istap hia, olsem na altabila bilong ofing bung long Israel."
+1CH 22:2 Na Davidson i givim tok, ol i kam na katim ston long graun bilong Israel, na em i apointim man bung wantaim ston i katim, ol i preparim ston i redi long warkim haus bilong God.
+1CH 22:3 Dauid i givim planti ain long wokim nei bilong nales long door bilong gatpes, na wantaim pipia, tasol bronz i pauli, nogat wei bilong mekim pes.
+1CH 22:4 Na i gat planti cedar log olsem ya no ken kauntim; ol Sidian na Tairen i bringim planti cedar log i kam long Daved.
+1CH 22:5 Na Daud i tok, "Pikinami Solomon i yangpela na nogat save, na haus bilong LORD ili bikim winim win longlong - gutpela tumas na swit moa long ol kantri. Olsem na mi mas sikirim ol samting bilong en." Na Daud i mekim bikpela i go longwe bilong en bifo em i dai.
+1CH 22:6 Na Davidson i singautim pikinini bilong em, Solomon, na i givim em tok instrukshun long bilum haus bilong LORD, God bilong Israel.
+1CH 22:7 Olsem Davide i tokim Solomon, "Pikinami, em i stap long het bilong mi bai mi bilirn haus long nem bilong LORD God bilong mi.
+1CH 22:8 Dispela tok bilong LORD i kam long me: ‘Yu kilim planti man na yu wokim bikpela faits. Yu no ken buildim haus lotu bilong Nem bilong Mi, wantaim yu kilim planti man, na blod i stap graun bifo Mi.’
+1CH 22:9 Wanpela pikinini man bai i kam long yu, em bai man bilong ripos. Mi bai givim em ripos long ol enimi bilong en long ol sait, wantaim nem bilong en Solomon, na mi bai givim Israel pis na stil long tain bilong king em.
+1CH 22:10 Em i man husat bai baim house long Nem Bilong Mi, na em bai bekim pikinini bilong Mi, na Mi bai bekim Papa bilong em, na mi bai stretem tron bilong ples bilong en long Israel foreva.
+1CH 22:11 Nau, pikinini bilong mi, mipela i hop LORD i stap wantaim yu, na yu kamap strong na wakem haus bilong LORD, olsem Bikpela i tok olsem.
+1CH 22:12 Long olgeta hap, mipela i kirapim yu, na Bikpela i givim yu tingim i gut, na save nogut, wanpela taim em i stap i go het long yu, na yu i kisim bos bilong Isrel, bikos yu mas mekim gut Lo bilong Bikpela, God bilong yu.
+1CH 22:13 Yu bai win, mipela yumi bihainim ol loa na rul bilong Bikpela i givim long Mosese long Isrel. Katim gras na i stap strong, no ken kirap na no ken bikim bel.
+1CH 22:14 Nau mi lukim, mi bin i go longwe na kisim hap bilong planti wok long haus bilong LORD—100,000 talents bilong gol, 1,000,000 talents bilong silva, bronz na ain tu bikpela tru olsem no ina wei bilong mekim em i go daun. Mi bin i kisim timba na stoan, na yu ken kisim moa long ol.
+1CH 22:15 Yu tu gat planti wokman: ol man husat i katim ston, ol mason, ol karpenta, na ol man husat i gat save long olgeta kain wok –
+1CH 22:16 Long ol gold na silva, bronzi na airen—ol wokman i gat planti tumas. Nau yu kam statim wok, mipela hop LORD i stap wantaim yu.
+1CH 22:17 Na Davide i tokim ol bikpela leda long Israel, ol i mas helpim pikinini Solomon blong em.
+1CH 22:18 Em i no LORD God bilong yu stap wantaim yu, na em i givim yu rip os bilong yu long olgeta sait? Tasol em i givim ol man meri bilong graun i go long mi, na graun i bin kukim pinis bifor LORD na ol pipol bilong em.
+1CH 22:19 Nau plantim het bilong yu na soul bilong yu long sori long Bikpela LORD, na bikim haus lotu bilong Bikpela LORD God, na kisim bokis bilong kaen covenant bilong LORD, na samting bilong halivim bilong God, i go insait long haus lotu em bai i bikim long Nem bilong LORD.
+1CH 23:1 Taim Daoud i olsem old pinis, na em bungim Solomon pikinini bilong em i go bek king long hap bilong Israel.
+1CH 23:2 Em i kam bek long olgeta bikman bilong Israel, olsem na ol prist na Levaita.
+1CH 23:3 Ol Levait i 30 yia na ova, ol i bin kauntim, na namba bilong ol man i kamap 38,000.
+1CH 23:4 Long ol dispela, tok David, 24,000 i mas lukautim wok bilong haus bilong Lod, 6,000 i mas ofisa na juj.
+1CH 23:5 4,000 i mas bekim gatemana, na 4,000 i mas givim pepepe long LORD wantaim instrument mi bin mekim bilong givim pepepe.
+1CH 23:6 Na David i divelopim Levit ol i go long longolong divison, olsem hap bilong Levi: Gesom, Kohat, na Merari.
+1CH 23:7 Ol Gershonites: Ladan na Shimei.
+1CH 23:8 Ol pikinini bilong Ladan: Jehiel em i namba wan, Zetham, na Joel—ol three tasol.
+1CH 23:9 Ol pikinini bilong Shimei: Shelomoth, Haziel, na Haran – ol i three tasol. Dispela i ol bikpela hap bilong lain bilong Ladan.
+1CH 23:10 Na ol pikinini bilong Shimei: Jahath, Zina, Jeush, na Beriah. Dispela i ol pikinini bilong Shimei – foa bilong olgeta.
+1CH 23:11 Jahath em i namba wan, Zizah em i namba tu; Jeush na Beriah ol i no gat planti pikinini man, olsem ol i kamap wan famili tasol na ol i kisim wok singel.
+1CH 23:12 Ol pikinini bilong Kohat: Amram, Izhar, Hebron, na Uzziel – foa olgeta.
+1CH 23:13 Ol pikinini bilong Amram: Aron na Moses. Aron na ol desenden bilong en i stap apart oltaim long sakem samting namba wan holigren, long bunim smok go long ples bilong LORD, long minista long en, na long givim bekim tok bilong blesim long nem bilong en oltaim.
+1CH 23:14 Long Moses man bilong God, ol pikinini bilong em i kolim long klab bilong Levi.
+1CH 23:15 Ol pikinini bilong Moisi: Gesom na Eliesa.
+1CH 23:16 Ol desenden bilong Gershom: Shebuel em i kam first.
+1CH 23:17 Ol desenden bilong Eliezer: Rehabiah em i namba wan. Eliezer i no gat narapela pikinini man, tasol pikinini bilong Rehabiah i plenti tumas.
+1CH 23:18 Ol pikinini bilong Izhar: Shelomith em i kam first.
+1CH 23:19 Ol pikinini bilong Hebron: Jeriah em i kam first, Amariah em i sekend, Jahaziel em i thard, na Jekameam em i foa.
+1CH 23:20 Ol pikinini bilong Uzziel: Mika em i kam first, na Ishaya em i kam sekond.
+1CH 23:21 Ol pikinini bilong Merari: Mahli na Mushi. Ol pikinini bilong Mahli: Eleazar na Kish.
+1CH 23:22 Eleazar i dai pinis, em i katim meri tasol, i no gat man. Brata bilong papa bilong ol, ol bilong Kish, i maritim ol.
+1CH 23:23 Ol pikinini bilong Mushi: Mahli, Eder, na Jeremoth – ol i go tripela tasol.
+1CH 23:24 Ol desenden bilong Levi, ikam long oleta famili, het bilong oleta famili, ol i skrivim nem bilong ol yet, wanwan, ol twenty yia na i go long, o posin, ol i wok long servos bilong haus bilong LORD.
+1CH 23:25 Daud i tok olsem, "LORD, Bikpela God bilong Israel, i givim pes bilong ol pipol na i kam stap long Jerusalem foreva."
+1CH 23:26 Nau Levitiko igat nau olsem, inogat karim tabenakil na sampela samting long servisse bilong en.
+1CH 23:27 Long taim bai i go pinis, olsem laik bilong Daavid, Levait pipol we olgeta i gat twenty yia na i go antap long dispela, ol i kan.
+1CH 23:28 Bai wok bilong ol i kam ap long helpim ol desendan bilong Aron wantaim servis bilong haus bilong LORD, ol i mas lukautim ples na rum bilong kot, puripikेशन bilong ol samting bilong haliv, na wok bilong servis bilong haus bilong God.
+1CH 23:29 Na olsem tu long ol rols bilong bred bilong sho, flauer fini bilong ofing bilong grin, wafers bilong bred em i no gat yeast, bikim bread, mixim samting, na olgeta hap bilong em, olsem namba na sait.
+1CH 23:30 Oli mas stap strong olsem kila maunin na apinun long givim sankyu na prais long PAPA GOD, na olsem tu oli mas sanap strong long naitai.
+1CH 23:31 Long taim husat ofa em i paul i kamap long ples bilong Bikpela, ol i wokim servis bilong ol olsem oltaim bifor Bikpela long Dei Bilong Rip, Mun Nupela, na Dei Bilong Kaikai Husat i Save, ol i gat namba husat i kamap long kanon bilong ol.
+1CH 23:32 Levaitis i mas wokim ol responisbiliti long han long Haus bilong Miting na Haliv Ples, na aninit long brata bilong ol, desenden bilong Aron, ol i mas mekim sisa bilong haus bilong LORD.
+1CH 24:1 Em i stap long divison olsem bilong ol desenden bilong Aron. Sons bilong Aron i stap: Nadab, Abihu, Elezar, na Itamar.
+1CH 24:2 Nadab na Abihu i dai pinis bipo papa bilong ol i dai yet, na ol i no gat pikinini man; olezet Eleazar na Ithamar i warkim pastor.
+1CH 24:3 Long help bilong Eleaza pikinini bilong en Zadok na Ithama pikinini bilong en Ahimelek, Daud i divelopim ol long olsem ofis bilong wok bung.
+1CH 24:4 Bikos ol i finim planti moa lida long ol desenden bilong Eleazar, ol i dividim ol narapela. Na was sais hap bilong papa na mama i kam long desenden bilong Eleazar, na eit bilong ol i kam long desenden bilong Ithamar.
+1CH 24:5 Ol i divelop long rot, wantaim ol i gat ofisa bilong haiwe haus na ofisa bilong God long ol descent bilong Eleazar na Ithamar.
+1CH 24:6 Skaibe Shemaiah, pikinini bilong Nethanel, wanpela Levite, i rakim nem bilong ol long han bilong king na ofisa: Zadok prist, Ahimelech, pikinini bilong Abiathar, na hed bilong papa graun bilong prist na Levites – em i tekin wanpela famili bilong Eleaza, na bihain em i tekin wanpela famili bilong Ithama.
+1CH 24:7 Em i go daun na pasim long namba wan, Jioarib i kisim tiket bilong namba wan, na namba tu i go long Jedaya.
+1CH 24:8 Namba tri i go long Harim, namba foa i go long Seorim,
+1CH 24:9 Namba faiv i go long Malchijah, namba sikis i go long Mijamin,
+1CH 24:10 Namba seven i go long Hakkoz, namba eight i go long Abijah,
+1CH 24:11 Namba nain i go long Jeshua, namba ten i go long Shekaniah,
+1CH 24:12 Nambatuwan i go long Eliashib, nambatuluv i go long Jakim,
+1CH 24:13 Nambatu thirteen i go long Huppah, nambafourteen i go long Jeshebeab,
+1CH 24:14 Kauntim fifteenth i go long Bilgah, kauntim sixteenth i go long Immer,
+1CH 24:15 Nambatu seventeen i go long Hezir, nambatu eighteen i go long Happizzez,
+1CH 24:16 Nambatu klak i go long Pethahiah, nambatu ein i go long Jehezkel,
+1CH 24:17 nambis twenty-one i go long Jachin, nambis twenty-two i go long Gamul
+1CH 24:18 Kaunti twenty-three i kam long Delaiah, na kaunti twenty-four i kam long Maaziah.
+1CH 24:19 Dispela em i nau ordar bilong servis ol i go long, wen ol i go insait long haus bilong LORD, ol i bihainim ol ru na loa, olsem tumbuna Aaron i bin statim long loa, olsem LORD, God bilong Israel, i bin tokim em.
+1CH 24:20 Nau dispela i stap ol lain bilong Levi we i stap nabaut: Long ol pikinini bilong Amram: Shubael; long ol pikinini bilong Shubael: Jehdeiah.
+1CH 24:21 Long Rebahia, long ol pikinini bilong em, em i kam first, na em i Issiya.
+1CH 24:22 Long ol descendent bilong Izhar: Shelomoth; long ol pikinini bilong Shelomoth: Jahath.
+1CH 24:23 Long ol pikinini bilong Hebron: Jeriah em i kam first, Amariah em i sekond, Jahaziel em i thurd, na Jekameam em i foa.
+1CH 24:24 Long ol pikanini bilong Uzziel: Mikah; long ol pikanini bilong Mikah: Shamir.
+1CH 24:25 Braza bilong Mikah: Isaya; long ol pikinini bilong Isaya: Zekaria.
+1CH 24:26 Ol pikinini bilong Merari: Mahli na Mushi. Pikinini bilong Jaaziah: Beno.
+1CH 24:27 Ol desenden bilong Merari long Jaaziah: Beno, Shoham, Zaccur, na Ibri.
+1CH 24:28 Long Mahli i kam: Eleazar, ol i no gat pikinini man.
+1CH 24:29 Long Kish: Jerahmeel, man bilong Kish.
+1CH 24:30 Na ol pikinini bilong Mushi: Mahli, Eder, na Jerimoth. Dispela i ol pikinini bilong Levitai, olgeta long famili bilong ol.
+1CH 24:31 Ol desenden bilong Aron, ol brata bilong ol, ol kirapim ston tu long hap bilong King Davide na Zadok, Ahimelek, na lidaman bilong famili bilong pris na Levit - ol i mekim wankain long hap bilong ol papa bilong famili na ol brata bilong ol, bikos ol i gat lain bilong pris.
+1CH 25:1 David na ofisa bilong army i setim apikinini bilong Asaf, Heman, na Jedutan long tok bilong Spirit wantaim saund bilong gita, hap, na simbal. Dispela em i list bilong man husat i wokim dispela servisis:
+1CH 25:2 Long ol pikinini bilong Asaf: Zakur, Joseph, Netania, na Asarela. Ol pikinini bilong Asaf i bin stap long han bilong direksion bilong Asaf, em i bin tokaut long han bilong direksion bilong king.
+1CH 25:3 Long ol pikanini bilong Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, na Mattithiah—six altogether—ol i go unda bos bilong tupa Jeduthun, ol i profesi wantaim harp, givim sankyu na prais long LORD.
+1CH 25:4 Long ol pikanini bilong Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, na Mahazioth.
+1CH 25:5 Ol pikinini bilong Heman, man prophets bilong king, ol i givim i kam bek long promis bilong God, long bringim em i go hap, bikos God i givim Heman fourteen ol pikinini man na three ol pikinini meri.
+1CH 25:6 Olgeta i go bek long papa bilong ol long musik bilong haus bilong LORD, wantaim symbal, hap, na laip, long sabis bilong haus bilong God. Asaf, Jedutan, na Heman, ol i go bek long king.
+1CH 25:7 Wanpela wantaim ol famili bilong ol, ol i skulim na save long sang bilong LORD, ol i kauntim 288.
+1CH 25:8 Ol i kirapim ston long wok bilong ol, liklik na bikpela olsem wan, tisa wantaim student.
+1CH 25:9 Lot namba wan, em i go long Asaph, i kam bek long Joseph, pikinini bilong en, na brata bilong en—olgeta 12; namba tu i go long Gedaliah, pikinini bilong en, na brata bilong en—olgeta 12.
+1CH 25:10 Na dispela tript i go long Zakkur, na ol pikinini bilong em, na ol brata bilong em – 12 olgeta;
+1CH 25:11 Namba foa i go long Izri, na ol pikinini na ol brata bilong em – ol twelv hap.
+1CH 25:12 Kaia numba faiv i go long Nethaniah, ol pikinini bilong em, na ol brata bilong em—12 olgeta;
+1CH 25:13 Namba sikis i go long Bukkiah, ol pikinini bilong em, na ol brata bilong em—12 altogether;
+1CH 25:14 Namba sevhen i go long Jesarelah, ol pikinini bilong em, na ol brata bilong em—12 olgeta;
+1CH 25:15 Namba eyt i go long Jesaia, na ol pikinini bilong en, na ol brata bilong en – 12 altogether;
+1CH 25:16 Nain bilong Mattaniah, ol pikinini bilong em, na ol brata bilong em – 12 olgeta;
+1CH 25:17 Namba ten i go long Shimei, na ol pikinini na ol brata bilong em – ol i kamap twelev insait.
+1CH 25:18 Namba eleven i go long Azarel, ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:19 Numa 12 ibin go long Hashabiah, ol pikinini bilong em, na ol brata bilong em – olem 12 altogether.
+1CH 25:20 Namba thirteen i go long Shubael, ol pikinini bilong em, na ol brata bilong em – olgeta 12.
+1CH 25:21 Namba fotin bihain i go long Mattithiah, ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:22 Namba fifteenth i go long Jeremoth, ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:23 Namba sixteen i go long Hanania, na ol pikinini bilong em, na ol brata bilong em – ol i kamap 12 altogether.
+1CH 25:24 Namba seventin i go long Joshbekashah, na ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:25 Numa etin de Hanani, ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:26 Namba nainteen i go long Mallothi, ol pikinini bilong em, na ol brata bilong em – 12 altogether;
+1CH 25:27 Namba twenty ikam long Eliathah, ol pikinini bilong em, na ol brata bilong em – 12 olgeta;
+1CH 25:28 Namba twenty-one i go long Hothir, ol pikinini bilong em, na ol brata bilong em—12 olgeta;
+1CH 25:29 Numbu twenty-two i kam long Giddalti, ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 25:30 Nambatu twenty-thri i go long Mahazioth, ol pikinini bilong em, na ol brata bilong em – olgeta twelve.
+1CH 25:31 Na twenti-fō i go long Romamti-ezer, na ol pikinini bilong em, na ol brata bilong em – 12 olgeta.
+1CH 26:1 Ol divisen bilong ol wokman long gate: Long ol desenden bilong Korah, Mesilemia, pikinini bilong Kore, em i wanpela long ol pikinini bilong Asap.
+1CH 26:2 Meshelemiah i gat pikinini ol: Zechariah em i namba wan, Jediael em i namba tu, Zebadiah em i namba tri, Jathniel em i namba foa.
+1CH 26:3 Elam namba faiv, Jehohanan namba sikis, na Eliehoenai namba seven.
+1CH 26:4 Na Obed-edom i gat ol pikinini: Shemaiah em i nambatu, Jehozabad em i nambatri, Joah em i nambarfoa, Sachar em i nambafour, Nethanel em i nambarfaif.
+1CH 26:5 Ammiel em sixpela, Isakara em sevempela, na Peullethai em eitpela. Bikos God i givim planti luk long Obed-edom.
+1CH 26:6 Na long pikinini Shemaiah, ol i kamap pikinini man, na ol i bosim pamily bilong ol, bikos ol i strong, ol i gat save, na ol i ken lidim pamily bilong ol.
+1CH 26:7 Pikinini bilong Shemaiah i mekim Othni, Rephael, Obed, na Elzabad; na brata bilong em i Elihu na Semachiah, ol man strong tu.
+1CH 26:8 Ol desenden ol i kam bek long famili bilong Obed-Edom, ol man strong na save wok, na ol brata na ol pikinini bilong ol, ol i gat strength long wokim wok - 62 ol i kam bek long Obed-Edom.
+1CH 26:9 Na Meshelemiah i gat ol pikinini tu na brata bilong en ol man strong, 18 olgeta.
+1CH 26:10 Hosah bilong Merari i gat pikinini, na Shimri em i namba wan, maski em i no pikinini bilong papa, tasol papa bilong en i bin apointim em long namba wan.
+1CH 26:11 Hilkiah em i sekond, Tebaliah em i thard, na Zechariah em i foa. Ol pikinini na ol brata bilong Hosah i gat 13 olgeta.
+1CH 26:12 Ol divishen bilong ol gatemana, ol i go pas long ol bikpela man, ol i gat wok long sarvis long haus bilong LORD, olsem brata bilong ol i mekim.
+1CH 26:13 Ol i kirapim ston long liklik gate na bikpela gate, ol i kamapo long ol famili bilong ol, na ol i go long yutpi na olopas olgeta.
+1CH 26:14 Pilai bilong Get Isten i go long Shelemiah. Ol i kastim pilai, na pilai i kamap long pikinini Zechariah bilong em, em i kanselor i gat save, na pilai bilong Get Nort i go long em.
+1CH 26:15 Lot bilong Saut Gate i go long Obed-edom, na lot bilong ples bilong kisim ka i go long pikinini bilong em.
+1CH 26:16 Ol ka bilong Get Weston na Get Shallecheth long rod i go ap inem asign long Shuppim na Hosah. Ol ka i stap yet long ol wach bilong taim.
+1CH 26:17 Long olgeta de, na i gat sikis Levit long sindaun bilong sun, fo a long not bilong kantry, fo a long saut bilong kantry, na tu pe i stap klostu long ples bilong storim samting.
+1CH 26:18 Long kaunti long wes, em i gat foa long rot na tu long kaunti.
+1CH 26:19 Ol divison bilong ol gatman i go we ol desenden bilong Korah na Merari.
+1CH 26:20 Nau ol felo Levait bilong ol i lukautim haus moni bilong haus bilong God na ol samting bilong winim God.
+1CH 26:21 Long ol descent bilong Ladan, ol i bin Gershonites thru Ladan, na ol i bikpela hap bilong papa graun bilong Ladan dispela Gershonite, em i Jehieli.
+1CH 26:22 Ol pikinini bilong Jehieli, Zetham, na brata bilong em Joel, ol i kam bek long lukautim ol tresori bilong haus bilong LORD.
+1CH 26:23 Long ol Amramit, long ol Izharit, long ol Hebronit, na long ol Uzzielit:
+1CH 26:24 Shebuel, wan pikinini bilong Gershom, man bilong Moses, em i ofisa i stap long hap bilong haus moni.
+1CH 26:25 Ol famili bilong en long paipo Eliezer i inkludim Rehabiah pikinini bilong en, Jeshaiah pikinini bilong en, Joram pikinini bilong en, Zichri pikinini bilong en, na Shelomith pikinini bilong en.
+1CH 26:26 Dispela Shelomith na brata bilong en i kam long kontrolim ol haus bilong moni na gol we wail dedikeitom long King Dauid, long hed bilong papa na mama ol komanda bilong tausen na hundres, na long komanda bilong armi.
+1CH 26:27 Ol i makim dediket planti bilong ol faits long wokim gut aus hus bilong LORD.
+1CH 26:28 Olgeta samting we i bin dediki long taim bilong Samuel man prophet, Saul pikinini bilong Kish, Abner pikinini bilong Ner, na Joab pikinini bilong Zeruiah, wantaim olgeta narakain samting we i bin dediki, i bin stap aninit long han bilong Shelomith na brata bilong em.
+1CH 26:29 Long ol ples Izhar, Chenaniah na ol pikinini bilong en i gat wok long hap bilong otside olsem ofisa na jaj ibilong Israel.
+1CH 26:30 Long Hebronites, Hashabiah na ol famili bilong em, 1,700 man meri strongpela, ol i lukautim wok bilong Israel wes sai bilong Joden, long olgeta wok bilong LORD na long sabis bilong king.
+1CH 26:31 Long ol Hebronit na, Jerija em i bikpela long ol Hebronit, olsem genalogi bilong tumbuna i go daun. Long yia 40 bilong rein bilong King Davide, ol i saachim bek long buk, na ol man strong na Save long ol Hebronit i kamap long Jaza inside Gilead.
+1CH 26:32 Long ol famili bilong Jerijah, i gat 2,700 ol man strong na i save lidim papa graun, King Davit i apoinim ol long Ol Reuben, Ol Gad, na hap tribe bilong Manase, ol i wok long ol samting we i kamap bilong God na bilong wok bilong king.
+1CH 27:1 Dispela em i lis bilong Israelait, ol bikpela hap bilong pamilia, kapten bilong tausen na hundres, na ofisa bilong ol i sarve king long ol samting bilong grup bilong solja i kam bek long wok bilong solja long mun bilong yia. Long kila dividion, em i gat 24,000 man:
+1CH 27:2 Jashobeam, pikinini bilong Zabdiel, em i bos bilong hap diwison, em i kamap long mun wanpela. Na ol man 24,000 i stap long diwison bilong em.
+1CH 27:3 Em i bikpela desenden bilong Perez, na em i big man bilong ol komanda bilong army long mun em i kam first.
+1CH 27:4 Dodai Ahohite em i bos long divelop bilong mun two, na Mikloth em i bikpela man long en. Longpela grup bilong en, em i gat 24,000 ol man.
+1CH 27:5 Komanda bilong thiird ples bilong army, olsem chief bilong mun thiird, em i Benaiah sambai bilong Jehoiada priis. Na ol i gat 24,000 man long divison bilong em.
+1CH 27:6 Dispela Benaiah i strong tumas long ol Thirty, na em i bos long ol Thirty, na yanem Ammizabad i lukautim kompi ani.
+1CH 27:7 Namba foa, long mun namba foa, em i brata bilong Joab, Asahel, na son bilong em, Zebadia, i bos bihain long em. Na ol man i kamap 24,000 long hap bilong em.
+1CH 27:8 Kaun fim, long mun fim, em i komanda Shamhuth man Izrah. Na ol i gat 24,000 man long divison bilong en.
+1CH 27:9 Nambatu, long mun nambatu, na Ira sussa bilong Ikkesh man Tekoait. Na i gat 24,000 man long hap bilong en.
+1CH 27:10 Namba seven, long mun namba seven, em i Helez bilong Pelonite, man bilong Ephraim. Na ol i 24,000 man long kompi ani.
+1CH 27:11 Namba eyt, long mun eighth, em i Sibbecai man Hushathite, Zerahite desendan. Na i gat 24,000 man long divison bilong em.
+1CH 27:12 Namba nain, long namba nain mun, em i Abiezer Anathothite, man bilong Benjimin. Na ol i gat 24,000 man long hap divison.
+1CH 27:13 Namba ten, long mun namba ten, em i Maharai man Netofati, wanpela man Zera. Na ol i gat 24,000 man long kompi na.
+1CH 27:14 Namba eleven, long namba eleven mun, em i Benaiah man bilong Pirathon, wanpela man bilong Ephraim. Na ol i gat 24,000 man long hap bilong em.
+1CH 27:15 Namba twelve, long mun twelve, em i Heldai man Netofati, long famili bilong Otniel. Na i gat 24,000 man long hap bilong em.
+1CH 27:16 Ofisa i kam bek long taim bilong Israel: Long ol Reubeni, Eliezer son bilong Zichri i bin bos; Long ol Simeoni, Shephatiah son bilong Maacah i bin bos.
+1CH 27:17 Long Levi em i Hashabiah man bilong Kemuel; long Aaron em i Zadok;
+1CH 27:18 Long Judah i got Elihu, wanpela bilong brata bilong David; long Issachar i got Omri, Pikinini bilong Mikaol.
+1CH 27:19 Long Zebulun, bikman bilong en em Ishmaiah, sot bilong Obadiah; long Naphtali, bikman bilong en em Jerimoth, sot bilong Azriel.
+1CH 27:20 Long long ol Ephraimites na Hoshea sambai bilong Azaziah em i bin kiap; long wanpela hap tribe bilong Manasseh na Joel sambai bilong Pedaiah em i bin kiap.
+1CH 27:21 Long hap-tribe bilong Manase long Gilead em i Iddo, pikinini bilong Zechariah; long Benjamin em i Jaasiel, pikinini bilong Abner;
+1CH 27:22 Na Azarel man bilong Jeroham i stap win long Dan. Ol i bikpela leda long ol trib long Israel.
+1CH 27:23 Daud i no bin kauntim manmeri husat i gat twenti yia na unda, bikos Bikpela i tok olsem, em i mekim Israel i kamap olsem sta bilong heven.
+1CH 27:24 Joab san bilong Zeruiah i statim kauntim ol man, tasol em i no kamap yet. Bikos long dispela kauntim, ros i kam long Israel, na namba i no raitim long Buk bilong Stori bilong King Dauid.
+1CH 27:25 Azmaveth, pikinini bilong Adiel, em i bos long ples bilong ka bilong king. Jonathan, pikinini bilong Uzziah, em i bos long ples bilong ka long kantri, long taun, long vilij, na long ples bilong wara.
+1CH 27:26 Ezri pikinini bilong Chelub i stap long ples bilong bos bilong ol wokman long graun ol i wokim gras na tilim graun.
+1CH 27:27 Shimei bilong Ramathite em i lukautim painim ka. Zabdi bilong Shiphmite em i stap long ples bilong kam apim produis bilong painim ka long tanks bilong wain.
+1CH 27:28 Baal-hanan Gederite em i bos bilong oлив treis na sukomore treis long bun legis. Joash em i bos bilong hap bilong stua bilong oil bilong oliv.
+1CH 27:29 Sitrai man bilong Soron em i bos bilong ol bulmakau i stap long hap bilong Soron, ol i kaikai gras. Safat, pikinini bilong Adlai, em i bos bilong ol bulmakau i stap long valis, ol i kaikai gras.
+1CH 27:30 Obil bilong Ol Descendant bilong Ishmael em i bos bilong kamel. Jehdeiah bilong Ol Meronothite em i bos bilong donki.
+1CH 27:31 Jaziz bilong Hagrite i bin bos long ol hek. Ol ofsara ol i bin bos long papa graun bilong King David.
+1CH 27:32 Dadi bilong David, Jonathan em i wan counselor; em i man bilong save na scribe. Jehiel sussa bilong Hachmoni i lukautim pikinini bilong king.
+1CH 27:33 Ahithophel em i konsela bilong king. Hushai Arcite em i poroman bilong king.
+1CH 27:34 Ahithofel em i kam bihain long Jehoiada pikinini bilong Benaia, na bihain ol i kam Abiatar. Joab em i kapten bilong army bilong king.
+1CH 28:1 Nau Davide i kirapim olgeta bikman bilong Israel long Yerusalem: olgeta bikman bilong tribe, olgeta bikman bilong divison insait long servis bilong king, komanda bilong tausen na bilong hundret, na ofisa i lukautim olgeta propati na kuk bilong king na pikinini bilong en, wantaim na ofisa bilong kot na ol strongpela man—ol strongpela man we i gat strong.
+1CH 28:2 King Daudo em i kam daun na i sanap, na em i tok, "Husait, harim tok bilong mi, brata na piple bilong mi. Em i stap long het bilong mi long mekim wanpela haus olsem ples bilong katim na isap long bokis bilong kaunsil bilong LORD, na olsem pati bilong foot bilong God bilong yumi. Mi bin mekim ol samting i rede long mekim em.
+1CH 28:3 Masintai i tokim olsem long me, ‘Yumi no ken buildim haus bilong Nem blo Mi, bikos yu man bilong pait, yu kilim man olsem na pilim blod.’
+1CH 28:4 Yet Lod, Papa God bilong Israel, em i piksim me long olgeta haus bilong papa bilong me king olsem long Israel. Olsem nau em i choosim Juda olsem lidia, na em i choosim haus bilong papa bilong me long haus bilong Juda, na em i bikpela long me long olgeta susa bilong papa bilong me, bekim me king olsem long ol Israel.
+1CH 28:5 Na long ol pikinini bilong mi - bikos LORD im givim mi planti pikinini, em i choisim Solomon pikinini bilong mi olsem em i go sitten long thrown bilong ples bilong LORD iben long Israel.
+1CH 28:6 Em i tokim olsem long me, ‘Solomona pikinini bilong yu em i bai ibilum haus bilong Mi na kot bilong Mi, bikos Mi pilim em long me olsem pikinini bilong Mi, na Mi bai kamap Papa bilong em.
+1CH 28:7 Bai mi kamapim kingdam bilong en foreva, if i sori em i wankain strong long mekim komanda na lo bilong ples bilong mi, olsem ol i mekim tude.
+1CH 28:8 Nau long ol geta bilong yumi yet Israel, mobilization bilong ol pipol long LORD, na long hering bilong God bilong yumi, yumi mas kisim strongim na salim ol tok bilong LORD, bambai yumi bai ken bamim dispela gudan graun, na livaim em i go daun long generations bilong yumi foreva.
+1CH 28:9 Long yu, Solomon bilong mi, save long God bilong papa bilong yu na servim God olgeta haptim na wantaim mit bilong yu i stap redi, bikos LORD i lukim hap bilong ol manmeri na i save long tingting bilong olgeta man. Yusla salim bek bilong soim God, em bai yu kisim bek bilong soim God; bikos if yu livaim God tasol, em bai pilai i lusim yu foreva.
+1CH 28:10 Noken tingim nau, Papa God i pikinim yu long wokim haus bilong hap tumuna. Strong na mekim.
+1CH 28:11 Na David i givim pikanini Solomon plan bilong en long porch bilong haus lotu, na ol haus i go, stoas, rum bilong antap, rum bilong insait, na rum bilong sit bilong mercy.
+1CH 28:12 Plani em i kamapim olgeta samting we David i gat long tingting bilong en, olsem long kothaus bilong haus bilong LORD, long ol rum i karim ol samting narakai long Haus bilong LORD, long ol treasuri bilong haus bilong God na ol samting em i dediket.
+1CH 28:13 Long divisen bilong pries na Levait, long olgeta wok servis insait long haus bilong LORD, na long ol samting bilong servis insait long haus bilong LORD:
+1CH 28:14 Wet bilong olgeta samting bilong gol long olkain kindim sabis; wet bilong olgeta samting bilong silva long olkain kindim sabis;
+1CH 28:15 Wet bilong gol lampstan na lampa bilong ol, inkludivm wet bilong bekim lampstan na lampa bilong en; wet bilong silva lampstan na lampa bilong en, olsem usim bilong bekim lampstan.
+1CH 28:16 Wet bilong gol long wanpela tepol bilong bred bilong sho, na bilong silva long tepol silva;
+1CH 28:17 Wet bilong golde i pinis long ol fork, bol na kapa em i go; wet bilong desk golde yet; wet bilong desk silva yet.
+1CH 28:18 Wet bilong gol we i kamap pinis long altan bilong smel strong; na plenan bilong kar bilong kerubim gol ol i Go Ap long wing na i kambeng kot bilong kaon bilong Bikpela.
+1CH 28:19 Olgeta samting dispela, detels bilong dispela plan, Bikpela i bin mekim klia long mi long pepa wantaim han bilong En.
+1CH 28:20 David i tokim Solomon man bilong en, “Katrung na strongpela, no ken kirapim, na wokim. No ken bilong poret, no ken bikim yu bel kol, bikos LORD God, em i God bilong mi, i stap wantaim yu. Em i no inap failim yu, na em i no inap lusim yu, bifo olgeta wok bilong sarvis bilong haus bilong LORD i kam pinis.
+1CH 28:21 Ol divishen bilong priests na Levites i redi long ol servos bilong haus bilong God, na every man we i laik wok, we i gat ol kain skil, bai i stap long han bilong yu. Ol ofisa na ol pipol i stap long han bilong yu, i go strong.
+1CH 29:1 King Davi tokim assembli olgeta, "Pikinemi Solomon, em i man we God i pikinim, em i yupela na i no save gut. Wok em i bikpela, wantaim dispela haus palas i no bilong man, tasol bilong Bikpela God.
+1CH 29:2 Wantaim olgeta strong bilong me, mi bin mekim ka moni longaus long haus bilong God bilong me—gold long gold samting, silva long silva, bronze long bronze, iron long iron, timber long timber, onyx long setting, turquoise, ol kain ston bilong value, slab bilong marble—all i gat plenti.
+1CH 29:3 Olsem na, bikos mi hamamas long haus bilong God bilong mi, nau mi givim olgeta bilong mi yet long em, gold na silva, longway on top bilong olgeta samting mi bin givim long dispela temwel bilong halivim.
+1CH 29:4 Tri tausen talents bilong gol bilong Ophir na seven tausen talents bilong silva i painim pinis, ol bikim kalsa long wal bilong haus.
+1CH 29:5 Long ol wok bilong gol na silva, na long ol kain wok i mas mekim ol craftsmen i mekim, hu i laik givim himself frei long LORD God today?
+1CH 29:6 Na ol bikpela i stap i lukautim ol hus na famili, ol ofisa bilong ol tribu bilong Israel, ol kapten bilong tausen na bilong hundret, na ol ofisala i wok long wok bilong king, ol givim freli.
+1CH 29:7 Long servise bilong haus bilong God, ol i givim 5,000 talents na 10,000 darics bilong paitim, 10,000 talents bilong silva, 18,000 talents bilong kapsul, na 100,000 talents bilong ain.
+1CH 29:8 Ol husat i gat ston na valuali, ol i givim long treasuri bilong haus bilong Jehovah, na Jehiel Gershonait i lukautim.
+1CH 29:9 Na ol pipel i amamas long givim bel kol bilong ol lidaman, ol i givim long LORD bai ol i laikim na ol i putim holim hart. King David tu i amamas tumas.
+1CH 29:10 Na Davidson blesim LORD long ai bilong olgeta assembli, na tokim: "Yu bai bles, Oh LORD, God bilong papa Israel, long taim bilong klostu go long taim bilong klostu."
+1CH 29:11 Bilong yu, Papa GOD, em i bikpela, powa, winim man, manner bilong winim man, gutpela bilong strongim, olgeta samting long heven na graun i bilong yu. Bilong yu, Papa GOD, em i ples kingdom, Yu em i go hap long olgeta.
+1CH 29:12 Plauna na tetema i kam bek long yu, na yu em i bikpela long olgeta. Long hap bilong yu i gat powa na strong bilong liftim up na givim strong long olgeta.
+1CH 29:13 Nau olgeta, yumi givim sankyu long Bikpela, na yumi praisim nem bilong Yu we i glori.
+1CH 29:14 Mi husat, na husat ol papa bilong mi, olsem mipela inap givim moninga longwey olsem? Olgeta samting i kam bek long yu, na mipela givim bek long yu from Bikpela han bilong yu.
+1CH 29:15 Mipela i kam long ples narapela, na mipela i stap olsem man bus long present bilong yu, olsem ol tumbuna bilong mipela. Dei bilong mipela long graun em i olsem shado, i no gat hope.
+1CH 29:16 O Bikpela, God bilong mipela, long han bilong yu, plenti samting i kam, na mipela warkim haus bilong yu long nem bilong yu we i halo, na olgeta em i bilong yu.
+1CH 29:17 Mi save, Papa bilong mi, yu traiim bel bilong ol man na yu likim long streit. Olgeta samting dispela mi givim frei from hap bilong mi, wantaim bel bilong mi i stap streit, na nau mi lukim pipol bilong yu hu i stap hia givim strongim na kisim hamamas long givim long yu.
+1CH 29:18 O Lod, God bilong papa na tumbuna Abraham, Aisak, na Iserel, strongim dispela laik longwe i stap insait long tingting bilong hert bilong ol pipol, na wokim brata bilong ol i kam long yu.
+1CH 29:19 Givim pikinini Solomon haret i go olsem, nau em i ken kisim strong na mekim ol komando, lo bilong law, na statut ya, na bilum haus bilong yu olsem simbol bilong pawa na otari we mi bin makim preparison long en.
+1CH 29:20 Na Davit i tok olsem, "Papa God bilong yumi em i blesim, Bikpela i blesim." Ol pikinini bilong Israel olgeta i blesim Papa God bilong papa na mama tumbuna ol. Ol i paul ili go na givim respek long Papa God na Kwin.
+1CH 29:21 Nekis dei ol i bringim sakrifis, na ol i bin kisim oltabot ofing long LORD: a tausen bulmakau, a tausen ram, na a tausen lep, wantaem ol i bin bringim draun ofing, na sakrifis narakai i kamap long olgeta Israel.
+1CH 29:22 Na dispela de ol i kaikai na drink wantaim bel hevi long hap bilong LORD. Fo sekend taim, ol i makim Solomon, pikinini bilong David, king, na ol i givim em anointing olsem em i bos, na Zadok olsem pries, tupela i kamap tru long hap bilong LORD.
+1CH 29:23 Na Solomon i go sidaun long trohn bilong LORD olsem king istap long hap bilong papa David. Em i kamap strong, na yupela Israel i harim tok bilong em.
+1CH 29:24 Ol ofisa na ol man bilong strong, olgeta Pikinini bilong King Daivid, i tok tru long King Solomona, papa bilong kantri.
+1CH 29:25 Papa God i givim Solomon bikpela respek long ai bilong ol Israel, na i givim em royal majesti, wanpela kain authority, olsem nau bai no bin givim i go long eni king long Israel bifo em.
+1CH 29:26 Daavid sambai bilong Jesee em i bin king ibilong ol Israel.
+1CH 29:27 Taim bilong paitim bilong David long hap bilong Israel em i stap forty yia - seven yia long Hebron na thirty-three yia long Jerusalem.
+1CH 29:28 Em i dai long taim bilong em yet, plenti yia, plenti mani, na plenti givim respek, na son blong em Solomon i kam bek bihain long em na i bos.
+1CH 29:29 Nau ol samting King David i mekim, long taim bifo na long taim nau, ol i raisim olsem long Buk Baibel Chronicles bilong Samuel Profet, Nathan Profet, na Gad Profet.
+1CH 29:30 Wantaim ol detel bilong en reign, strongpela i go long en, na ol samting i kamap long en na Israel na ol kingdom bilong ol kantri.
